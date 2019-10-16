@@ -1,0 +1,1573 @@
+[]			Hey, let's get a sign
+[0:06:42.4]  So how's your project going so far? Is due on Friday
+[0:06:47.4]  Due on Friday
+[]			 Your Friday next Friday
+[]			 It's too nice Friday
+[]			 Oh, yeah
+[]			 Okay
+[]			 I got it
+[]			 Okay
+[0:07:04.6]  So you have an extra week, huh? Surprised the extra weight, Jake
+[0:07:08.3]  How's it going so far, The product you grew up together, The idea is already on the phone
+[]			 Yes
+[]			 Okay
+[0:07:13.3]  You're ordered a pie and then Okay, good
+[]			 Wonderful
+[]			 So, wait
+[0:07:21.2]  So today's the theories
+[0:07:22.7]  A lecture? Hope you're gonna finish
+[]			 We can finish in pretty much everything you needed for your Probably the one the proposal
+[]			 So what of the U
+[0:07:34.9]  S cases apart on Did talk about how do you assign the each of the roles of our region teams each team member? So they said so basic actually will help you finish that
+[]			 So first it would help a lot of the scrum
+[]			 You remember we talked about a suffer process, Models that we have Ah, the maybe even a summer process Models
+[]			 You have water
+[]			 All models, the rock
+[0:07:58.0]  You know, unify original
+[]			 Unified
+[0:08:04.9]  The process models we have ah, treaty were on the incremental development synchronized that you have with so many even of shop are processed models
+[0:08:13.5]  Not for the past 10 years or so the industry's found
+[0:08:17.5]  You talk about something other than a child meaning ajar, meaning you quickly reacted to, uh, something changes on that
+[0:08:26.4]  It's something is a requirement, because why you tell Catalina with your customer leading with your on the people, You're Steven's stakeholders
+[]			 He often at the beginning, they probably they don't know much about what they want to have
+[]			 But the eyes, the vision, getting much creator
+[]			 They know more and more about a project so the sometimes they keep changing their requirements, which is a very, very normal
+[]			 So you use the, uh in order to quickly respond to the keep changing requirements
+[0:08:55.1]  And so they have this movement called Age I'll I joins the meaning quick
+[0:08:57.8]  Another quick opinion quickly change into the ER requirements
+[0:09:06.7]  Is it really The water idea also responded to so many of the jails
+[0:09:07.2]  Today we talk about a scrum, which is he would talk about the menu given the industry right now that you have to squat in practice
+[]			 So this lecture we talk about what is this Squam? And that was the base of the functionalities of a squad
+[]			 See you as a team
+[0:09:21.9]  Also, you have a four students
+[0:09:24.2]  He went team on your your literary You're a scum team
+[0:09:28.0]  And how do you practice your york? Even, uh, your rolls, your functions
+[0:09:37.0]  How do you for fuel? Your your the tasks of that he laid ahead of you
+[0:09:40.9]  So how do you want to have it? Even a schooI mama
+[0:09:44.3]  Uh, practice of schooI Mora returns back table on to review your practice
+[]			 And how do you change you for the next time I get invite her
+[0:09:51.7]  And how do you want to eat? Rich, hateful developer mention
+[0:10:06.9]  And how do you break the bigger task in your small A task? So this is really the What is Squam is about What? You So this is How about what is the scrum A's in the old? Not only in a traditional stuff red convertible model, we have something classic
+[0:10:19.2]  The method that is they have many other vantage is is very systematic on a very cool to go with documentation along the way, you have a requirement that occupation, architecture, documentation you have testing cases and you have a poster development
+[0:10:26.8]  How do you do the making its evolution? Meanwhile, he also has a lot of these other entities
+[0:10:34.8]  Meaning is heavy, which, why we say heavyweight is they put a lot of emphasizing planning
+[0:10:42.2]  So before they even devoto any develop woman's let's do Avery, Thor, Rick or Mints Documentation
+[0:10:51.5]  Let's have one of our good architectural design, and then they get into your argumentation
+[]			 But those of most of time those of you take your problems
+[0:10:55.5]  1/3 of the whole development cycle takes a too long time to get into something tangible, and also is that they don't have a rep change off your designs to re to respond that fast
+[]			 The change requirements
+[0:11:13.8]  Because customer keep a change of the requirements of Virginia, they are their designs
+[0:11:17.2]  When they see something, you know, they wanna keep a chignon
+[0:11:18.9]  Maybe what you pretend to is not what are they having in our mind? So that's it
+[0:11:31.2]  There's some my own the inconsistency between what? Your design on this the customer needs you, and also we treated the way of sovereignty
+[0:11:32.6]  Wonder Woman
+[0:11:33.7]  She's just like a manufacture, just like a beauty up rage building a car industry Toyota car
+[0:11:43.1]  So they have the Colina processes visit Whether we really learned from the poet, huh? The current manufacturer
+[0:11:49.9]  So we shouldn't subterfuge divided women that like a manufacturer
+[]			 Meaning you have a beautiful, wonderful designer for your even a part of this car
+[0:12:08.1]  And then you that angel production what a software is and also like a night Because, Sosa, we're seeing tangible, so to respond, those it thes cities over the classic self ready settlement
+[]			 There's a movement
+[0:12:10.0]  Jenna called me a jive software developer
+[]			 Um, the method
+[0:12:18.0]  So this is the age of all people that this whole community, they believe, will self development process are too high
+[0:12:22.0]  We wage
+[0:12:23.6]  I don't very cumbersome, meaning that we spend so much time on our paperwork on documentation instead of focusing on the really verbal software system itself
+[0:12:37.5]  So so many things about it done that are not directly related himself where part of being produced
+[0:12:43.0]  So that is so think about your drawing
+[]			 This is the, uh, thes beautiful design
+[0:12:55.2]  The UML diagrams You talk about beautiful, the architect designs, but it is Sometimes you could change it now they're gonna be applicable anymore
+[0:12:57.7]  And also the subject of our mother is too rigid, meaning you follow this process
+[0:13:02.1]  Where were strictly you finish your physical
+[]			 If you study, you'll do your requirements
+[0:13:07.4]  Sophistication
+[]			 You do your requirement
+[0:13:11.4]  Your definition on the specification on the order will design so and this is very, very hard to deal with the two things
+[0:13:24.4]  So when we do separate develop in their two things that really to the heart of a deal with him, because a incomplete anissa four challenges, which is the eye Joe might that really responded so well once called in completing in company the requirements Because there's no way you can collect a requirement to complete at the beginning
+[]			 It's not a possible
+[]			 So this hype, it must
+[0:13:45.8]  This is a axiom
+[0:13:46.5]  Over there was another things
+[]			 The inconsistency
+[0:13:54.0]  So when you have witnessed the beholder provided different requirements and they conflict, they do not a say
+[0:14:08.0]  If you want a super fast, the power let the chief is less await, but that you have that the sir distribute your the chief's computer ability on moment, um, in the chiefs, Then you break it down
+[0:14:17.1]  The how about a bottle? You maintain ability, haze and then you talk about your component off your designs
+[]			 So those are the company to features over there
+[0:14:26.6]  So to a choice, though, it was the high gile
+[]			 It's very white wonderful to deal with that because we can react the changes so far
+[]			 So in a way that we have a difficult chin, a deal with this in company, that the changing requirements and also we have a very often we have sovereignty reading from this vice over a short life cycle developing the cycle
+[]			 So think about the weather
+[]			 You better
+[0:14:53.1]  Homage is almost on a daily basis that you see something that's changeable that's being developed
+[0:14:57.8]  So more activity, customer involvement he needed
+[]			 So, for example, a c M
+[]			 M
+[]			 A focus on the process
+[0:15:03.4]  See, I'm AMA is even sovereign
+[0:15:05.5]  Jiri, you'll need to know this term P m mine skype ability
+[0:15:28.8]  But your tea model probably the mature tomorrow is to the way to Yvette Ohh in your as an organization, how much your your condition produces software because of the more reliable
+[0:15:40.1]  The moment your your organization produces software that it means that the quality you produce is is a reliable is predictable
+[0:15:42.4]  So see, I'm I'm has a fire live owes
+[0:15:46.6]  You have what level? Level one to level five
+[]			 Every company started with a level one
+[0:15:54.4]  I said also, you are producing any sort of software
+[]			 You are level one and see a man
+[0:16:00.0]  And as you go you for the good ma mature on your high school level is a level five
+[0:16:15.1]  Um, give you an example off the company data in the Indian, the consulting company they are part of the our organization love their organizations is cmm level five
+[]			 So that means the software producer by that accompany is reliable in a particular quality level
+[0:16:25.2]  So some companies at level two on the level three
+[0:16:34.0]  So it doesn't mean that the whole company has the same cmm level, probably part of a department that belonged to want some level, another department to belong to another level
+[0:16:39.3]  And it's a beat is a huge business making money
+[0:16:50.2]  If you are really, you could you could have become a cm Emma, go to the company to assess a common is the CMM level
+[0:16:51.5]  As a consultant, they paid a huge a huge amount of money for you to be a consulting just to see how much your they produce their self to work on theirs did each given the level There's something called a k p a za keep process area someone you hate her
+[0:17:18.5]  So So how how do you have a cold reveal? Do you have, um, alongside the customer to work with you? Do you have, ah, configuration management in place? So a set of a k p a c you satisfy those a set of K p ece you go to next level a new Colton next level, call the next level
+[0:17:29.5]  So this is just some biker on that for see? Mm
+[0:17:33.9]  So if you're really interested, the toe managers suffer management
+[0:17:44.4]  This is probably some, uh, professional Korea partner for you to go is So go the actress be assessor for the same level
+[0:17:47.3]  So for CNN, I'm the folks on the process
+[0:17:51.1]  So I talk about KP is right
+[0:17:53.5]  You said his vice certain Katie ese, you go forward and then you can just go to the next level
+[0:18:03.7]  So on that hand, the age I'll community is this Consider, as a lightweight, being is a faster react
+[0:18:07.4]  It's just like an animal
+[0:18:10.4]  Leo park faster react, but their reaction
+[]			 It reacted what they react to change over requirements
+[0:18:20.8]  So it is a people baby, so that rather than plan basis, so you start of what? Let's have a good of plenty on the floor plan
+[0:18:27.2]  But if you have a self organize, the ah human is the main player off this whole process rather than through the human as a machine
+[0:18:36.4]  So we want to encourage our peoples and motivation in Carter people's imagination
+[0:18:37.9]  They are on a Pilatus, their own skill set to produce the price of the software
+[]			 So there's several age old method, and there's a one car X p, which is extreme programming
+[]			 We have a lot left over there
+[0:18:52.1]  I hope I cash time, too
+[0:18:54.8]  I was saliva over there, you streamer programming you should be blaming, meaning that him when they do any software development
+[]			 Jim, you're working in pairs, so just like you're doing right now, So one person's working on the keyboard
+[0:19:14.9]  Another's overlooking a shoulder, some kind of screen to see if you should do
+[]			 They use a lot of several key
+[0:19:22.3]  Maybe we should be clear, eh? Well, if it is the barbell right here
+[]			 Maybe
+[]			 Should I use another on the people in your are both my here
+[0:19:32.0]  So you two person working together and then I need a change in sometimes your work on the key border on you, the other person watching, sometimes the other person watching
+[]			 So you have these a collective ownership and you wanted to getting in pairs
+[]			 And that's a tree
+[0:19:48.1]  Man is the benefit when you have two people were to get right so you can learn from each other and you can't get the Beiste off vicinity from to the people's wisdom
+[]			 So this is what the extreme program is about, so you won't have time I'm gonna cover
+[]			 That is where were interesting on the concept
+[]			 And it's a very, very used wonderful
+[]			 So And also for the, uh, the agile manifesto with close is that to ah definition, let's talk about what is the other major manifesto
+[0:20:16.8]  So they focused on the four things this statement for four radios
+[0:20:19.7]  So we talked about a wee as they age our community, we develop a silvery, you settle way back here
+[0:20:27.8]  We wanted to focus on individuals and contractions over processing a choose so That's why you go to so focus on the people
+[0:20:38.8]  The common occasion is so much more efficient than using any tools
+[]			 So if you want to help the people, you have the phone, talk to people, you start using you now, right? So that's why you go to all the any larger company
+[0:20:52.6]  I, uh, about a two weeks ago, I visited the other company right here in your local company covered Magic Leap
+[0:21:00.5]  There's a larger company produces at the mortuary
+[]			 So we went there to visit because we're gonna have a sum of collaboration
+[0:21:10.9]  And this is totally, as a matter of fact, the magical leap using the the facility where the beauties was
+[0:21:17.4]  Oh, the More or La Beauty, which I was there before, too, because when we had a collaboration with the Motorola
+[0:21:23.9]  So you be walking no magical leap That a company is told in the open for war is the L Q
+[0:21:30.7]  Because and the other type of working just like our class aroma and that each person have these, your leader is put your computers one by one
+[]			 On on this table
+[0:21:35.0]  They don't They don't even have the glass in between two people
+[0:21:36.9]  It doesn't hold it open
+[]			 So you're walking in
+[]			 You could just see everybody on
+[]			 They put the long term folks over there that the computer is over
+[0:21:47.5]  There aren't off Taliban, the cell phones and just anything their own Lipitor decorations
+[0:21:48.7]  In our bioscope off course, they have something in front of the right of the board
+[0:21:53.1]  But in terms of from one developer to the other people, they don't have any even have gas told it open
+[0:22:01.8]  So what? We're working on it, you know, on their facilitate, because you just just like you see everything like in a movie theater
+[0:22:05.9]  Everybody's working on what they are working on the screen, you know, it's just so just Let's wait
+[0:22:16.6]  On the other side is a yacht off regimen to the other, the drinks, You know that the Jews of the crackers over there and just so is it So So this is really the kind of spirit off this agile the open folks on the individual
+[0:22:36.4]  Coming to mentor in traction is over were the process you follow and they work in the folks on the working software that it means that we wanted to as It also produces suffering as a working is about her, then produce a very comprehensive with documentation
+[0:22:47.9]  But I will come back to that in a community in the researcher somewhere Engineer research community
+[0:22:52.0]  They're some of the bacon laser
+[]			 So if you do know that if you're really focus on your working as the software you do not produce a comprehensive will document here
+[]			 What is the problem you could have face? Think about these
+[]			 So you say
+[0:23:11.1]  Hey, we were kind of software that surrounds your producer
+[0:23:12.3]  Called itself Divided
+[]			 We don't need to produce it and called a documentation
+[]			 Was the problem recording that every day Your producer called itself
+[]			 There were right
+[0:23:20.5]  Something's working
+[]			 You have this continuous integration
+[]			 That means a yeah
+[]			 You develop in the room
+[0:23:27.1]  You have a mushing over there with the continuous integration
+[]			 Every day
+[0:23:31.8]  We're every day with you appealed
+[]			 And then we're beautifully integrated
+[]			 Beauty in the great
+[0:23:39.3]  Right? So what's the problem you were going out to produce a comer? Has if the contagion you people? Yes, the new people
+[0:24:00.3]  Yeah, yeah, he gets activated
+[0:24:04.3]  So if you do not a document here, how do I know the rationale
+[]			 Why the design in such a way? Meeting you understand it
+[0:24:10.2]  But eating a document hidden on then that technology could have lost over time
+[]			 And like you said, a for the new people come in
+[]			 And how do they know what? Why, what did this piece of code is doing in there? I don't know that
+[]			 Then there's no documentation with air
+[0:24:35.0]  So that is a huge, huge problem that it means that we add a lot of costs that the really shaved the cost to the later deployment in and the mink anus
+[0:24:38.3]  Although you give, you devoted herself our foster
+[]			 So that is a bigger problem right here
+[]			 Just like you know, the work I did with a BMW
+[0:24:47.7]  Of course, this is there in 1999 code
+[]			 Probably all older than you are, right
+[0:24:52.9]  You are probably more brawn
+[0:24:55.8]  What? Least you saw anyway, So nobody know what the cause is
+[0:25:07.5]  Why does design region also that a project away with him? W is a really reverse engineering their engine control code on adult human
+[]			 He did so this kind of re documentation
+[]			 So this is really a problem
+[0:25:14.6]  Just keep me in mind Okay, Another because of nothing's totally perfect
+[]			 Right on the perfect
+[0:25:19.0]  Perfect
+[]			 They're wrong
+[0:25:23.4]  Okay, I know we have a customer collaboration over contracting
+[0:25:24.1]  Negotiate a contract negotiation
+[0:25:27.2]  So that is shaking hands and say, Hey, you're gonna do this
+[0:25:30.8]  The project I know this is roughly this is the future future
+[]			 I'm on the how you keep adding to it
+[0:25:36.3]  So is that what you had to write? Everything singledom
+[0:25:40.5]  You want to do anything else that we had to read? Write it is out of contract
+[]			 So this is just too much
+[0:26:16.8]  So it's just that the example that don't I just don't Were you no one very good friend of mine So that design a gardens So they the country to come here and just say Hey, this is speaks the monk among and then just design is garden for you So any future is the idea and the something probably encounter on just they just the heavy a good negotiation on the cool the collaboration and respond to those to the third of value Is that it? Responding to change overflowing pen, meaning that we want to respond to change of foster
+[0:26:22.1]  So I turn on this change is really the requirements
+[]			 OK, so that requirement change we want to be responded to foster
+[0:26:32.3]  So now the east out of the way one have will follow a particular pan
+[0:26:36.8]  So if a plant doesn't every response so that it changes, Just abandon that apprentices do your homework and then this is the address of this is to changes
+[]			 So this Oh, talking about its age I'll manifesto
+[]			 And that's the agile the spirit or there were working on
+[]			 So we have those
+[]			 This is some someone of age I right now scram on extreme programming
+[0:26:58.2]  I thought of that ex pier, right? And we come out of some off the ah crap table Self ready, Vital moment
+[0:27:06.4]  So they is a lecturer
+[0:27:07.5]  We focus on the scrambler, which is you are practicing, and I want you to know that
+[]			 So you are probably proposal
+[0:27:15.1]  I liked you signed the rolls off each person
+[0:27:18.9]  We just which is a swell master, which is a product on there, and that we should be on the part of a team
+[]			 So this is Graham again
+[0:27:35.3]  100 worse long, But a capture that I citizen scrums the edge or processor that allows us to focus on delivering the highest business valuable in a short time
+[0:27:44.7]  So it allows us to rapidly and repeatedly inspector actual worker software's so every two weeks for one month or so
+[]			 You keep looking at her the way you produce after work, and you keep changing it
+[]			 So that's the way the way of working
+[]			 See how he's is not a set
+[]			 The priority
+[0:28:06.0]  Uh, I received an email from ah from some of the group, which is asking me a vibrant, very good questions
+[]			 So what happened? You have a set of lot of requirements
+[]			 So how do you implement all the requirements would happen that we cannot finish other requirement
+[]			 We propose
+[0:28:23.2]  That's all fine, because Jessica, this is the nature off doing diva home engine
+[0:28:24.7]  We wantto entertain right incremental development, But your team the most important there for your teammates night you proposes a 20 future isn't unique
+[0:28:34.5]  Identifying what the future's is, we must have so going back to my ear, the requirements, a lecture
+[0:28:43.3]  Remember, we talked about a three kinds of requirements
+[0:28:45.3]  The one you crabs, you must must be much and in some requirements is good at the highball
+[]			 And in some ways we can leave for the next
+[0:28:52.5]  They're decoration
+[0:28:59.6]  So you needed to Oprah, right? Kaiser, your requirements of your 20 features, please, on those of three categories
+[0:29:06.6]  And then once you finish the mosque, the high and you move on to the next category and he moves the next her critically si vous ing ladder
+[0:29:12.4]  I want to use the machine learning for my official resignation so I can power to the pie
+[0:29:15.9]  Wonderful, Beautiful
+[0:29:23.2]  But he wanted a per hour highs that to do that I need to first of all, and the pie to really accurate to some motions
+[]			 So that's the first thing on then
+[]			 Even you want either the Was she learning portion? I'd better later
+[]			 But first, if you cannot even finish the first was the the first the future, which is a pie
+[]			 You know, maybe I have a green light on your high paying
+[0:29:43.9]  I have Ah, you know, light's on
+[]			 You're not a high paying, right
+[0:29:47.6]  So maybe I kind of the pika Move the arms then
+[0:29:52.2]  So there's a So you're breaking out in this small portions and is something you must have finished something would be nice to the hive on or something
+[0:29:58.1]  We can leave for the nice alliteration, so you must prioritize your future's
+[]			 So this is a water
+[0:30:04.7]  I'm talking about a hear reason this side of the properties
+[0:30:13.6]  So your t rt our team is there are several managed to determine the past the way to deliver the highest the prophet features
+[]			 And so there's a few things here
+[]			 First of all, the teams, several managing
+[]			 I never never interfere with how your team work unless you have some problem complete
+[0:30:28.2]  Say, some of my team number Never, never responded the email that I was stepping in
+[0:30:30.8]  Have you addressed that so otherwise? Hyo teamwork
+[0:30:35.2]  You collaborate with this like your crapper with Is collaborating with that? What's happened? This your young way? Another key pointed right here
+[]			 It's called highest
+[]			 The probably feature
+[]			 You must have finished the highest priority feature
+[0:30:48.5]  And how do we decide the highs Ward Heartless Hyatt highs
+[]			 The priority your team decided, was the highest priority
+[0:31:05.1]  Okay, so this important, so every two weeks to a month that everyone can see a real working product on decided to release it on or continue to year housing for another operation
+[]			 So your team with your perfect owner, you make about a decision, you say Hey, let's release that
+[]			 Let's move on to the next the future or we're keeping you hung
+[0:31:16.1]  Sing our occur in the future
+[0:31:16.8]  Make it a perfect on them before we move on your part ago
+[0:31:31.4]  Owner, Should I make it out of the station for your whole team? So what is this Kwong cyclorama is I approach here for developing You know, a table products on the service is again It's age I'll be in your letter team worked so well together on the reactor to the kitchen, your requirements if it begins by creating a particle by clog which I hope we're going to do it right now
+[0:31:58.7]  And the south where I want to use is a child Oh, I want to you You're managing your scram of practice Okay Trial You have it
+[0:32:03.0]  Dive Put that down
+[0:32:04.3]  The chemist all you might description I didn't hear Okay
+[0:32:11.3]  Go home today for you Establish your travel
+[0:32:13.7]  Your project of space is a free that the China allows you to create
+[]			 It is a color created even a futures
+[]			 Andi, you can create a say
+[]			 This is what I want to do
+[]			 This is something I'm doing
+[]			 You see, that allow you to created his board
+[]			 So you couldn't see
+[]			 This is a Is it to a door settle features
+[]			 Okay, I know you said this
+[]			 This is in progress, sir
+[]			 Don't don't Don't know
+[0:32:55.4]  And this is it done so you can see that you're moving from here on the capable
+[0:33:00.6]  You know, Here's a beginning is a very, very long Here's I had nothing, You know, you moved here, and I keep moving her looking movie here
+[0:33:07.5]  So this allow you to manage your you're kind of dashboard like I want
+[]			 Okay
+[0:33:16.8]  It's a very, very, um, nice to chew now
+[0:33:26.7]  Have you ever posted? He said I'm coming
+[]			 I'm coming
+[]			 So this is allow you don't know how and that
+[]			 So, uh, it is so you can see here, right? The team task you are doing, But I don't know
+[]			 I know you have finished this here
+[0:33:49.9]  Are you gonna sign? Ho is doing which a task
+[]			 So this is a very real nice for you to manage
+[0:33:57.3]  You are strong team and a manager like Oscar
+[]			 And also, you can't cover this a color colder
+[0:34:04.3]  The thing is they're doing, you have, ah, hides a priority
+[0:34:06.1]  And that lowers a priority color code them
+[0:34:10.0]  So as a probable are probably you should be
+[]			 Ah, my nature on top off of those
+[]			 And to make sure you are, you're on top of everything you do
+[]			 Okay, so this is a So what do we do with your way? Do it
+[]			 You will create a particle back lock
+[]			 So it is out of even the future over there
+[0:34:43.2]  So which is a a little, And then you need to have a poor are highs the least off of those features on some other have a politic singing to develop a successful product
+[]			 So there's a time
+[]			 So your guide it? Yeah, Why? This is a product of I called him
+[]			 So what do you do? You always work on the most important things or highs apartment things the first
+[]			 So when you out of resources, for example, if you're outside of your time, are you out of outside out wrong, out of money? And then you didn't you for the work that it didn't complete it is
+[]			 What is the things that is not as important as the one you're finished? You You found me
+[0:35:24.2]  This So what do you do? Um, is this you created a set of a particle backlog? See this view be your backlog
+[]			 Okay
+[]			 And out early to the bottom
+[]			 So you prioritize them
+[0:35:35.0]  So you peek any form a tall but you started working on and a standing here, You prick
+[0:35:36.0]  Or here
+[]			 So if you're running out of time, the things is not being done
+[]			 Is this things out of the bottom? It's an order as important as the one you off you do finish
+[0:35:45.4]  So spending your time, your energy on the things that other matters the most
+[0:35:49.7]  So therefore, having said that your product isn't your future is so important
+[]			 You guys, a particle owner you need to decide was the most important thing
+[]			 I want to finish your first
+[0:36:05.3]  So if you want to use your body, I wouldn't try that in tow
+[0:36:07.2]  How my conversation bother working, have my led light of working and I can add a more features to it
+[0:36:15.0]  Force that have a conversation about I could give you a true target we have to talk right here
+[0:36:18.1]  So have concerns
+[]			 And now you can see evil conversation
+[0:36:22.1]  I've got I can kind of a speech
+[]			 It's so you're given a component together
+[]			 So not just, like, have a conversation
+[]			 Maybe have your official recognition together with your conversation
+[0:36:32.9]  So you see, I'm beside your conversation
+[0:36:40.6]  Could it be How are you doing? You know, your see? You see, you're hyping me
+[]			 Say, hey, have a good day
+[]			 You know, some have a conversation, so do not adjust
+[]			 Have a single functionality
+[0:36:50.1]  You wantto integrated those defense function that it together
+[]			 So maybe the light is green
+[]			 You five fewer high pay
+[]			 You know, Eve was I'm fuel
+[]			 Very dumb
+[0:37:00.8]  The lattice yellow on maybe completes a music
+[]			 So he integrated those functionality together
+[]			 But instead of one on one functionality, rain issued
+[]			 I mean, so now
+[0:37:10.6]  But I would have tried even this small function that it that first night in secret hid them together
+[]			 So this is ah, the way we work with the particle back a lot
+[]			 Okay, So I want to use in your trial
+[0:37:37.9]  Oh, you create a bag lover, you invite him
+[0:37:39.8]  I'm gonna send a recon on the area Post that on the cover
+[0:37:46.1]  Uh, you writing me on and we have achieved
+[0:37:47.7]  But it is a very smart wars
+[0:37:53.0]  So But you wanted me to your on a tear to your own cello, the workspace, And so I can see you moving along
+[]			 Who's doing what I think is I can see that So I'm part of your team too
+[0:38:04.4]  So the work itself is a performance in the Vita short hand box
+[]			 The iteration What I mean by pen box me that this job we're gonna finish in two days
+[]			 Let's kind of pen box finish on out with more So you're not gonna go well, you know, once you just keep doing on that come to you
+[]			 If you use the all your time, you don't do that time
+[]			 I'll say this job
+[]			 We must finish in two hours
+[]			 That's it
+[0:38:37.3]  Have you see dung toe work on two hours of finish it So which usually range from awake A tour a calendar month
+[0:38:38.4]  Offhand boxes
+[0:38:41.5]  So do eatery reiteration A self organized
+[0:38:50.6]  The cross function team does all off those work do you to go design implementing an enticing and required to produce a complete ater working features so that it could be pulling into production
+[0:39:04.3]  That's what do you do? So, to start with the eatery each iteration on the U team, we need the plans on much higher priority items
+[0:39:10.1]  Which one should we do now? First? So you don't talk about a new or neither work? You don't have the conversation
+[0:39:13.4]  Bother going right
+[]			 So you need to get a conversation going on that can do you mind? Maybe my much
+[0:39:23.4]  You're learning stuff, recognizing the facial emotions, and I'm not feeding into my boat
+[]			 So you work with the high party? A subset
+[0:39:37.7]  You know, this key would have come a subset off the part of the back clog the creator on Upcoming Eater Nation
+[0:39:48.2]  So which one do we do with the next time? So I did the end off the alteration on a team we're gonna review on a completed the future is with a stakeholder and say, Hey, what do we think? Yes, they holder would be me
+[]			 I get a feed bag
+[0:39:54.3]  So personal feedbag
+[]			 Two particle owner
+[0:40:02.7]  Let me tell you who will be the Parker Parker owner on a team camp outer older wasn't really planned to do next
+[]			 And how are we gonna do it? So you see Hey, reason the feed bag, and then what we're gonna do next
+[0:40:11.3]  And how do you do it so we can discuss? So the whole strong chim of the development of spirit is reading close communication, Close conversation constantly
+[]			 You change ideas
+[0:40:22.7]  Each annual what's going on to assess your carnal situation
+[]			 That is so important
+[0:40:31.0]  So the square macaca characteristic is that our first of all, is it must of yourself organized the team
+[0:40:37.9]  No interference from outsiders
+[]			 And you must do that
+[0:40:43.8]  Hit your scent, an apartment, progresses it in the serials
+[]			 A month with a long sprint
+[0:40:48.4]  We were told that I would tell you what his springs are
+[0:40:52.0]  Okay, so in this year was a smaller supremacy was You are scarred
+[]			 A sprint
+[0:40:58.9]  What we're gonna do next and also to requirements are captured as items in the least our particle by clocks
+[]			 So this is my first
+[]			 I come here on my own
+[0:41:05.2]  My paper
+[]			 This is all the requirements on that
+[]			 There's no specific specific
+[0:41:12.0]  Angie in practice described that it means that we don't have you
+[0:41:30.6]  How do you How do you do it with a particular to settle? Gonna use the language? How How often do you have your meeting? Where you do your the water woman which will specify line So you use a generative rules its creator a gyro environment or deliver in project
+[]			 So this is really a while the edge out process
+[]			 This is a very super efficient on super agile in the way
+[]			 So what is the square? My framework
+[0:41:51.1]  So it is not a where you're allowing us is? It doesn't have really a set off a step by step process on the current
+[]			 She s O is the It is not a worse than that of the process so that you can you should follow So But it is a framework that house you
+[0:42:17.6]  How do you can organize your teamwork and how do you can on managing your work? So the scram a worker is a busy on set of values which you were talking about before the four values
+[0:42:23.3]  That's by the by John T
+[0:42:27.1]  One, the principles of practice that provided the foundations and to which you're organizing your wheel
+[0:42:31.1]  Just the ideas unique imitation
+[0:42:34.5]  That means that you have your goals
+[0:42:41.4]  You have your school and squat mutiny in places, and you have a unique implementation to realize that
+[]			 So that means eating off your team is different from one from the other
+[]			 So that you have on your specific approach, your team probably use it
+[]			 One approach
+[]			 The other team will have another approach, so that's all fine
+[0:43:00.3]  Oh, good to the result off the version off the scram A that is a uniquely yours
+[]			 There's an old truth
+[]			 Scram! A practice the same
+[]			 You just see how good
+[0:43:09.1]  So probably our team is working honey handed together all meeting the guy that worked together
+[]			 Another team could be, Let's work on this the first time you could move on to the next
+[]			 You know you really matter
+[]			 So this all your teams, our own decisions
+[0:43:28.0]  So does it tell you about a swamp? Packets them on
+[0:43:30.9]  This is really the heart of off of the disco Rama
+[0:43:39.4]  There's a three rolls your team when a particle owner when is a score monster and the rice is divided from the team
+[]			 So I want to see your proposal, which you're gonna set a meet a nice Friday
+[0:43:48.1]  I thought visit Lisa for Ivy, but that is okay
+[]			 I want to see who's apart
+[0:43:52.8]  Particle owner who was a schoolmaster
+[0:43:59.2]  Okay, I want to know Night on a summer off the activities that your your contractor you will know what is sprint? What is this spring to plan Yin
+[]			 And it was a daily scram
+[0:44:12.2]  What is screen a sprinter execution with a spring to review and a sprinter rituals back table
+[0:44:23.1]  And how do you protect a backlog of grooming to some of these artifacts? You have a particle bike, a lager sprint by log on the provincial ship about particular increments on the rules
+[0:44:27.7]  So this this part is the core part of the screen
+[]			 A scrum practice
+[0:44:35.5]  So I would hope that a one by one drizzle is particle None
+[]			 This is such an important role in your team
+[]			 Probably most important role in your team
+[]			 They're all important
+[]			 So particle ner is responsible
+[0:44:51.5]  What will we be? DVD verte? You would've pretty good order
+[]			 So think about a part of owner as the c t
+[0:45:05.1]  O your company guys who's a very technical savvy and in those a lot about of products and knows a lot about of the vital homage and that he has a good sense or she has a code of sense off how much time, in each particular future we were taken to implement
+[0:45:17.1]  Okay, so he ese empowered Central point off a particular leadership
+[0:45:25.6]  So when people come out, our problems have you come to him? Needed help from him
+[0:45:29.6]  He also a single authority responsible for the signing
+[]			 Richie
+[0:45:32.7]  Futures on the functionality is to build on
+[0:45:45.8]  You would order to build it so he will say that we're gonna have a conversation about We're gonna have our of the silvery season off the motion sensor recognition
+[0:45:55.3]  We're gonna have emotion recognition how the moto part of the my teacher powers can move the arms so I can do that
+[]			 Right? So it'll have night
+[]			 We do particular order gonna do that
+[0:46:09.3]  So he designed night, and also he needed maintains any communicated to all the other participant a clear vision off what team are trying to achieve at a certain point
+[0:46:22.2]  You see that for the next the four days we're gonna focus on these particular feature off our fault
+[]			 Did you do that
+[]			 So he's the person to be said it
+[0:46:29.7]  He's also responsible for the overall success off the product
+[0:46:33.8]  So even a whole part of the failed probably is a part of
+[0:46:42.6]  The owners even have a Gouda organization, um, division communicated with the team members
+[]			 Okay, so this is a very important the particle
+[0:46:49.7]  So he well defined the future's all their product
+[0:46:55.5]  And if you can't decide on a release date and it was the content, say which day? The way Finish our conversation bought, which is Do it can finish our i o E d
+[]			 Which you did
+[0:47:04.9]  We finish our emotion well today we connected with the cameras so he decided on back
+[0:47:10.9]  And he's also responsible for the probability of the particle r I return on investment
+[0:47:15.4]  You have this partnership and how much money we can make commit, recover our costs
+[]			 The resource is so he's so important
+[]			 And he issued the product highs the features according to a market value
+[0:47:29.7]  Of course you know your father has a market over
+[]			 I know some of your doing their own
+[0:47:36.9]  The project of four on the the visually impaired people for the people cannot speak
+[]			 This is just wonderful project
+[0:47:44.5]  You know, I hear when you come indicated that ideas to me, I just a few
+[]			 So wanna fight doesn't love us so much
+[]			 I really cannot wait to see your final deliver a product
+[]			 So this is great
+[]			 So you also needed to adjust the future
+[]			 It's an A party, every iteration
+[]			 So every iteration will see him
+[]			 This you need a bit of too much
+[0:48:11.2]  Is it just that I never do this smaller situation and have way smaller features? How about a week? And I locate the people in it, even affection
+[]			 So that's what I can do
+[0:48:17.3]  So he needs you that so? Also he needed toe except on a rejected working result
+[]			 So, for example, now you're working on a project proposal and that each of president is responsible for one portion of the project proposal
+[0:48:30.2]  You're responsible for the marketing analyses
+[]			 You propose your folks on the function requirement
+[0:48:40.8]  Your focus on the non found a requirement on the particle Owner said that I don't like these parties and all the gold accorded at work
+[0:48:42.0]  You have to redo it
+[0:48:50.4]  So he will be the guy who integrate all this work together, okay, So he can accept under rejected the work results
+[0:48:55.2]  So no, listen one for the lack of the person who was this squirrel master
+[]			 This is also a very, very important person in the team
+[]			 He's is so super important
+[0:49:04.9]  He's really represented
+[0:49:05.6]  Management it to the project
+[]			 He's the manager
+[]			 So he reading, you know, he's like a mentor
+[0:49:15.1]  He said he wanted enactor the swarm of values and practices, and he should remove any impediments
+[0:49:25.9]  So even to prison two team members, another responding on the hero guy go out and talk to them
+[]			 Say, Hey, why you're not responding to the email? Well, you didn't finish your work on time
+[]			 Any problems? You know, any? No, too much work going on
+[0:49:44.1]  So he's the one gonna talk to you, find the problems on a happier to address this problem
+[]			 So he needs to be the one who remove any impediments prevented you go
+[0:49:58.5]  You forward for your team on hindering you sure that the team is a fully functional and productive
+[]			 That means that he will keep it a team happy everybody to contribute to the fullest
+[]			 He also needs you
+[0:50:07.9]  Never close collaborator o'clock corporation across all the rolls and the functions on
+[0:50:14.7]  Then you want to shell the team from outsider
+[]			 He's totally interference
+[0:50:20.6]  So you see that? Oh, you should be trying to micromanage men, has it? You shouldn't do this
+[]			 You do this
+[]			 And he said Okay
+[]			 Jessica was a task that we managed ourselves
+[]			 And we found our resources
+[]			 We found our time to do it
+[0:50:33.8]  So if I see that, how much time's your team needed recently? You see that? Okay
+[]			 We managed ourselves
+[]			 You know, I don't want I should interfere
+[0:50:41.2]  So you should a shell all the external references, the interference from Kim so that a team concussion cheated on the work they're doing
+[]			 So he is a leader
+[]			 He's not a manager
+[]			 Let me
+[0:50:54.4]  He doesn't make his not micromanagement, but he's leading the team being a positive force off your team going forward
+[]			 Okay
+[0:51:06.6]  So that the team you can contribute to the fullest, so once you don't know could be supers
+[]			 You're recording in pies
+[]			 Oh, okay
+[]			 No problem
+[]			 That's working with a pile of high park
+[0:51:16.5]  So why's Google your architectural design? That's the work that he won't have a use cases assignment which we're gonna have
+[0:51:19.5]  So each team a country booted your full is that the goal is that your team is to be successful
+[]			 Okay, So you help the team to understand and embrace the scramble, values, principles and practice
+[0:51:36.2]  So as a coach, you want a provider leadership? And how was the squash team? Which will they are organization specific
+[0:51:49.9]  A square, my approach so that what do you have? And the house also need to managing the challenges on current you in the scrum adoption
+[]			 So you will say that we just cannot find a single daily scrum time
+[0:51:58.4]  Nobody can know every babe
+[0:51:58.7]  Easy
+[]			 We can also find a common time to have our baby scrum
+[0:52:07.8]  You need a figure about you Bill feeling about So you should be a facilitator Light in the scroll Monster house, This the team resolving issues and then making improvement it'll issues awful
+[0:52:19.2]  This Graham So Fong's Emma
+[0:52:21.4]  We have a difficult to manage worth the hour sprint the bite by the block
+[0:52:25.7]  But the the aegis springer of the bike lock
+[0:52:29.9]  We have problems identified that when you come, probably work of the orchid out
+[0:52:38.2]  So so you should be responsible for the protective the team from outside interference on and take a leadership role in removing any impediments that you have it
+[]			 The team of productivity
+[0:52:51.7]  So you can see how we need a sense you're gonna find essential
+[0:52:55.8]  Maybe it's hard to meet Howard or whatever finding your sensor, so you want to know any impediment over there? Okay, so, um, so you have a team member is another
+[]			 When he's a complete about it, the other you'll find the water problem is and you dress like a problem
+[]			 So maybe it's about it made a bigger deal, you know, we finish That was a particle ner on the schoolmaster
+[0:53:19.1]  Must talk about it
+[]			 Was that the letter from the team? Are you had a woman team? A traditional sovereignty, But, um, he might have a virus
+[0:53:26.8]  A job with hives, which is a architect
+[0:53:34.0]  The programmers, the testers, you ai designers that they that base is a demeaning center
+[0:53:48.5]  So the scramble defines the rolls off each person, he said over the title, you don't have a tighter okay, just that what you do their role off the development, which is simply it's worse It's a cross functional collection off those type of people who are really responsible for a design, even anything on a testing the designer product
+[]			 So that's what you do development
+[0:54:04.6]  He must do all of this work to produce a one on more war legal supplies out of productor fortunate that you just sprint
+[0:54:07.8]  Let me explain what this is about
+[0:54:09.7]  What is the verdict with allies? So why did you write about what? You have a cell for a part of hype
+[]			 You know, you're part of having, you see when you produce a part of happy you have with so many, he's a website, all right
+[0:54:24.9]  He can use the bar Sami to produce a part of hype
+[0:54:28.1]  The production included the designs of the out of your website as example, the layout on that you have with even the future
+[]			 It's a using shopping cart
+[0:54:37.9]  You can edit the shopping harder and you have a database by a kind and just the the take out all of those
+[]			 And then you can have a see your poster
+[]			 Your your your comment all of the full futures
+[0:54:53.4]  So those are the horizontal meaning
+[]			 I have all the features all the functions that in place over my website
+[0:55:03.2]  Of these I we're talking about vertical meaning I pickle one feature say shopping card
+[]			 So I want to finish
+[0:55:07.7]  This is shocking, Carter from picking into finish
+[]			 Let's cut a vertical
+[0:55:12.5]  So from selecting my items added to the shopping hard to check out to give me a summary Awful
+[]			 You're my shopping the items
+[0:55:23.7]  Okay, so that's got a vertical meaning that your peak of one feature you implement that from beginning the finishing told me finish
+[0:55:33.0]  Okay, so that is the, uh you produce it a more vertical slice off the working part of a function that he's He's a print
+[]			 So we need a team that a skill that all off those tasks, you know, you I designers and you know that they have it's a manager is so for the architecture, the use cases more
+[0:55:47.5]  That also isn't forever
+[0:55:53.4]  The development of manatee must anomalies of 5 to 10 people
+[]			 Yeah, we we have before
+[]			 So it has the cross of function
+[0:56:05.5]  No, the teams which you have a Q A's coat of the assurance your programmers, you I designers on it so long, so members should be food home
+[]			 You know, sometimes this you'll be working for this talk about industry that you cause a sense
+[]			 So you should be a full time
+[]			 Well, you know your work, but with some exceptions of, for example, the season
+[0:56:32.0]  But in the future we can be manager of several teams together, and you can see for the machine's in the back into the machines that database servers, the other mean, can't work for several teams
+[]			 Right? So that's a cross function function, another for him
+[]			 The teams are self organizing
+[0:56:51.1]  That thing is, what did it do? Oh, you for team of 70 and someone off the team and Nestle ideally no titles about a rarity
+[]			 Ah, but a responsibility
+[]			 So you don't want to give people a title in a way that okay, but use that of you
+[0:57:06.0]  Can people response about a Taser? The functions that the they are they're performing
+[0:57:08.4]  So the membership changes on Lee Between you, each is sprint on everyone
+[0:57:13.1]  Harry was a spring star
+[]			 So you do another one
+[0:57:19.7]  A change there rose within your combating, implementing one spring
+[0:57:25.9]  You want to change that between only between those two sprint the latter
+[]			 You only wanna change the rules in between those even a smaller release, you say
+[]			 Hey, let's finish this release then
+[]			 Well, you want to do something else? It's okay
+[0:57:40.4]  So this is how about at the school Alma activity activities in the artifacts
+[]			 And so we have a particle backlog
+[]			 We have a spring
+[]			 Your plan
+[0:57:53.2]  You spring back lock daily scrum spurn execution potential is she bubble particular increment spring to review on a sprinter ritual spectacle
+[]			 So all of those related to the same thing
+[]			 Okay, so to the other same thing about the scrum artifacts
+[0:58:12.3]  So normally you wanna have a pre party the kickoff meeting
+[0:58:15.0]  So this is a special form off the spring, the planet reading
+[]			 So you want to do your planning
+[0:58:28.2]  So you want to meet before picking off this project, which is what you are doing right now? Want decide on your features? Would would have hardware self door we need to use
+[0:58:34.9]  So this is how Thio Sublime works
+[0:58:40.3]  So first of all, you you wanna have a particle backlog issue off the thief breaks over there
+[]			 So that means that you're bringing your bigger project
+[]			 It into a smaller component
+[]			 This your bike lock
+[]			 And I wanna see that in your trailer because I want to see that in your trial
+[0:58:58.9]  So you have that the even the brakes again? Those of Briggs are not a proper young, um, Renda
+[0:59:01.4]  Mally
+[0:59:06.4]  They are in a particular order, meaning the brakes on Culp
+[]			 It has highs
+[]			 The priority, then the breaker at the bottom
+[]			 So what do you do? You can see here, I tell you
+[]			 One break out
+[]			 Okay, out
+[0:59:20.3]  At least that this is one request there on this economy
+[]			 A sprint
+[0:59:25.8]  So not currently
+[]			 I'm working on that
+[]			 A little what? My conversation
+[0:59:32.0]  And then because of conversations, Baker
+[0:59:33.6]  So I still on the brink of other conversation? My conversation on the service, you know, smaller
+[]			 So I see that is called a Supreme
+[]			 The backlog you see here
+[0:59:46.4]  So when you have a spring by Lage So that music I just need to take a one one thing out
+[0:59:50.6]  Social work only
+[0:59:57.0]  And then maybe I will go on 24 hours, maybe 12 3 days
+[]			 Finish tonight
+[0:59:59.7]  And I'm gonna petition all ship about particular increments
+[]			 I keep adding to it, getting more non
+[1:00:04.8]  A beaker and peek
+[]			 A peek, a peek
+[]			 A peek
+[]			 Okay, that's all
+[1:00:11.0]  So what do you have? Won't have to do with four weeks? It oration going forward on every day
+[]			 You won't have a daily scrum meeting every 24 hours
+[1:00:17.8]  It is, swami
+[1:00:21.1]  And have you tell you would've square meeting about consuming a powerful because of what I practice thes, um human
+[1:00:27.9]  Not only for sovereignty, vital, imminent, even for anything you do
+[]			 You know anything your daily life for you manage your own
+[]			 It is so important
+[1:00:37.7]  This is the surprise
+[1:00:40.4]  I think that I applied to anything else
+[]			 So let's talk about it
+[1:00:45.0]  What is the particle psychological, which is the hearing
+[]			 This breaks right here
+[]			 A huge break
+[]			 Come on
+[1:00:52.3]  At least offer out of desire work on this project
+[]			 So here you go
+[]			 Was your team is the future
+[]			 You're gonna have a 20 futures
+[]			 You wanna have You want At least they're all here
+[]			 So this is story based, The work story based
+[1:01:06.2]  So you're telling story? Oh, the user
+[1:01:10.1]  You gonna search on a replace of political things? A particular, um, item
+[]			 You can say that
+[1:01:20.5]  Oh, the user be able to talk to the Serie like right, The able to a problem icon decision about on the confident about of you also back who could also be past couple Easter
+[1:01:29.6]  You want to say hey, improve the exception handling maybe a passcode based
+[1:01:32.4]  What kind of a paschal function You finish it
+[1:01:37.2]  So they seles the Isa per art heist
+[1:01:41.8]  I said this is just a written other randomly You put a your chicken single together put everything Brenda mma, pile them together like a Brix is the poor are highs the fight a particle ner
+[1:01:53.5]  You see that typically part of the manager marketing internal customers it together we talk about which of features of the most important chores put on top off our least
+[]			 So this is a part of the backlog and it is a requirement of forces team
+[1:02:11.6]  Isn't he surprised that the proper highs of the leads that offer this backlog of items okay features on the managed by the particle ner on that normally have a super spy? She'd use the trial okay, tryto silvery nice and as you and we'll give you example later usually is created it in the spring of planning meetings, and it can be changed that Honoria Prior highs before each prodded it
+[1:02:36.3]  Plenty, media
+[]			 Because at the beginning, you think this is my priority
+[]			 But as you go into the development things that could change
+[1:02:47.0]  You want to change your priorities
+[]			 Okay, let's all find this all normal
+[]			 So this is an example
+[1:02:52.7]  Using spreadsheet
+[1:02:55.4]  You can see that at the Prague Hayes is very high high on a medium
+[]			 Right here
+[1:03:05.1]  This item numbers 12345 And the descriptions item one is a finish to that base of rushing
+[1:03:12.5]  I see many time will be 60 hours
+[]			 And that holds you responsible for that
+[1:03:17.6]  The initials K Edge as a responsible for that
+[]			 So you couldn't do the same thing
+[]			 Your title
+[]			 Okay
+[]			 Even items that holds it responsible
+[1:03:38.0]  You can put their future over there, so find some of these want to be Why, for much we support her on the out of date 100 safety and ours years just okay, this is a medium or high and so on
+[1:03:48.4]  And it wasn't that at the dark is a kind of grazing, which is a either licensing
+[]			 We have
+[1:03:52.1]  Ah, concurrent user licensing time on on the evaluation of the licensing of this up down to the last
+[]			 So this is your product? A backlog? How do you manage tonight? So when we take a bigger break out from the park a bike, a lager, we go to our sprint, which is that you have a smaller portion of it
+[1:04:14.5]  So you have a month along Iteration
+[]			 So where have Ah June? Which time is incremental? Ah, particle functionality
+[1:04:20.5]  Za is You want to produce it? So do white
+[1:04:24.9]  The chemo is working on the spring
+[1:04:31.1]  There's no outside of evil is interfere with this grandma team a junior spring
+[1:04:35.3]  So, for example, we are working on this is smaller components
+[]			 See the conversation about No, no person can even is that so? Each spring begins with a daily scrum meeting
+[]			 And these are what I hope that you have your practices
+[]			 We think about him
+[]			 I do want to see a day they squat meeting among your team
+[1:04:54.9]  Okay, I will tell you what a swan
+[1:04:56.8]  A meeting Ace Davis quantities so scram Project and making progress as a serious, serious sprinter
+[1:05:04.9]  And it just like on the iterations off the extreme programming and the spring
+[]			 Our time box
+[]			 You decided This is takes two days
+[1:05:12.6]  The states take eight hours
+[1:05:17.3]  Have you always want to have a figures? They're starting an 18 date
+[1:05:19.5]  So generally they should all be off the same security shit
+[]			 Why do we wantto know more or less the same Jewish? It Meaning you were gonna have every two days that it's evil or something we should have maintain every two days
+[]			 Why do we? You said all we have work
+[]			 One Jewish, ese
+[]			 Two days
+[]			 Another's a one week on as one month she would change you
+[1:05:43.9]  Why more lies with McKenna, Seema, Jewish and date
+[]			 I was in the quarter thing about that
+[1:05:55.2]  The cool thing is I 10 with Cuba, Aretha
+[1:05:58.8]  Just like you want to keep you alive in a routine
+[]			 Right
+[1:06:02.3]  So Monday, Wednesday, Friday I called across Choose the Wednesday I go work
+[1:06:08.4]  You want to make 10 That you don't want to keep it Change you So everything's clock
+[]			 I go every day at a six car
+[]			 I could go team to the exercises
+[]			 So that's your time
+[1:06:17.0]  So you wanna maintain the reasonable So abide terrorism is a partner
+[1:06:18.3]  Productivity
+[1:06:20.8]  Two burgers, perfect as a design that cold data and attested that Julie's a sprint because you want to release them
+[]			 So part of the sprint of planning meetings you are such as these
+[]			 First of all, you create a spring
+[]			 The backlog
+[]			 Okay, you do that when you're trying
+[1:06:43.9]  I want to see that I have left you determine the support of ghosts, which is to take a one break out, which in my spring goes and you have a particle owner schoolmaster on the teams on a second party
+[]			 Isn't you Want to create us spring? The backlog? Why? Because when you take a one the block
+[1:07:03.2]  Ouch! You created a spring and on sprint Ages a smaller
+[]			 Yeah
+[]			 You see here a sprint on
+[1:07:11.7]  He wants to have a spring backlog to break inviting into a smaller pieces
+[]			 And you're starting to your implementation
+[1:07:19.9]  So Juno Spring to meeting You wanted high
+[1:07:24.6]  Well, these are a perfect bike blogger team capabilities the pieces conditions the technology's colonel product
+[1:07:30.5]  For all of those, there's a home rich people
+[]			 You come in and listen
+[1:07:32.6]  Their output
+[]			 The output is your spring
+[]			 The goal
+[1:07:37.6]  What do we want to achieve Julissa two days
+[1:07:44.4]  What is the backlog? How many smaller pieces is a sprinter window? A compilation
+[]			 Okay, so this is the eat
+[]			 How's that? So this is a wonderful So from a sprinter goes to spring back allowed
+[1:07:56.2]  So how do you bridge that? The transition from you said Have your goal
+[]			 I want to finish my conversation
+[1:08:14.7]  Bought for this week to the Spring of Love to swim team He takes the spring ago and decided what it Haskell are necessary is that how do you process it and achieve was team of several organizes around how they will meet in the spring ago So manage it doesn't alter assigned task of the individuals But I'd rather than the manager doesn't make a decision for the team that you make their own decisions
+[1:08:33.7]  How do you want it for fuel? That so because of Lined the Supreme Jove backlog is creative So this is one
+[1:08:40.7]  So the spring of backlog attuned spring break How do we take a smaller pieces out? So the team had a new tasker whenever they needed in order to meet the spring ago
+[]			 So we say, Hey, we wanna created these a conversation about
+[1:08:56.8]  So how many smaller Tasca do you need? You need to keep adding to it
+[1:09:01.7]  So the team McAlary more unnecessary task for you
+[]			 Think about our e
+[]			 V
+[1:09:06.2]  Is now they hear our concert
+[]			 Just remove that
+[1:09:08.8]  Leave it to the thieving A sprint on S O
+[]			 But a supreme back
+[1:09:14.3]  It can only be updated by the team
+[1:09:17.0]  Okay, so I estimated the operator whenever there's a new evil mission, Come in
+[]			 So you keep a chin
+[]			 You your springer
+[]			 The backlog over there
+[1:09:24.5]  Since it's a lot of fun over there is interesting
+[]			 So this is spring back
+[1:09:29.4]  Galaga is a spring
+[1:09:35.1]  A big log is a sub aside off particle Tagalog
+[1:09:39.1]  Why? Because you're taking that to be a Blake
+[]			 But the break right, it's smaller breaker
+[]			 See? Right here
+[]			 See, this is a spring
+[1:09:50.3]  A backlog is a subset off part of the Bible
+[1:09:57.2]  Right? So this is the on DDE so that her own is created the only by team members, and the team has his own side
+[1:10:04.0]  Has understood the operator everyday houses
+[]			 How I'm doing for this particular thing
+[1:10:12.2]  Okay, This is no more than 300 Hoskin the least
+[]			 Okay, we're talking about the industry
+[1:10:14.8]  Production is a 300 houses east normal
+[1:10:19.3]  So if it hasn't require more than 16 hours, and that means that house is too big, it took a big for a one
+[1:10:25.5]  Sprink
+[1:10:30.6]  You want to bring that in? The smaller pieces on team can either or subs tracked to the items from the least
+[]			 And a particle owner is not allowed to do it
+[1:10:36.3]  So the team itself became This is just either features
+[]			 This is our spring
+[]			 A bridge in the meeting
+[]			 So you have Who's it? The initials for that
+[]			 It was the ask
+[1:10:51.1]  First of all, his user guide as a miscellaneous
+[1:10:52.3]  Starting on study, a verbal was a chapter to the first draft on this is starting date and then this ending date on and trust how many days? A laughing in a sprint
+[]			 So now we can manage that by by stuff to work very nicely
+[]			 He's good
+[]			 So So now we talk about a sprinter execution
+[1:11:23.3]  So why you identify Sprint what you have done? If I spring up by clog, how do you ask you today? How do you make it heaven so Where's the squash team will finish this spring of planning and agree that on the continent off the nexus sprint, I think your schoolmaster you come together
+[1:11:30.6]  So you want to coach a Pasqua level work force is necessary to get a feature stuff
+[]			 So this is I want to emphasize this so much
+[]			 Um, okay, the definition of a thumb
+[1:11:49.2]  Well meaning There's a high level degree off confidence that all of the work necessary for product called Qala Future has been company to accompany you to tell your story
+[1:11:55.4]  Why was it working with the arrogance? Sitting in Stockholm a five years go by out of my last is vertical
+[1:12:05.7]  So wait, we will look in the R and D team and I stopped home that artisan on you Sweden, that they work with all the global teams because this is a high tech order
+[1:12:21.0]  So we were working on a team occurred at the development of a feature driven, develop a mention for their the while the artists in product
+[1:12:25.1]  So before we doing any kind of the strategy arc picture first, the first thing for us that we always ask herself, What is your definition of thumb
+[1:12:41.0]  Do you know what the definition of them even you know, What's the definition with dumb, Then you're probably, however they are already, so you can do your implantation
+[]			 You can do your planet
+[]			 You come to your architecture
+[1:12:47.4]  If you do not know was a definite of dung that it means that you're not very clear about what you're trying to do
+[]			 Okay, So what do you do? Your sprint
+[]			 I want your team to ask yourself first
+[]			 The question
+[]			 Do we know what age is? The definition with, um okay, Don't mean you
+[1:13:10.1]  What? So the team members, if they find their own casks level and a several organizing in the manner that a few is a better to achieve the spring it goes
+[]			 So your team, my movie see? Hey, I'm gonna do this
+[1:13:17.1]  You're gonna do a diet
+[]			 You know, just that there's a working together on these
+[1:13:24.0]  Now this talk about a tedious Graham
+[]			 I hope your team of your practice from today young So was it
+[1:13:30.9]  That is Graham Predators is daily
+[]			 Of course
+[1:13:34.8]  You want to go there every day about of 15 minutes
+[]			 We don't want to be long
+[1:13:42.3]  Stand up is it? Is it? This is a lace chroma isn't although for problem solving is more about we want to check your status
+[1:13:51.4]  So you want to ask you three questions? What did you do yesterday? Oh, trying to make connections about the python code between the conversation about and trying to make them all together
+[1:14:01.4]  Whatever you would do today
+[]			 Yeah
+[1:14:06.4]  I wanna have some conversations, Every architectural, my input
+[1:14:08.7]  What is the opposite of Costa? Are you in your way? You will see that
+[]			 My owner the code
+[1:14:19.2]  Um, either the wire is of all my pie just cannot become a magnet for my tow my through the wireless to the Internet
+[1:14:25.0]  You can also put that according to my computer coding my pipe
+[]			 So you want a president
+[]			 So this is not a four a this another for problems
+[1:14:34.6]  Something meaning Oh, that the problem that's gonna solve it is more like the status that you understand
+[]			 It was the status of for now
+[1:14:43.8]  So it's not a way to collect information about a horse behind schedule or you are really behind
+[1:14:50.8]  You really should hurry up is not only that, and it's another meeting about the holes making mistakes
+[]			 Okay? Because the team should have working together
+[1:14:54.7]  Very harmonious city
+[]			 So is it
+[]			 Uh, it's not a it is
+[1:15:04.3]  It is a good way for a team member committed to each other
+[1:15:10.4]  See, Hey, today I'm gonna fix that is so you can have a common you on your feature on every common communicator our provides to the schoolmaster
+[1:15:16.4]  So it's a code A way for the school march, The track of the progress off the team
+[1:15:19.0]  Are you on strike? Can you deliver our first? The milestones on time? No, that's it
+[]			 Uh huh
+[]			 That's That's the disco
+[1:15:41.1]  Mus now doesn't talk about the inspection on adaptive activities there Two things one this spring to review we should we talk about a product on that? The other precipitated retrospective
+[]			 It's having a process
+[1:15:44.6]  So percodan process are two different things
+[1:15:56.6]  Okay, when's the folks don't deliver up with product and the others is a way how to the way you work, which the process Park Springer Review supported review is a focus of product that we wanted to a The team real presented
+[1:16:07.7]  What is a compilation due in the spring? Well, you finish that withholding final deliverable right to the milestones, and you will make the former off with my most off a new future are online
+[1:16:19.6]  So it's a Hey, here's my part is talking Buyout eases flashing by said, uh, nothing
+[1:16:25.7]  And then you wanted memories about two hours of progression
+[1:16:26.5]  Time of the rules
+[1:16:33.7]  And you want to have your customers and managers particle owners of our engineers in place to see your demonstration
+[1:16:40.7]  This your product of sprinter reveal so access successful, resulting in a pile of professional information flow, meaning she wore another familiar with your scrawl MMA, We can't get a peek A look at it was Your development is going on right now
+[]			 I know how to guide a set direction
+[1:17:03.0]  On the other hand, er from the swamp team, remember, is a in a deeper appreciation for the prison is on the marketing side off their productivity on getting frequent a few bags from your stakeholders
+[]			 So this is really two ways right for the customer to understand
+[1:17:17.6]  What are you doing right now? I know for the scrum team who can gain feedback from the customers, is it just a wonderful and the other thing is about a process meeting
+[]			 How well we have our team working together
+[]			 How well we are practicing Squam
+[]			 So this is a concept is got a Springer
+[1:17:34.4]  Richards backed it
+[]			 So this is the process part
+[1:17:39.0]  It is a colonel of the Sprinter Review on it before the max is spring
+[]			 A plan in focus on companions, The process improvement
+[]			 You have a scroll with him, only you want feedback
+[]			 You want to ask you three questions? When do we start? For the next spring
+[1:17:54.0]  When we spot
+[1:17:55.0]  When do we stop? Likes a sprint
+[1:17:58.3]  All you will continue for the colonel's sprint
+[1:18:01.9]  Ask another three questions and hopefully to have answered
+[]			 So you don't want it to change anything
+[1:18:08.3]  Julia Sprint
+[]			 Okay? You're only one
+[]			 The changes after the cold is finished, and then you can just have the union next
+[]			 The alteration
+[]			 So plans bring situation around the how long you can commit to keep a change out of this bridge
+[]			 So this is more important
+[1:18:27.4]  If you're are a scramble master, you need to reinforce that practice
+[1:18:36]  Some of the no questions that nominee is Why do we want it to Will have a big day scram Meeting it is a would happen It How does the project got to be a year late? So that's really the problem
+[]			 Because even have a daily meeting
+[]			 You can find the problem early
+[1:18:51.8]  You address it is a problem earning
+[]			 So one day at a time
+[]			 I'd like to hire you to have this book on your bookshelf
+[1:19:02.6]  I get Fried Brook, the musical Man Month radical Brooks
+[]			 Okay
+[]			 I want to you let me find it
+[1:19:09.2]  The booker for you
+[1:19:12.8]  So you know what does it look like? Strongly recommend you
+[]			 Okay
+[]			 Okay, that's the book
+[1:19:24.6]  So you've you're wounded
+[]			 You have with Emma
+[1:19:27.4]  Saved your birthday
+[]			 Coming up
+[1:19:31.5]  Hey, where they gave him for that IPO coming up for they give the least
+[]			 Okay
+[]			 Say, I want that a book
+[1:19:36.3]  So this bottle of Frederick of Brooks Key A's
+[1:19:40.2]  He was a professing a stronghold
+[1:19:42.2]  Canada
+[1:19:44.6]  And, uh, you know, Khurana is always being several places
+[1:19:50.3]  This is a wonderful book you should put on your wife's on your bookshelf if you wanted to be good
+[]			 Good
+[]			 A 70 year
+[1:19:56.5]  This is a very thin book
+[1:19:57.8]  How many pages is seen? He said Great
+[1:20:05.1]  Wanna picture also 100 periods is not nothing
+[1:20:08.2]  Yeah, I surrendered the 1 90 very sick hatch, so it's a very easy read
+[1:20:19.8]  It's another white technical, but a lot of wisdom is offered
+[1:20:20.3]  United Book
+[1:20:26.0]  If you want a puppy up, probably the manager, your career
+[1:20:27.7]  You want to go up in the magic you
+[]			 This is because you master really? So he's talking about his experience
+[1:20:37.1]  Why he's the manager off IBM a 36 I remember opera insisted
+[]			 So one he is
+[1:20:41.5]  Ah, Then let me just show you these
+[1:20:54.5]  So, um, the way he's Ah, uh, I hear I he's a wanted is in 1970 1975 He worked for IBM, then Andi
+[1:21:04.2]  He he's all his These Puritans that developed with his i p m operate assistants back then
+[1:21:09.4]  And while the slogan the classical term coming from visible isn't I want to ask you this question
+[1:21:15.7]  So suppose you're have was forced you than the yellow team, and I'm was dude in the job of the cross
+[1:21:28.2]  So you are really one of the catching off your believable that that's a lie
+[1:21:30.4]  The professor said that that's the life for your next
+[]			 The time change in, is he? Well, week
+[]			 Do you want the other one? You wouldn't remember
+[]			 She got him
+[]			 Oh, you want to continue? You wanna work day and night
+[1:21:44.1]  It's just catching after finish this horrible
+[1:21:46.1]  So meaty that that decision deadline
+[1:21:49.0]  So your options isn't Do you want at a new member to your team All you want to come in? You're working with the 33 team members to finish this A Tosca
+[1:21:59.0]  But it rather than you want work overtime, right? You have to catching up
+[1:22:02.9]  We cover the loss of four of one team member
+[]			 So what's the option? Leave your schoolmaster
+[1:22:10.7]  I se ho
+[]			 If you wanna want to remember, I can give you one team member was the option
+[]			 What does that mean for looking for you? That's another ocean
+[]			 Okay, bringing you cannot really want your finishing
+[1:22:30.0]  Tell Levine that we love you
+[1:22:32.1]  Ideal? No
+[]			 So now you have ocean you can bring when you remember to your team or you want to come in
+[1:22:38.9]  You're finished working overnight
+[]			 Finish the job
+[1:22:43.4]  I see your button
+[1:22:47.3]  If you have ever been documented and you we all know where he is, we can continue to do his part of working
+[1:22:53.3]  Just delegate
+[1:22:54.8]  What was supposed to be done by him to the rest of your team members? Yes, but you don't want to add a new member to our team
+[]			 This also training involved? Yes, that's it
+[]			 Keep hard
+[1:23:07.7]  This is this is just you contracted with the broker is talking about
+[]			 So the coming occasion, the treaty, um heart awful
+[]			 The new member
+[]			 It's caused us so much
+[]			 I know what he said in the book, huh? I hope you read a book on here
+[]			 He said you wanna add a one member to a team toe a later project? We will make this a project even later
+[]			 You went any later? Even more so
+[1:23:32.2]  That's a watery experience that he has
+[1:23:36.4]  What he working with the FBI mob princess seems immune
+[1:23:37.2]  Army 70
+[]			 I was so Yeah, so that's exactly what he said
+[1:23:43.7]  While they is it less inverted kind of a country to intuit it Well, but actually it's not
+[1:23:51.7]  So this So So this is one of the brick
+[1:23:59.8]  So now is it, uh, kind of school meetings that repressed by e mails? No, because you wanted to see that doesn't
+[1:24:04.0]  Talking is more efficient and we talk about a communications
+[]			 Right
+[]			 So you want to just have a complication? Maybe the daily scrum
+[]			 So there's a part of the squad in practice and I hope you like it and help you practicing your team right for now
+[1:24:25.9]  And you use a travel to manage your scram Practiced under you invited me to be your trailer
+[1:24:30.0]  Also, I'm gonna be a ghost and looking at your progresses
+[1:24:33.1]  How many Paschal you how far you're moving along So they take a break
+[1:24:37.8]  Mammy will come bike far
+[]			 Next lecture
+[]			 That's, uh, on you at least lecture? Yes
+[]			 Okay, that that's Ah, continue in this lecture where you were
+[]			 So we're gonna talk about this extreme
+[]			 I mean, this is related to you or the scrum
+[1:39:20.3]  Actually give you a little bit about background off
+[1:39:35.6]  What is another practice of what is the agile, um, sufferer development? So this is another example this extreme providing So first of all we talk about extreme okay, Wouldn't me by a string
+[]			 You always say we want to do something
+[]			 That means that we want to bring something of the quarter practices or by the practices told the extreme level
+[]			 Let's call it extreme programming
+[]			 So the whole idea of the treatment programming is evil
+[]			 It is a price
+[]			 The practices awful code review that we wanna have 100% of a coder review you wanted to have a the president
+[]			 The 1st 100 the ties the case of covered the code we want 100% of the cold is covered about has cases
+[]			 So that means that whatever is the code of practice, that we want to point out that you trim level
+[1:40:22.3]  That's why cover treating programming is it, uh, started by allow the pioneer of weak stream programming
+[1:40:32.1]  So working together with the wrong Jeffrey So hurry, He's work in the came back
+[]			 He's work early, work on design patterns I give you have, ah, the book design patterns
+[1:40:42.2]  Talk about it
+[1:40:46.4]  A learned from the term off architecture the way you have acted beauty in the house
+[1:40:47.7]  So you haven't even of hiding his wine
+[1:40:50.3]  So what about you in the arch? How even the gardens
+[1:40:55.9]  But even the gazebos even death the corridors So those are the architecture and then those people talk about it
+[1:41:01.6]  A silver divided Holman
+[]			 Jim, we have, um the idea is the idea Is there some way to handle exception handling feeds that we have exception handling
+[1:41:17.8]  Then we wantto bring that Italy into the repeated that So you have a certain ways the handle, the back of the wagon lit
+[]			 It happens
+[]			 A processing
+[1:41:28.2]  We want to have a patent toe access that so pattern is awarded
+[1:41:33.7]  You capture our common practice, you know, structure the way and you can copy
+[]			 It is, you know, couple of that again
+[1:41:35.9]  Again, again
+[]			 So using that
+[1:41:46.1]  So the ken back is under these I'm Pan is, um, to the ward because trimmer from the English Dictionary days for the largest of the possible among them off a degree of some of you, there's something
+[1:41:55.8]  Could be anything you can say that extremely pain you treatment tree must do pity
+[1:42:00.9]  You trim wealth
+[]			 That means a larger among her for something
+[1:42:16.9]  So what we call, what is Jim programming? That it means that we won't breathe the vice the practice off with some some off the coding practices to that Diggory off the maximum
+[]			 That's what I mean by the stream
+[1:42:23.5]  The extreme is a wall of the several New Life Way too
+[1:42:25.7]  Suffered one of a mother off a smaller to medium sized team, which is what you are doing right now
+[]			 And its software, Uh, methodology A
+[]			 A set of rules set of rules on the practice user to create a computer program
+[]			 You wanted to have them together
+[]			 So on the country on the other side, we have something called a heavy waiter
+[1:42:54.1]  Self directive element
+[]			 It has many rules
+[1:42:58.6]  Has a mind of pack cases that has money
+[]			 Documentation
+[]			 Well, the heavy developing the rules
+[]			 I want you remember Ace and Carter
+[1:43:08.4]  These rock we mentioned that any ourself engineer, you boot camp a rain drop you for anything
+[1:43:14.7]  Anybody measured rob to you
+[]			 You shouldn't know what it is
+[1:43:18.7]  Okay, Robert Asia, I should know
+[]			 Unified, I'll say so
+[1:43:30.9]  We covered that in our sovereign's you electric
+[1:43:33.7]  So you forgot about whether they are Go back
+[1:43:39.8]  Rob has a This is one of the example of a highly leech process
+[1:43:50.1]  Is it? There are three characteristics offer, Rob
+[1:43:53.4]  Why is that a use case of sentry? Why is it uh, detour? Joshua? I'm sorry
+[]			 Love it
+[1:44:11.5]  Architectures sent you architecture
+[1:44:19.2]  Your folks on architecture on yours, Casey driven
+[]			 Well, you have one lecture on use cases
+[1:44:26.9]  I will give you over Burke with a lecture on How do you use use cases? And how do you manage that? Use cases in the industry production way
+[1:44:34.7]  Not adjusted for toy toy
+[1:44:38.5]  Okay, so this is how three features off the rational Unified A process
+[]			 A model
+[]			 This is model
+[]			 Okay, they say that
+[]			 Why would a highball Hey
+[]			 Hi
+[1:44:45.9]  Ve waited seven A process model
+[]			 So this is three features, and you want to use caused human
+[1:44:50.3]  You must draw use cases of first who you story like on
+[]			 Do you want to have your This is the 1st 1 I'm sorry
+[]			 This is number one under
+[]			 This isn't number two and number three one two under three
+[]			 Okay
+[1:45:10.4]  And if I were each Richie would divide a woman we seize on the, uh, the three features
+[1:45:22.5]  So this is while the highway waiter on the sovereignty where Martha has many rules and practices and documentation
+[1:45:30.3]  So, on the country, what is the lighter weight of methodology has only a few rules on the practice that we are easy to follow is a very easy Paula
+[]			 We don't have a highway waited on occasion
+[1:45:41.6]  We can just the a butter human communication aren't This is by emphasize on the humans the motivation versus follow strict the rules
+[1:45:54.5]  So we treat the summer development, another like in the manufacturer
+[1:46:00.0]  But rather than motivated human, the people talk getting involved
+[1:46:05.6]  So it is a deliver, a deliberate on the the supreme, the approaches to some pretty but a comment
+[1:46:16.6]  So this is just a wonderful idea because the forces start out with the extreme programming from Pamela the Chrysler
+[1:46:19.7]  The car into Germany on the deformities is just a such a nice away to produce a the car in Germany and they use that in a sovereign government is just this very more successful
+[]			 So making things are so small
+[1:46:33.0]  So I Giles easy to react under
+[1:46:37.6]  Then again, easy to write reactive
+[]			 What is right on the chin, your requirements
+[]			 OK, there's a keeping in mind
+[1:46:48.4]  So So it works by bring the whole team together in the presence of a simple practices
+[]			 They make up only two promises
+[1:46:55.9]  The first of all is a promise that trooper programmer, So it works on the things that I might Herson And it don't have to face a scary situation along on a tool their pies that will make a system successful because the title programmer you gonna working in pairs, You're gonna have a partner
+[1:47:12.3]  You're gonna have a teammate, anything We don't know how
+[]			 I don't know how
+[]			 I don't don't know how to do it
+[]			 You will know how to do it
+[1:47:22.1]  Okay, so that's the photo programmer
+[]			 So make it one promise
+[1:47:34.9]  And the problems to the customer we're seeing on a manager were saying, like, you want to get the most the possible value after every day's work because I'm gonna have a constant deliverables to you and I ever have a concrete progress on a goal every few weeks
+[1:47:42.5]  You changed directions without eggs, Aubrey
+[1:47:45.3]  He was obedient
+[1:47:46.4]  He was opened the cost
+[1:47:52.0]  So if I have anything changes, I can you find me the any mistake, we can change it right away
+[]			 We don't have a weak on me sick and so long, and it is too late to change
+[1:48:03.7]  So this isn't really the making two promises to the true stakeholders on two sides off the comet
+[]			 So for that treatment takes the common, says the principal on the practice is to the extreme level
+[]			 So this is what his team is about
+[]			 First of all, you are thinking about a colder review is good
+[]			 All right
+[]			 So colder
+[]			 You is a common practice of from industry
+[1:48:22.5]  When you write a cold, I'm going to see a record A review by human, by the way
+[1:48:26.1]  So if you think a colder reviews, Goda Now, what do we do that brings the extreme level as it to a pair of programming? So he's not gonna be one person to the program anymore
+[]			 Let's have two people constantly review the colder
+[]			 So one person's a typing on the keyboard
+[1:48:43.2]  Er right here, the other just looking over your shoulders looking at and what you're typing
+[]			 I will tell you what is wrong
+[]			 What is now was right
+[1:48:54.8]  Okay, so now everything about the self, the self aware need to be
+[1:48:56.4]  I have 1/4 past in case it isn't
+[]			 So you have a president
+[1:48:59.4]  Cases we wanna have You needed testing
+[]			 We won't have a functional testing
+[1:49:05.1]  We wanna have What a U N
+[1:49:05.3]  Hesitant, driven development which is what we wanted, right? It has been colder before
+[]			 We're right in the coat
+[1:49:14.9]  So you using desires? Good
+[]			 You won't have a good design before you write a code
+[1:49:25.1]  So now we are doing what could a re factoring I wanted? You know that the concept of the factory reflections that it you take it, you season cold
+[]			 You're bringing this coding in tour for the cold
+[]			 It's not a very modular
+[]			 You're bringing Cody into modular and the make of the cold and more breaking cold
+[1:49:37.9]  The functionality of the colder Miguel Cola modular kind of re factory
+[1:49:45.2]  We found a chain of the functionality, but you'll make it the code of structure because it's so much nicer
+[1:49:58.6]  Kind of refectory says that you put the Legos together, we organize them nicely organized and even simplicity is good when it developed, the coders symbolizes the coder
+[1:50:07.3]  You want to make the simply to the thing first, let it cool the positive work and the architecture's good
+[]			 You won't have a metaphor
+[]			 So you will say we want a developer suffer
+[1:50:15.1]  We wanna have architecture architect, Arctic architecture treaties on so that we need to use a metaphor
+[1:50:18.2]  Metaphor mean your analogy
+[]			 Okay, what do you talk about it? The house is you
+[1:50:31.1]  You Are you even on energy? So you've got hung about integration Has any support in the Let's have our companions integration Always integrate
+[1:50:32.9]  So you're the divider from the room
+[1:50:41.4]  When you go to a company development, will they have a machine is sitting over there told of a dedicated to your immigration at the interval date continuing ed occurred
+[]			 So that means that we have a working software at any time
+[1:50:47.8]  So short on inspiration is good
+[1:50:51.6]  Let's have a planning Games just like him have a short intuition
+[]			 So those are the values to bring either the principal off this a common sense to the extreme level
+[1:51:02.4]  We want a practicing witch with the fullest
+[]			 So this is a concept off a stream programming
+[1:51:10.6]  So we want to emphasize on Kai Sting on passing
+[]			 Well, so another important issue to customers are the box customer Don't want help bugs
+[1:51:24.6]  So you stream programming ever size of not only tie sting, we must have typed in the well in the sense that the Tyson is the automated A heist pricing on
+[1:51:27.1]  We want to provide a safety night for the programmers on a customer unlike so that it ties that are created before the coding, which had caught a President Truman devoted, weren't you? Why the code is being written off the coldest region, So meaning the says the case is totally given
+[]			 The your cold is 100% of covered by ties of the cases
+[1:51:52.9]  So as the bugs are found, the new hostages are aided a city night off the tide, a mash off
+[1:51:58.7]  This is created, so no loopholes
+[]			 Your colder
+[1:52:02.3]  So Parker do not gonna through twice
+[1:52:08.0]  This is something that a customer well, no taste because we have a peasant, kowtow before President jewelry and hasn't after another beauty of extreme programming that embrace the changes off the requirements
+[]			 That's why we call her age
+[]			 I'll write
+[]			 So the age eyes a another thing
+[1:52:23.0]  Your cousin
+[1:52:24.6]  Maybe you'll notice at the attitude of as the stream programming I speak
+[1:52:27.5]  Programmers have a travel the chin requirement because they are enable us to dream reimport embrace
+[1:52:40.0]  The change is too often a chasm of you see a real opportunity for making a system a useful after there has bean being delivered
+[1:52:50.6]  So if you have ah, the x p short a constant basis by tracking customer feedback early
+[1:52:57.2]  Why there is a Stuart time to change your functionalities on they improve the user acceptance
+[1:53:01.7]  This is a beauty and your customer, Devon the you bending to notice these
+[1:53:05.5]  So this is a This is the part about the relationship between your 1000 team with your customer and he wanted to deliver the working self to work through them fast
+[1:53:15.3]  So the applications, the risk a project with the dynamic changes off the requirements are too perfect for X p because I can reacted to the catch in your requirements of soul faster and so easy to dio talked to change because we can't because we cheat
+[1:53:36.8]  How about this constant, um, coast in tau interaction with the customer
+[1:53:40.2]  So you many silvery environments that dynamic changes requirement is the only constant
+[1:53:46.6]  Nothing was guarding Cheetah Young, leaving guarantee there isn't changing requirements
+[1:53:49.7]  That's the only thing guaranteed
+[1:53:53.5]  So you have another's talk about the four values off each in programming is the first of all improve the communication and that a communication is a three ways communication from managers, programmers communication
+[1:54:10.3]  Because I want to see you are progressing from program
+[]			 It'll customer
+[]			 I want to see the working product under from the customer to prove that the manager is I gave you a satisfaction feedback
+[1:54:26.3]  Okay, so the three ways of communication with their another value is gotta seeking its simplicity, which is a simple and a cream
+[1:54:30.9]  Jeez, I I mean, talk about Liza one by one, more tap for you
+[1:54:36.6]  The next slide, The third away is getting feedback
+[1:54:49.3]  How do you get a feedback from your colder? You want a pasting, right? You want to have a lasting bond with has been unit has thean function of hasn't immigration has the regression ties thing
+[1:54:53.0]  You wanna pass it in that you want to get a few back from Yokota and then another beauty off
+[1:54:57.5]  Extreme programming is proceeding with the courage
+[]			 This is another
+[1:55:03.4]  Any other, uh, development processes have basin
+[1:55:08.8]  You want to deliver 1/7 season early? You want a response of changes already criminal on the technology and how I have example later for you
+[]			 So let's talk about the first value off between programming communication, Some of the problems the hype in jail with your development project
+[]			 This is really due to like off a communication
+[1:55:27.0]  Communication could be between the program
+[1:55:30.5]  It of programmers Didn't talk enough
+[]			 No, this is the future
+[]			 We want to develop a But this is not so
+[1:55:35.8]  This is a critical changes
+[]			 I changed the one part of weight without you
+[]			 And then you think the chain of the other component
+[1:55:45.0]  So this is This is something we call the impact analysis
+[]			 You didn't change that
+[]			 Another from a customer to the programmer
+[1:55:55.1]  You wanna ask the right question? Do you remember was a Vienna V
+[]			 We're gonna be right
+[1:55:59.3]  Verification of earthy validation
+[1:56:04.7]  You need to know what they are, right? I'm gonna ask you these in exam because coming from this class is a while
+[1:56:12.0]  The features I want, you know I want you come precision with the anybody's Who's a professional? I wanted your conversation field with a professional
+[1:56:20.3]  What capital? Reza After this class
+[]			 Ok, you don't want to talk about these things that I think you don't cover that
+[1:56:30.2]  But you have to tell Kawabata, use your professional vocabularies The carriers south of ira, professionally through your professional vocabulary your language
+[]			 No conversation
+[1:56:50.8]  So another feedback aids communication between the manager and a programmer because the manager of you know at any time what you're doing How while you're doing Manager noted the health of your code So many circumstances Khalida toe are breaking down communications
+[1:57:08.3]  You know, you can see that from the three become communication so x p keep the writer communication flow by using unit attesting pair of programming in two people working the same cold on the task of estimation
+[1:57:10.7]  This is how do we drive this communication problem? The second of value off extra programming is kind of simplicity
+[]			 They ask us such a question
+[1:57:24.9]  What is the symbol is the thing that it could be Post quote a positive work
+[1:57:33.2]  So even think about your, um And then you can either the more complex and more sophisticated future later
+[1:57:38.8]  So you think about it? He we want to have is a plant, you know, automatic watering
+[1:57:41.6]  The problem was this impressive thing
+[]			 I can't We're gonna work
+[1:57:44.9]  I'm talking about a fee bound for your user
+[1:57:54.4]  What is it? Off course that even they can talk to the user Say Hey, the water is a finishing unless it be easier, right? But the simplest thing was, what? How we delight right Queen, this queen, other right green than her, right in the yellow on a greaser
+[]			 The promise
+[]			 A perfect and finish
+[1:58:06.8]  The yellow Union is joy, so that's a simple thing, and you can't get more
+[1:58:12.9]  On top of that, more conversations, most sensing like more hype a phase
+[1:58:15.2]  And I guess so
+[1:58:19.5]  But the first thing is, was, this simple is the thing that it could possibly work
+[]			 In other words, you can use the array to finish your code
+[]			 You probably don't want you to think, please, right? So simply say, it's not easy
+[]			 It's very hard to work not to looking forward
+[]			 How, How about evil? Have something future forward
+[1:58:42.4]  So you want us always a blunder to hire more, right? So X p philosophies today's to do a simple thing today on the pay a little bit more tomorrow
+[1:58:49.6]  But this off course, this comes with a price
+[1:58:55.7]  If I use the Link array to tell my implementation on tomorrow, I want to change your Lincoln least, which is more dynamic, that you have a change of the whole Your structure is another easy
+[1:59:02.6]  So the enemy is the axe piers making a bat right
+[1:59:05.5]  Simplicity and the communication mutually support each other
+[]			 You know, the more simple thing you do, the easier you can make in your communication
+[]			 This way
+[]			 You to support it
+[]			 The third of value is called a feedback
+[1:59:22.0]  Concrete feedback from your code is so price price
+[1:59:25.6]  Elise is so available
+[1:59:38.2]  So if there's a one Heizer for the professional Heizer, to be a sovereignty year is being too optimistic
+[1:59:41.2]  You never want to be too opportunistic
+[]			 You can be a good hour looking your life
+[1:59:45.5]  So I'm very obstinate Getting my master decree get on my page
+[]			 Do you find a good job? Right? That's good
+[1:59:56.7]  But why is coming to work it with coding? You wanted to be a pessimist
+[1:59:57.6]  Pessimistic, right? So be feedback is a good a treatment
+[2:00:03.1]  You want to see how cold between Give me feedback and we'll have any bugs
+[]			 Do have any exceptions
+[2:00:14.6]  We have any How do you have the the exception and the you said on Hannity? Sophie bet worse at it
+[2:00:18.7]  Even in times of scales, you have a minute's and days which you use your unit it has seen for the logic you can have weeks in the months for your function testing for all the description, descript description, implantation
+[]			 You work together with the communication that simplicity were so well, you know, that's a complication
+[2:00:38.2]  Feedback This a walkabout with the other two
+[]			 But it was another is a courage
+[2:00:45.1]  So what you discovered there's no way looking forward
+[]			 This is so important
+[]			 Use thing about it, I just cannot go forward with these cold
+[2:00:55.4]  It is so messy
+[2:00:57.4]  I just don't know how that feels the cold
+[]			 Why feeds the park? Why fix the one bug? You should use the two more box of 10 more bugs
+[]			 This happens by the way I am experience
+[]			 That's all the time while trying to feed the one bug
+[2:01:11.6]  When whenever you work, the more complex systems you fix the one body you should use a 10 more box to it
+[2:01:24.3]  Right? So when you find your no way forward, six then sees the floor even is meaning toe break 1/2 of your Tyson, Would you do? It? Takes courage
+[2:01:26.2]  You threw Cody away
+[]			 Something isn't the going well
+[2:01:32.0]  Your code is a little out of control in the inner today, so start over on the most
+[2:01:42.0]  Probably isn't design starting from clean design? Told it, Is someone things away? So this is the Courage party
+[2:01:49.9]  You think that because you're single o cast your figures his age can
+[]			 But the problem is that the model figures that the more you'll you're easier to come on
+[2:01:57.9]  And then, more importantly, from my background, my burger might reverse engineering because my phD was a whole phD was a BMW code
+[]			 So it's a reverse engineering
+[2:02:09.3]  The problem when we're dealing with a legacy code legacy code a median
+[2:02:16.9]  The code is old right? The more you fi see, the more you pageant become a traumatized, the orange of design
+[2:02:21.1]  The architecture is not a recognizable anymore
+[2:02:23.3]  What is the activator? No more there because you keep putting the bandages your cold so becomes so hard to maintain
+[]			 So sometimes a problem
+[2:02:35.8]  The biter taking car just started over, particularly when you have a Samara code
+[]			 Not that I'm singing right here
+[2:02:43.3]  Why do you feel like a isn't out of control? There's agent that No, wait, go the week going forward just start over again
+[2:02:51.4]  So aka Zippy has these, um 12 major practice is very important
+[2:03:04.6]  Was the planning game small release metaphor Simple design testing Re factoring a pair of programming
+[]			 Collective ownership of continuous integration
+[]			 40 hours a week were important
+[]			 You don't want to get overtired
+[]			 We type, I would have
+[2:03:15.5]  Example
+[2:03:17.6]  Which is super bide onside
+[2:03:19.2]  A customer in the coding sender
+[]			 Okay, I gave the example
+[2:03:22.2]  Someone's How about Liza? But it doesn't give you a bigger future
+[2:03:26.1]  What is those 12? Practice off extreme programming
+[2:03:31.3]  1st 1 is a plan in game pregnant game
+[2:03:32.5]  What is Utopia? Arcadia Nature
+[2:03:34.2]  My You've designed yourself
+[2:03:35.1]  An assistant was right
+[]			 You wouldn't have a good architecture
+[]			 So, writer, let's do the planning game
+[2:03:48.4]  You want to quickly determine the scope off the next? The release by companion reason, is a priority is on a technical estimate
+[]			 So this has come back to our sprint
+[]			 We should just talk about us this spring
+[]			 The backlog so you could talk about I'm gonna have a hour
+[2:04:06.8]  My conversation part mrs Your extreme symbol to dio Writer, Do I have my speaker writing? Do I have the component that you know Walton Services
+[2:04:24.6]  How? How do I compare my pie with the old by speaker? So those are this your piece? The party's on your technical and as the mission as Mitch and you wanted to predict him What? It will be accomplished by the due date
+[]			 That means that in your sprinter planning every another day, every two days planning for that
+[]			 And you want to determine what to do next, which is your next this spring
+[2:04:40.4]  And also you want emphasize on stirring the project? Are we in the right direction going forward? Oh, should we reward reverse to our previous state? Somebody else? You won't do that, So kinda, um So small releases
+[2:04:58.8]  Which is Alexa Value? You wanna put a simple system into production quickly
+[]			 This is the That's why we won't ask
+[2:05:08.4]  Have a spring a backlog release The longing has status after where a deliver business value chosen by customer for every situation small
+[]			 And this is even have a sprinter A backlog
+[]			 You wanna work with your the product owner? Okay
+[]			 What is that? Our own? What is the our next the sprint? The goal
+[2:05:31.9]  We have a spring a goal and you have a sprinkler on the the backlog toe match
+[]			 So release a new version on a very short cycle
+[2:05:46.1]  Which is the four website? Creepy on a daily basis on before the house in housing project of property on the monthly
+[2:05:47.8]  All more frequently, you know, you are small release on
+[2:05:56.9]  Uh so every reason should that be and smile possible want campaign the most valuable pieces of requirements And these air Eva way mirror
+[]			 This is a bike to the spring
+[]			 The planning This will be our spring
+[]			 The backlog
+[2:06:15.4]  Our You know, our product backlog, which is you have a highest the A party training offyour all the future
+[]			 So you want to implement So this is Ah, good a thing
+[]			 Okay, so small release
+[2:06:29.5]  So what I have is a lecture You I want youto relief it a package with this Squam practice
+[]			 Okay, so we can see that
+[2:06:34.5]  How this if things worked out the hanging hand together? Another thing has got a mind to four
+[2:06:42.5]  So when you have your architect to design well, you kind of want to convene your design information, your design ideas with the out of even a stakeholders
+[2:06:51.5]  Sometimes they probably don't understand in the technical jargon
+[]			 And what do you want? That you won't have a metaphor
+[2:07:00.6]  So money for his guide, all the development with a simple, shared A story
+[2:07:05.0]  So when you have the own the scenario base that divide a woman to walk over users of scenarios
+[]			 So you see how this my water, my plant will be work
+[]			 You can walk, walk with them to see what you see
+[2:07:17.9]  The evening indicators
+[2:07:23.7]  You know the level of the water, any data you need, the words in the water on all the the water is dry and then we have a way to a community
+[2:07:30.4]  Get to you either through the light, Also with a conversation about Still go through the scenarios with them
+[]			 Say what you have with a check her out of the the shopping car design
+[2:07:44.5]  Okay, this is have you clean? How do you do the shopping cart and how do you check out? So the manure for habits everywhere on a project
+[2:07:49.2]  I understand the basic elements that you can communicate under their relationships
+[]			 So what? They talk about the basic element on their relationships
+[2:08:00.1]  What is that, a Z? We're talking about architecture, right? Architecture
+[]			 It's about a component on their relationships
+[2:08:05.8]  So it replaces a much offer with five people called the Ark Victor
+[2:08:11.5]  Because we use a metaphor analogies
+[2:08:19.7]  So our head in the pig about is a boxer and the connections that is really just a simple worsen off workers, the suffer architecture is about and the emotion later before What way? How did the lecture on suffer our cater? I said that they're two people's name
+[2:08:39.4]  You should remember it, right? You know, if you want to be a if somebody you want a big people say you owe some bigger company Become a bigger any truffle feast Book jeans You know those names are two names saw suffer architecture
+[2:08:51.3]  Is it a merry short? Right? Remember I attended David Garden
+[2:08:58.7]  Both of you from the CME eu, Carnegie Mellon University in piecework
+[]			 So there is a silver architecture, bigger names
+[]			 I know
+[]			 So when you talk about it, that was opposite orange
+[2:09:18.8]  A development is the OTB barn
+[2:09:19.1]  Its houses
+[2:09:29.6]  So listen, man, you for maximize a simple design
+[2:09:40.2]  Simple designed The droid designed off silver at any human time is the one that what What color is the writers of our market? Architectural design runs out of Heist has no duplicate of logic in that and no, too cold interim the same logic another stays
+[2:09:55.3]  Every intention important to the programmers had the fewer possible clauses and the method That means as simple as a possible
+[2:10:04.2]  I said, if you can use the array to implement hater don't usually increase the way you imagined
+[2:10:06.3]  Use a double increased
+[2:10:15.6]  Okay, listen, So you wanna start a symbol and a key body to that away on the also you want a design exactly suited for the current of functionality off the system
+[2:10:20.8]  This kind of abuse, the very country or so How about my wo mite? This isn't want tomorrow
+[2:10:28.7]  So how do you talk about a scared ability? How do I scale my system now? I can handle 100 users
+[]			 How about in the future my company become bigger? How I can handle like 100,000 users
+[]			 So the principal, the spirit help keep it
+[]			 A simple design is you don't wanna have any wasted emotion
+[]			 Union ho
+[]			 You want to do something perfect
+[]			 But then that it prevented you from getting things done Okay
+[2:11:03.6]  Why don't we just get a sum of dung simp in the simple we done and then we can worry about the complexity in the future
+[]			 You don't have any wasted emotion
+[]			 You're always ready for what is next
+[]			 So you want to put you know what you need? What? You need it
+[]			 You don't know
+[]			 Think about it
+[]			 Okay
+[]			 Would have happened if you want a build of the houses
+[2:11:22.3]  So I had to be hurricane prove
+[2:11:23.6]  What happened? The earthquake approval in how these visitors that's got a single thing that down for us
+[]			 So this is the opposite of from the implement before today
+[2:11:33.8]  It designing for tomorrow
+[]			 There's a school of people really young folks on that
+[2:11:43.4]  So there's this is the, uh, the opposite off a folk song
+[2:11:44.6]  We won't have Timo design first
+[2:11:52.9]  Now, like the principle of X p is Thai stick strong, undersized aunt has things no other the development demise
+[2:11:58.8]  So ampersand has
+[2:12:01.6]  So they put a rising out of the foundation, offer the development lot of justify stink
+[2:12:05.5]  They want a healthy well union
+[]			 They wanna have the beginning with housing
+[2:12:09.8]  You and your attic Has the code got a TV D remember, I'd read a t d d For you
+[]			 It was somebody
+[2:12:17.3]  Imagine TV idiot
+[2:12:18.4]  Hi, steam driven develop on this
+[]			 That means that you want to write your ties the code of first before you're right on the coat
+[2:12:39.3]  So you want it? Has it before, during and after Code is a region and that both of programmers, the customers, companions that right of his coat
+[2:12:49.0]  But this is hasn't given the vital Munch has the driven mother testing okay hasn't driven development, which is you working in a very short cycle where, like, your idea has cases and then make the work and then just add another
+[]			 You produce another cold, but it hasn't made it work
+[]			 So the team produced colder with it
+[2:13:10.3]  A near 100% of has the coverage 100% so toe the way that they don't need to write it on a T shirt anymore
+[2:13:19.5]  There's no doubt come documentation saying what did this appears? Ochoa's doing rather than you using the past the cages repel what this piece of code is doing
+[]			 So the code of produced by access, he has a very fuel documentation, which isn't all good for the future
+[2:13:33.4]  Meeting Meza is survive are bad idea
+[2:13:43.5]  So you wanted tohave? Ah, you needed a feedback on how the codes are doing before releasing any colder to the repository
+[2:13:45.8]  Every single unit has the mustard wrong, cracked
+[2:13:51.4]  So this is the the test has June the weapon another white
+[2:13:55.1]  He was caught a re fracturing
+[]			 And I said I'd give you the concept off
+[]			 What refectory is your break of the cold? The cold is that it doesn't have a structure
+[2:14:04.5]  You breathe the colder reorganized them very easy, understand the clean, colder
+[2:14:10.3]  It's the refractory
+[2:14:12.7]  So you want to program a restructure the system without a change? His behavior? We thought the chin yin is a functionality
+[2:14:20.6]  So you'll remove duplications, improve communication, its simplicity or either flexibility
+[]			 So we told her it was a good architect to design cohesion A couple ing right
+[2:14:31.1]  You won't have Farber high cohesion
+[2:14:34.5]  You won't have viral coupling
+[]			 So even the cold is not going to that degree off on satisfaction
+[2:14:41.0]  You have to re fracture them
+[]			 And this means that you do more work of the necessary to get a future running thought
+[2:14:48.7]  The purpose that we insure anything, adding, in the future we'll have a reason reasonable a bung
+[2:14:55.8]  The effort has just added to it beautifully done
+[2:14:59.0]  So re factor
+[2:15:01.9]  One says he will ask you to do it, Not on speculation you, you will see, is the majority
+[]			 What a system
+[]			 I ask you how the season will ask you to do things
+[2:15:08.9]  Schism cannot talk
+[2:15:11.4]  How does seasonal ask you to do things through? Has the cases while you run some of his cases, Not a producer while that it means the season not going well so that you won't have the factory on the on the refectory part
+[2:15:37.7]  So another value cut a pair programming that is the We want to have a two people working on the one piece of a cold, some intensity
+[2:15:40.4]  So all productions The coding in the SP is a beautify to programmers psyching side by side
+[2:15:47.1]  So you see the Pamela questioner, the car manufacturer CO of the Peter
+[2:15:53.0]  One person sitting over that the evidence and see the play outside
+[2:15:55.6]  What does it mean? That imprisons sleeping when they are still have your cold? Hey, let's call the baby
+[2:16:02.8]  What should I do that Oh, take care of that virals
+[]			 And then there's a call
+[]			 Use that of functions
+[2:16:08.7]  So when pattern is coding, want time to think about a strategically, what should we do next? They're here
+[]			 So on this, a pair long, just a one is always sitting coding
+[2:16:18.7]  The other, I was thinking, is a chain of dynamically the change another only the the hair That means Eve, your total war together
+[2:16:26.9]  In this awake nights a week, you change it to somebody else
+[]			 You pair up with somebody else
+[2:16:35.8]  So the pairing Koda is a real by the elites, the one other programmer
+[]			 So which is better design but a testing on a biter coding? So too, has really are better
+[]			 That one and the good of thing off
+[2:16:46.1]  It's a pairing because apparently we think there's a team
+[2:16:49.5]  The chin of their partisan are true
+[]			 Keep a chain of their parent partner
+[2:16:57.8]  So it was the Monday jail for the changing the parent partner, and also they want to change our defender port on the colder
+[2:17:09.8]  It's got a cracked Abel ownership of it all, but that's a later, which is that these one So everybody takes responsibility for the whole system's
+[]			 It's another like a Oh, I'm responsible for the database of hard
+[]			 Nobody can talk to my part
+[2:17:25.2]  That's all good, because if that a person is leaving the team, even that a person very, uh, promote hater that nobody understand that was going on with that it by the part anymore, right? So this is called a collective ownership
+[2:17:36.9]  No to everyone knows every part of equally well, although everyone knows something about each of heart
+[2:17:44.5]  So you can always know that a house that is the new and I don't work of parts doing how that is a machine learning official recognition to him
+[]			 You don't know well, you know a little bit
+[2:17:56.3]  So any pair of the programmers can improve any code it anywhere at any time
+[2:17:59.9]  So this is holding of the opposite, so I'll call to get the benefit for one of many people intention
+[]			 So there's the opposite off
+[2:18:07.3]  No owner shape, our individual ownership
+[]			 No ownership of that
+[2:18:12.6]  Nobody understand that a part of and nobody's responsible for that apart, but you needed you almost have a meaning that I only it's a part
+[2:18:19.0]  Nobody can touch it
+[]			 So this is a A
+[]			 Collective ownership is a dress that a problem, another easier is called a companion
+[]			 See integration
+[]			 The team will keep with a system of fully integrated at all time
+[2:18:44.7]  So if you go to the comedy which is, you know, like any company largest company can see somehow to get out of this one
+[2:18:46.2]  Machines dedicated sit outside dedicated the four immigration all of him
+[2:18:58.3]  So you've your system of evil system is broken, We can quickly review reverse back It'll the premises of some before our do the integration and we can find out where the problem is So one as PT more for a people beauty at least eight or 10 times a day when we were a hell of a field that means that a pull the seams together in secret it together and deploy that So we do afford it happens that meaning causing the beauty have a machine dedicated to integration
+[2:19:26.1]  And this in integrating one set off
+[2:19:32.4]  A change is our time only one change of time so that it is obvious the ho couldn't fix attack a tax ah, taxes that it fails
+[2:19:40.6]  We know that right, because we have this con continuous integration part
+[2:19:45.7]  So this continuously in question another value is off X p s 40 hours of work
+[2:19:58.4]  They wanted to do this practice that they want to maintain their and years afresh
+[]			 We wanted to have a fresh mind
+[2:20:05.3]  You don't want to run you over work so over time is a symptom of a serious a problem
+[]			 All the project You probably can't overwork us
+[]			 It won't two days
+[]			 But even I have more than two days for the past
+[2:20:17.5]  The whole weeks, Every day I celebrity three clock
+[]			 Let's something's wrong
+[2:20:33.2]  You needed a lesson out of something can be fixed by just a by working for over time So you want to keep a fresh Keep crate able Keep careful Keep a confidence so x x appear Rule said You cannot work a second a week off over time something's this
+[2:20:57.4]  Parable it along It's another cannot be fixed by overwork And I tell you a story which is does that happen? I booked the or kick it on the return ticket ish You shall be five o'clock in the morning Nephi clocking after 5 p
+[]			m
+[]			 right
+[]			 And then I just I just don't know
+[]			 What is that today I put without taking a long time ago
+[2:21:07.0]  I just noticed that it because I received a union doesn't know
+[]			 Is that are they? You said I will book a return ticket A 5 p
+[]			m
+[]			 It's a 5 a
+[]			m
+[]			 What? Well, so anyway, so that have to be changed
+[2:21:24]  But, Amy So that's the problem
+[2:21:28.4]  Why? You're overtired, You know, You just bring Cannonball working so well, am or PM We just my stuff
+[]			 So anyway, so 40 hours of worker guys Okay, keep it fresh
+[2:21:39.1]  Goto exercises ago, Tajima intend to freshen itself your mind when you doing homework? Another, uh uh, Expedia practices inside a customer
+[]			 And I do have my real personal experience with that cause I was in California working
+[2:21:56.9]  Then the BMW Would they send a while for their endurance? Come with a cover on it to work with me, and that it is a very good because I can constant talking to him
+[2:22:07.5]  His name is you will have Ottoman, but the problem is that it's a virus
+[2:22:14.0]  Super use fancy Because of what he move from a German and unique
+[2:22:23.5]  Also here to California that BMW has to pay Hema working overseas in bonnet, right on the fully furnishes apartment
+[2:22:27.8]  He only curry
+[2:22:28.3]  He's a baggage on a Have A have a rental car for him and the cable
+[2:22:32.6]  You mentioned that you stayed with my team, working with many working in our life for a whole month
+[2:22:38.4]  How you suspensive that is, decided his own salary
+[2:22:43.5]  So but a cool things that include the rial live user on a team available truth full time to answer a question
+[]			 Super, which I called it, love it
+[2:22:52.3]  The objects are projections that the realism to weather would get one manager have two choices
+[2:22:58.7]  Have to suffer a work of sooner the better
+[2:23:00.4]  I have operative for well, two peoples because of they are assigned
+[]			 A mentor can still work
+[2:23:09.6]  He's work because he has a computer but downsize that even approach to the fail
+[2:23:12.0]  They lose the work of the data and across the work of the house
+[2:23:16.4]  Too dumb to be done when they have a knot in a country with the project
+[2:23:19.0]  So it's super expensive, so the social is that only for a little while we cannot afford to send a BMW engineer worked with you for a whole year
+[]			 That's a toy
+[2:23:28.7]  He spends it
+[2:23:30.2]  So, Father, it's a super good because I can't get my question stung very well with them
+[]			 Another is a code, a standard
+[2:23:39.2]  We want to be king Akaminko standard by all that, even a person so that the colder is it? Look the same
+[2:23:48.6]  You don't look the same no matter who righted the cold
+[2:23:51.8]  So the same Ah, viable notation you have what hyphens off Chi mo like capital off each ward
+[]			 Oh, use it
+[2:24:03.2]  If I used a lower case of for all the functions variables if I used the capital for all the constant So you want to use them and can the same working style So that all the colder looks similar
+[2:24:14.0]  So this is really supportive is a collective ownership
+[]			 Why is she the cold? I can't understand quickly
+[2:24:19.9]  I don't have the warders, the media, which is a viable which is the constant
+[2:24:28.4]  So there's a lot of resource is on lying for hundreds of them for extreme programming
+[2:24:36.7]  I know sort of books that those are kind of good books used to read and the bike came back And this is Marty Fadel minus off
+[2:24:38.6]  Hmm
+[2:24:39.0]  Programming planning to humans
+[2:24:41.0]  It is Arda some of the books
+[]			 You can, if you like to know more about it
+[2:24:45.7]  To become a proud A project manager knows the books for you to read
+[2:24:51.5]  So that's a part of these lectures
+[2:25:01.8]  Okay, I think we are finished Our There's a lecture we talked about a scrum practice is becoming extreme
+[]			 And I hope you used a trailer today and he invited me
+[2:25:09.2]  Okay, look at ah Commerce announcement
+[]			 You might give me an A
+[]			 T
+[]			 Is go to the your travel so we can follow you
+[]			 Okay
+[2:25:15.5]  Follow you with even the scrums under changing
+[2:25:19.8]  Yeah, improvise on the thumb
+[]			 So keep working on your project at one proposal, and it's June
+[2:25:32.7]  I said Friday Next The week we talked about you ski season
+[2:25:35.3]  I gave you a industry flay were how to design use cases
+[2:25:42.8]  How to use your case is totally Why not the toys? The industry standard
+[]			 Ok, any questions to me? No
+[]			 Okay
+[]			 Yeah
+[2:25:52.5]  Cool
+[]			 Very good
+[]			 Okay, then we are finishing
+[]			 That's all for today
+[2:25:56.5]  Thank you very much
+[]			 So Okay
+[]			 I want to give you the pie
+[]			 It's good where I

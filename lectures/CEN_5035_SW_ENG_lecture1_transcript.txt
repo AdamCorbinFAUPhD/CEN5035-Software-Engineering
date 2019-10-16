@@ -1,0 +1,1778 @@
+[]			we have
+[]			 Very good
+[]			 So that's gotta started
+[]			 This is, uh, graduate cross off a cell for engineering
+[0:01:53.3]  So I'm wondering if you have ah seven Jean Carsey in the comfort of science department
+[0:01:54.9]  So I'm wanting It was your by groans
+[]			 Uh, you're this purpose
+[0:02:01.0]  It is about undergrad yourself, engineering costs
+[]			 And also it has 200 costs
+[]			 So I hope you have those part records it before you take it
+[]			 There's a constant
+[]			 So you do not have the program visit
+[]			 So you need to talk to me so we can figure out how
+[0:02:21.2]  How feet it is a castle for you
+[0:02:30.8]  So and then also how how you can manage you the material, the project, er on dhe out of discussions and so forth
+[0:02:37.1]  So just let me know Those because of those debts after cars is an arrogant from Manus is a basic common signs of cause
+[]			 Talk about it out
+[0:02:44.6]  Even arugula Thumma sorting XYZ instructors and in the underground sovereignty in classes see And 40 10 on eso
+[0:02:59.7]  I'm gonna at the beginning of this class which is included today on the next week, I'm gonna give you a quick over veal off What is this? The principal off? A suffering engineering ace
+[0:03:07.1]  So this force served for two purposes in one is if you two could There's a concert somewhere else on oh, many, many years ago
+[0:03:16.1]  So I give you a refresher course on this is a concept and also give you a my version
+[0:03:23.4]  My interpretation, my understanding was the principles of suffrage hearing
+[0:03:28.1]  So this gives us a foundation for us moving forward into the rice, the specific topics
+[0:03:34.2]  Okay, so we're gonna have ah, tool lectures
+[]			 We just heard the end of next week
+[]			 That's what did Ah, kind of I hope those the tool
+[0:03:40.6]  After giving paving a foundation for you two
+[0:03:43.8]  Everybody on the same page
+[]			 We can just go from here
+[0:03:53.9]  And my, uh, office hours would be to 30 234 o'clock in
+[0:04:04.7]  Uh, do you use the beauty for 4 34 or so You think you can come with stop by any time All you can just make a appointment with me or you'll see me in my office
+[0:04:11.6]  Just thought by you don't have to be coming on lei una office hours sending me email
+[0:04:15.2]  Normally, if I'm not every super easy, sometimes very super busy
+[]			 A reply to your union just within a day, just on the same day
+[0:04:28.3]  You're not awaiting that
+[0:04:29.6]  Just my shortcut
+[0:04:32.0]  We do have a ta in across, so he names
+[0:04:35.5]  His name is Jonathan
+[0:04:37.8]  So you have any question you can send email to the TA as well
+[]			 So which is a vital were nice
+[]			 So we have a very large cost
+[0:04:48.8]  This car's it seems like I always have larger you enrollment, which is a good thing
+[0:04:54.2]  And I feel pretty privileges in a way that so many students You know, this classy
+[]			 I'm pretty good for the graduate
+[]			 Quite your level anomalies as this money under there
+[0:05:17.5]  On the other hand, I feel pressure because I hope I can something valuable, something good, something state of the art of something your toe off or you just meister
+[]			 So this cost me offered for many, many years, and I need you here
+[0:05:22.0]  I'll introduce is something you So that's the pressure on myself, which is a good thing
+[0:05:29.4]  So I strive to give you a good of you
+[]			 Awful
+[0:05:34.5]  Um, kind of practice stays in industry research as well
+[0:05:40.7]  So for the kind of lager description
+[0:05:56.3]  Oh, it's not a very, um how does? Very Not very up to date, but I never realized that it's gonna set up some court appointed seeing that the catalog description on this class is an introduction to basic principles and practices off suffer engineering under emphasize on programming languages supporting a sovereignty on principle techniques
+[0:06:09.9]  And so we are talking about a colder resumes about it
+[0:06:12.3]  So those are the coded reusability is really very, very specific
+[0:06:15.7]  Atopic
+[]			 Gotta suffer
+[0:06:17.4]  Reuse, actually
+[0:06:22.5]  Is the mining doctor or my master degrees really on reverse engineering on a softer reuse? Maybe only I can give you a lecture on some of the research topics I do
+[]			 That's a while
+[0:06:34.6]  The thing I had to have a settle with hot because I've been a cop release a cause
+[0:06:39.2]  A young writer, I hope we can dedicate it some time to give you some was happening was a re surgical young
+[]			 You're suffering Gina right now
+[0:06:50.5]  What is it the people out there are doing? Who's the researchers are doing? What's the interest in problems that they are dealing with trying to solve? So that's what I like to give you a guy to view off
+[0:07:04.4]  So if you go on your phD are with things that start doing your phD dissertations that how could I give you some inside a pointer to see where to start of our something too interesting to consider? So we talk about a self engineering is really kind of programming in the larger
+[0:07:20.1]  That it means, is so different from just about Cody decoding just the talking body just writing code
+[0:07:27.1]  But a 17 consider so much larger scope off the problem
+[]			 We tell him the people's management process
+[0:07:36.1]  How do you reuse? How do you deal with a post that develop? Lamented? Well, you develop a deployed this stuffed of our insight
+[0:07:49.4]  How do you maintain it? How do you evolve it if you think about another? The programming in NASA How cutting it evolved, making needed season 19 sixties right? Is it really older than us? So this is really how there's a big, a big a thing
+[0:08:04.1]  So this is the catalog description off for this class particular feature off these cars that we are offering me where which you're a saving right now, it is really focus on is the greater class I want to talk English included Some off the technical aspect on along packing
+[0:08:15.7]  Niko, I spect so talk about process
+[]			 How do you do the piece in the analysis? So we do have a few students right here from business school
+[0:08:26.6]  Right? So that your recipe parties your background, we'll come into a ploy
+[]			 You can see how they where you working industry
+[]			 You work on the pack in your side
+[0:08:56.7]  How do you consider the reason they decide over died? How do you have a proper value? Purpose? Asian? How do you have proper the piece of these cameras to manage that? We will have a homework on that You can see how do we bring that uses a requirement of your business value Proceed proposition analysis on Bring that off a flirtation
+[0:09:00.1]  So this is the long how can you go I suspected on the week So what is the sovereign Junior A's about? That's the definition
+[0:09:06.6]  Is is a disciplined engineering principles to right here
+[0:09:13.2]  Thio creation off a complex compact, meaning it's not just a single compacts
+[0:09:21.5]  Immediate is not a small projector, not assume are rather than it's the largest scale self Darcy state Mrs
+[0:09:28.8]  We're talking about a whole apperances teams
+[0:09:31.4]  We're coming on the whole uber Lottomatica autonomous self driving cars
+[]			 We're talking about BMW
+[]			 The engine controls these things
+[]			 Those are large, a scale self prices
+[]			 And they have to be along the video, meaning that it's a lot like a one
+[]			 Awful, not a short leave last ourselves
+[0:09:52.9]  Our project software is the loss of 4 50 years, keeping, making it right in the first time they land on the moon and the nowadays going, you explore different Galaxies
+[0:10:01.5]  So that's really the folks on the Selfridge name
+[0:10:03.2]  Whenever you talk about today is that the people crosses and technology
+[0:10:09.5]  So that's really the three Mingo off these aspect
+[0:10:17.5]  I know we wanted to what I like to pose a student into a defender sightings where the state of the art technology is
+[0:10:28.1]  I know we talk about this probably later, so not only you need to have a very good of suffering Jiaying human
+[0:10:33.1]  You need to have X factor tohave a believer accident
+[]			 They're writing on the presentation skills because I could end of the class of we need to have a presentation you needed right
+[0:10:47.9]  Your project report and I said I wanted like to be very, very good Well, region in a good account of the scholar scholarly writing
+[0:10:56.7]  So, um, specifically, this class a week talking about her, a sum of a specific cuter We could talk about a motor
+[0:10:58.4]  Jeevan Deol homage
+[0:11:01.0]  So is that of arriving? You're colder
+[0:11:02.1]  Doesn't buy in the writer All the basic er um Java code a c sharp on the python code
+[0:11:13.6]  How do we How could we develop a suffer from models? Me ladder you design is software at it
+[0:11:19.6]  The model of it level Montmartre Higher level off obstruction at them
+[0:11:22.2]  Hopefully you're gonna transform of those
+[]			 The abstraction into something is curable code
+[]			 So that's it we're talking about
+[0:11:38.6]  Why do we won't have those a motor driven development? Well, the first there advantages is that we can produce something fast, right? Because of your desires and model level, you produce itself the source code and then it can produce a called a really, really fast
+[]			 Another thing is talking about a reuse
+[]			 You can change that
+[0:11:53.9]  Everyone have any Shinichi Angie in China, the model level on the naked in the cold
+[0:12:01.8]  A generator that would be just being changed accordingly
+[]			 So then we're gonna be talking about a business
+[]			 A process modeling the student from I'm ice and programming here
+[]			 Probably more
+[]			 This is a more valuable to you
+[]			 Where I won't have this is a requirement
+[0:12:17.9]  Causes suffered
+[]			 You've got a woman
+[0:12:23.3]  Do you come from the requirements you to your capture requirement and your duties on to your implementation on a deploy
+[]			 Right
+[]			 So when capture your requirement and there's a lot of a lot of different anomalies a circle young over there
+[]			 So while which you have to talking about it was a business process
+[0:12:36.5]  Ace, not on public died
+[0:12:40.9]  How do you model these? Appeasing is a process
+[]			 You don't just write it on paper and you use a ward of fire
+[]			 You know English
+[0:12:47.5]  You have a mold oId unit modeling
+[]			 You know, very we have more than a long
+[]			 Would you do that? So now we talked
+[0:12:55.9]  But you talk about a cell for architecture molding
+[0:13:04.8]  So how do you motivate some for architecture and then particularly well, you focus on platform based development, Undersea Internet of things that we wouldn't touch
+[0:13:07.6]  Of what they've all which is the industry right now
+[0:13:11.4]  I was talking about businesses everywhere
+[0:13:19.9]  What did they? Well, I hope we're gonna have some project down that we really depends on how much time we have today ended
+[]			 So would it be very good for you to have a little taste of what they've always? So when you go out there, have an interview you and talk to people at the reason you know what it hates, right? So I hope I can give you a little bit
+[0:13:38.8]  Um um Evil Michelle that united regards
+[0:13:46.3]  So while this car's we besides, we have Ah, this electro material, which is I'm talking right here
+[]			 We have we have a project
+[0:13:54.4]  The project had really or Hanzee hands with Dr Material
+[0:13:57.6]  So what you doing a project? Her? Because of your meeting with the largest scale self forces
+[]			 Many things you cannot use by hand anymore that it means you have to use a tool to help you
+[0:14:10.4]  So we're gonna have a and it even the faces off this software life cycle
+[0:14:15.1]  You're gonna have a project related to that program office, and I'll give you a certain self
+[]			 Our tool for you to use, but don't worry about that
+[]			 Oh, I didn't use a month or two before
+[]			 This class is new
+[]			 Very
+[]			 I would think
+[]			 Assume a very few off
+[]			 You would have used the to give you before
+[0:14:36.8]  So that it musically all coming from the same ground we learned together way progress together we're gonna for the project
+[]			 We're gonna deliver a hand form based
+[0:14:50.2]  The wonder by IBM Cloud We're gonna use a Walton several thio fault on Coyote Internet for things development it using
+[0:14:59.9]  Listen
+[]			 All right, which is the language
+[0:15:06.8]  So what do we we hive out of the end of the day? You never semester
+[]			 You gonna develop her, eh? Use those a service
+[0:15:13.1]  Easier to commended the robot
+[]			 Have the robot will do something for you
+[0:15:25.3]  You have Ah! Oh, someone The cameras over there sound So the femur off these cars What? I called it a smart a home
+[]			 So you do your think about it
+[0:15:33.5]  You're walking the home you want, you monitor assembly walking in your home
+[0:15:36.2]  You want to give us a month alarm
+[0:15:39.0]  The lighter should be on light rather lightening intruder Agree
+[0:15:42.6]  Lata mean families coming in
+[]			 So those that all of those scenarios and how do you have a conversation with the robot? The beauty about it
+[0:15:52.4]  Just you're talking to Siri
+[0:15:57.2]  Hey, tell me the flight from here to New York
+[0:16:01.2]  Give me all the flight of fly out it from for a lot of the airport
+[0:16:02.5]  Tell me about it
+[0:16:05.4]  The weather for the whole week, we can attack
+[]			 How back to you? So off of all of those, the service's are available
+[0:16:13.4]  Our job is to integrate of the service an entire own use because the current is self development
+[0:16:22.4]  Viral fut Well, over from the ground up from a very, very simple small things
+[0:16:25.4]  Basically you the service's of integrated
+[0:16:29.0]  And those air service is provided by Walton Service's IBM crowd and those over there That's really the project at the end of the the Master
+[]			 You gonna give up the process? Okay, that's a very good question
+[0:16:42.9]  So are we going to use the microprocessors? Yes, but we are not gonna touch it
+[0:16:50.4]  Microprocessors make a car process of your beauty and into the the respirator pie at itself
+[]			 Wait
+[]			 What we do is we haven't using your face to talk to them
+[0:16:59.6]  Conway handed you have this service is provided the waters the resisted by using IBM Crowder, you fool
+[0:17:04.3]  Yeah, the hen
+[0:17:10.8]  Did you have a hot, aware provided reservoir pie, and you just use your wire to come make of them and you'll commend them
+[]			 You're not gonna use it there
+[]			 That's the song that you know
+[]			 You don't do that
+[]			 Yeah
+[]			 Yeah
+[0:17:24.6]  So and, uh, the there's recipe, Iet Pie like Tokyo we can buy
+[0:17:33.4]  So it's a very few right now's really you know, we can have so many sense that it became work on a lot of those senators
+[]			 Totally
+[0:17:35.2]  He's posing as an A P I for you
+[]			 You're not gonna really go to the sensors
+[0:17:42.8]  My my parents are professing your physics
+[]			 I remember why I was going home
+[]			 I was a little girl
+[0:17:47.0]  My daddy
+[0:17:52.5]  The Taliban was really the transistor Taliban, right? My daddy's of facing those with hearty region use of his transistors by now it just light him
+[]			 How could you face it? There's nothing you can do to fix it
+[]			 So the same thing with the Yeah
+[0:18:04.6]  Hey, with the call, you batter the systems, right? You don't work at that level anymore
+[]			 This is not working
+[0:18:10.2]  Genya one get anyone that it works
+[0:18:19.7]  Okay, so we're gonna, um uh, Justin and I put it on the wound is, uh, vital President's side
+[]			 You're right here
+[]			 You can take a look
+[0:18:49.8]  Uh, is it to get you started? Those the things we're used to getting started with the water, I would plan for amusing
+[]			 No writer
+[]			 So is your tea
+[0:18:55.0]  Think about it
+[]			 Right now
+[0:18:57.9]  All days off are all over those that divide implementing
+[0:18:59.8]  You know, the country, your homes, everything
+[0:19:00.8]  Cancer
+[0:19:02.0]  You're the facial recognition
+[]			 It's a lot of existing only thing over there
+[]			 You just don't get it
+[0:19:06.8]  And integrating here on youse
+[]			 That's really that your job is a figure out
+[0:19:12.7]  How do I make that connection? Your job is another how to produce a reservoir of pie
+[0:19:19.9]  Your job is not how to produce the climbing to the other Weather service's your job
+[]			 How do I put that the weather service is on my pie? Okay, I'm really on that
+[]			 Have what a right good a detail
+[0:19:30.4]  The charter I hear
+[0:19:36.4]  And it's so deployed to blue mixer out of those different surfaces
+[0:19:39.8]  And then we've got into those Miami doing a project
+[]			 I just want to give you a overview
+[0:19:44.5]  Are for on DDE the course project
+[]			 This is just one of those of course project
+[0:19:59.1]  Okay, He's a kind of final course till, uh, afford it a bad
+[0:19:59.6]  His accreditation and they have leased the criteria is just like any other Kansi's
+[0:20:16.1]  So we need to have a satisfy certain after conserve the offered her into satisfy certain a biter criterias objectivity
+[]			 I lease it right here
+[0:20:19.4]  So, Professor Z Z Area of Southern designing the valuable in that it has rocketed operation
+[]			 I'm so long
+[0:20:28.6]  So they said so as far as the course, the variation Oh, cause you are using I put it like a preseason
+[0:20:43.6]  I wouldn't call it a meter my final exams in that sound a little bit, Gary, in the sense I would have caught the creases of media matter
+[]			 Well, make it finished the course
+[0:20:47.7]  It's kind of a halfway through
+[0:20:50.1]  We could have won Cui's and that may be close to the Indian
+[0:20:58.9]  I won't have What is another quiz? Okay, Because the queen is not Nina
+[0:21:11.7]  Gigantic scale also exams and I want to leave the last little bit of maybe went through with other the consul Weave that into your project of finishing a project
+[0:21:16.2]  So you said that if you're working on your exams and official project so we can have the exam, a little bit of a squeeze is a little bit early, and then we could just finish your project because of the finished product is a major thing
+[]			 80% off your class and a great is your project
+[]			 And I'm really like you produce a viral good a project to me
+[]			 I said something
+[0:21:35.4]  We can get rid of that
+[]			 So spend a time on the project
+[]			 Okay? Your real present? Yes
+[0:21:45.7]  You representing
+[0:22:06.0]  And also because of the votes and services hasn't many amenities functions I wouldn't wantto way down to the last blast wake you present because we're gonna fail, You fail, we fail big time, right? So I want you to me in Queens, Mento deliverable So that Oh, I finish my conversation, I finish my like no ready rtb group brood
+[0:22:15.8]  I finished my arm movement that I'd only but you team leader Mitch to make your story because our thing was gonna see Marta home
+[0:22:35.4]  How do you make your story? It's your pretty table process, isn't I wanna have Ah, January take a series of war and then he's so resistant
+[0:22:36.9]  So you were a baby crying
+[0:22:51.3]  I can just the even The life's up, which is a song that activity hated light Well, maybe for the elderly Reminded them not about It's the floor Reminded me to be cautious
+[0:22:57.7]  So you really how do you make your story? But that might you should have fall into my bigger And Vera did
+[0:23:00.1]  You got us about a home? However, your design is your weight and however you want to use the orders even a service is it wasn't provided to you is your own choice
+[0:23:11.2]  Okay, under the grading scale is like, you know, a 99 98
+[]			 Anything
+[0:23:18.8]  I think the whole college has the same
+[0:23:31.9]  And the four I'm on maker 1 13 Disability policy statement it University High's these a student accessibility service
+[]			 Caesar
+[]			 I see ice
+[0:23:40.0]  So before any of you need a special longer time over his m, I need the special note taking neither to someone special and assistance
+[0:23:50.7]  The priest let me know and we'll talk to the officer, Give you special for exam times
+[0:24:00.4]  Aki Academica called Honest
+[]			 See, this is a very, very, very important important thing
+[0:24:12.8]  We have to repeat it three times now for your workers to be cooperating from anywhere else
+[0:24:16.9]  But of course, when you develop Eliza Reservoir pie is a lot of code and get it
+[]			 But you have to cried it
+[]			 Okay? Nothing
+[0:24:23.9]  We don't want to reunite a whale because of Sorry
+[]			 This is the one building on the other
+[0:24:29.8]  But even you really wanna references somebody's hours of work? Say, Hey, I see these autonomous assay statements is a wonderful You'll really have to give them a cried it
+[0:24:38.1]  Okay, have a proper citation, Bardach or coming rather than just a copy
+[0:24:42.2]  Cut and pasted become you you've ever, ever that happen all you cannot copy
+[0:24:46.0]  Gather students work
+[]			 Uh, he's over
+[]			 If you had a group of work, of course
+[0:24:51.4]  But another injury in the video project you just cannot copy
+[0:24:56.0]  It happened before at a steel with a student, please
+[0:24:57.9]  The consequences very severe
+[]			 I couldn't emphasize this enough
+[0:25:05.2]  Well, the tax, the readings
+[0:25:08.5]  Um I was thinking about a pass poker myself
+[]			 I used a few attacks of books, but I wouldn't want you to buy those attacks books
+[0:25:17.2]  Um, what I do is I am no synthesizer
+[]			 There's a material and a for you
+[]			 So you don't need to buy those books
+[0:25:24.7]  Because my last remark, you're coming from management of resources
+[0:25:28.3]  I can pull them all together in a way that is the pastor to deliver to my students
+[]			 You know, society
+[0:25:33.0]  Like my own flavor
+[]			 My own understanding
+[]			 Awful
+[]			 What I want TV for
+[0:25:39.6]  So outer, really mature movie house on Hammer's evil suffering
+[]			 We have suffering neither license
+[]			 I'm going license for you
+[0:25:46.1]  Okay, so you're biting into my work of space for it to be a part of me
+[]			 So you don't know about that young that you might have to take care off
+[0:26:01.9]  You have to buy potty the forties, Chief, remember, $35 or something these offensive on maybe 50 70 others depend the reach of Washington we use
+[]			 Yeah
+[]			 Yes
+[0:26:13.7]  There wasn't the racism when you know, I'm a last time I used the artisans cars
+[0:26:16.4]  I got this agreement from Boston, so we said we'd get a free cold or that So there's a free
+[]			 So are you trying to get us anything this year? Okay
+[0:26:25.2]  Landy, you everything feel Hope it doesn't feel good
+[0:26:27.7]  Free for that
+[]			 You've everything fail
+[0:26:30.7]  There's a free versions
+[0:26:31.2]  Open some support we can use
+[0:26:32.6]  It replaces
+[0:26:36.3]  We don't need to use that mean we can bypass that
+[]			 I don't give you
+[]			 I can give you
+[0:26:40.7]  I was student Finished that already? You know that Just that he that is just a finish to that s so we can I give you a dozen? How does he then? I wouldn't want to see a tutorial because I want to leave something for your trouble to conquer yourself
+[]			 No, I want to hold your hands
+[]			 But I don't want to step by step
+[0:26:59.1]  Hold your hands much at the beginning, I will say, Hey, this How do you I want to get you started it just like the engine got your warm up
+[]			 But once you get familiar with it off you go by yourself
+[0:27:11.8]  So failure they feel God, those of everyone where you have with the open source of Washington
+[]			 No problem
+[0:27:19.2]  Fill out
+[0:27:19.7]  Election knows the working environment of two rulings, the other references will be post down
+[0:27:29.6]  Okay, So what I require require you to do is you need a checker, a camera at least once a day, some announcement ism under my Electra material
+[0:27:39.3]  I do have some Electra posted on chemist already, but have you updated them and that I probably only proposed maybe half of it
+[0:27:45.9]  As you have a lot of you having a postdated
+[]			 We're gonna post the eyes of the concerts going forward
+[]			 So check on the announcement
+[0:27:54.5]  You check on the office, I'll get a handy I can try
+[]			 Go
+[0:28:02.4]  When was the last time your cum canvas And how long have you stay on? I'm like a ghost, so I can see
+[]			 Okay, so, um, feel anyway, so the cop he could you gonna cover? You know, these are the classes we talk about
+[]			 So I talked about it
+[0:28:19.7]  A overall principal suffering gene
+[]			 So this is the purpose of this is really gave a student hole two
+[]			 It is a cost of many, many years ago
+[]			 How who may not even have this cause re everybody up to speed
+[]			 So I put everybody on the same page and also give my Russian
+[0:28:39.1]  What do I think? Sovereign? Jeannie's even aspect
+[]			 How do you do the requirements? How do we get a design? How do we do the processes? My version of it
+[]			 And we're gonna have a quickly, just maybe half a lecture
+[0:28:53.3]  Look, I mean, because we have this theory I was an actual right have left
+[0:28:57.3]  Joe could talk about the age of suffer
+[]			 You want development, particularly
+[]			 You're gonna focus on scrum because you're gonna work
+[0:29:07.6]  Your team said you that it means that you'll keep me the properties of the scorn practices
+[0:29:10.7]  I never give you trolling to do that
+[]			 Some off
+[0:29:17.3]  We could move on to motivating self our structure and behavior
+[]			 So how do you model you for silver behavior? See, we have this
+[]			 A robot moving over there
+[0:29:35.0]  How could a way model them? The several system into ian tractor with the human underwear even softer assistant contracted with the self correct themselves
+[0:29:47.4]  How do we motor them? How do we make them up in a a abstraction, that real awful the things happening, And then we can talk about a pieces involving which is to be these modeling chemist and a value proposition
+[0:29:57.7]  So why you have a particular project ago? Young? How do you make your season? It's a justification
+[0:29:59.2]  Back to this is a product of worth of spend time on
+[0:30:10.4]  I wore this union best you vesting meaning time and the money right over Casey's and we're gonna have children to do
+[0:30:14.0]  That, too, is a particular trait
+[0:30:14.6]  And we caught a Tupperware
+[0:30:17.8]  This is a president, a cover up where you get the license for you
+[0:30:22.8]  And it's so we could fall that a pregnant homework
+[0:30:24.8]  I'm glad you ever move on to something about a B, P M
+[0:30:28.2]  And a piece of his process of Moldavia notation Is that how do we manage the requirements of from the Venice? They hold her perspective
+[0:30:39.4]  This is a kind of odor ish
+[]			 The reason I want to talk about it
+[2:27:48.7]  And then we'll move on to something kind of our key made 3
+[]			0 modeling
+[0:30:49.4]  This is new one number six, right, Mrs Reagan, This a new one
+[0:30:52.7]  The reason I have that I want to compare Oh, the ppm and wishes the ark you made and they are can be before fuel various similar things
+[0:31:03.8]  But I winds that maybe the older Why is it your aunt gave you a favor off about with it and we talk about it
+[0:31:21.2]  The general principles of motor dont But a moment How does the baby find is a model on the levee? Moto's transform Lisa model into a lower level representation on the furthermore, we transform this model into is curable code How that works Unaware We use that in other setting and we could have ah, electoral use case Mother releases feel part of the requirements engineering part
+[0:31:40.2]  So how do we capture requirement? Republican suffering architect designed
+[0:31:43.4]  So why you developed you're 16 was it was the architecture meaning that how many components that do we have on the watch? The relationship is between those components
+[0:32:02.6]  So how those component if you talk to each other So this is really the architect to design your master have a light before you do, you're colder in temptation And we would talk about platform Basically what apartment? How what? I am a cloud on the blue mix
+[0:32:14.1]  Okay, but as the, uh uh the Project Foundation
+[]			 Yes
+[0:32:18.9]  You know, for the last of heart Really from a number 10 and forwards
+[0:32:22.1]  If you're gonna move on to more project oriented lecture and move on to the project, we something kind of company Table service is your eye, which is? The water in service is using no red in her in Harare off things
+[0:32:34.7]  I o t that
+[]			 How could away quickly deploy this
+[0:32:46.6]  The sufferer system is the under sensors and since it can't be occupied, what is it with a project and derivative? But it has a service
+[0:32:47.8]  The ornate architecture, which is exactly what we talked about right here
+[]			 Right
+[0:32:54.7]  We have a service is how do I move out? In service is our uncle my pie Until my you talk about it would have thought of that
+[0:33:08.6]  Microprocessors? How do I move that? An intruder who would probably, uh, micros overseas
+[0:33:12.1]  I know the last thing I learned Cock teaser
+[]			 Cut their balls because you could take a sovereignty in class
+[0:33:16.3]  You must let Muslim know
+[0:33:18.4]  What's that? They've always Otherwise I would just if you say hey to a graduate level some of June, you know, Was there well placed on nobody's I just if you could be so few
+[0:33:27.4]  You Barris
+[]			 Anyway, so we're gonna have a lecture
+[]			 They evolve on the whole, we can have a little bit of project
+[0:33:37.2]  A small, tiny project doesn't for you to have a little bit of paste with a big experience
+[]			 That was it
+[0:33:38.3]  That well Please, you can go over
+[]			 Go out there
+[0:33:40.9]  We've got a job interview
+[]			 You can just say you don't know the fact that you're not an expert
+[0:33:48.7]  Your mother like a grow in devil
+[]			 But at least you know what it is, right? And you have time
+[0:33:54.8]  I'd like to talk about the omg
+[0:33:55.7]  Omg is object to management group
+[]			 It's not that the other way around you are familiar with
+[0:34:06.3]  Okay, so that's the opposite of Manager Group
+[0:34:11.3]  Is the, um, nonprofit organization in charge off Pretty much everything we're using incompetence on he said
+[0:34:17.7]  Oh, the wireless, Sir
+[0:34:18.8]  The protocols, you know to gather 11? No, Nice managed by the scoop
+[]			 So there's a a standard called ice
+[0:34:26.3]  It's a kernel of language for somewhere into you
+[0:34:31.3]  My third and I was a part of the core contributors Tow days
+[0:34:35.3]  A standard It was in 2015 four years ago already
+[0:34:42]  Why the long time a left hook one of these
+[]			 Is that how that of you? Hi
+[]			 You suffered You got up in a cell for engineering
+[]			 I mean, probably not that Oh, this is a lighter, but a young
+[]			 But I still like to have a lot of some off
+[]			 I hope we have time
+[]			 I like to give you a way to be there
+[0:35:00.8]  Lecturer on research
+[0:35:05.7]  You know, you can reader some off the academic up a person, and then, um maybe you present those papers I need to figure out because we have just a lot of consul
+[0:35:22.8]  So their purpose out doing that is I want to, you know, was it up there, people, Your sovereign Jean community professor's research scientists, the engineers fuel from Facebook for Microsoft or what they're doing
+[]			 Do you need to know that? Right
+[0:35:37.8]  So I want to read some papers, and then maybe I could have presented some of my own research for you to consider If you're confident
+[0:35:41.4]  Do you Go on, master Your thesis
+[]			 If you go around through your phD and then maybe you'll find something interesting and we can work to get so I really like to house a month
+[]			 Um like a child later
+[0:35:56.0]  Maybe after the in double sister master, right before Thanksgiving
+[]			 So kind of those electricity
+[]			 So when you are working on your project, er I could give you electricity
+[]			 A recent of heart
+[0:36:07.2]  So that means that there's no you guys
+[]			 I'm on that
+[0:36:09.8]  You can't just the enjoy the ligature for sale product
+[]			 Don't worry about it
+[]			 Use it
+[0:36:17.7]  So, project, this is just my tendency were prodded a schedule
+[0:36:22.5]  We're gonna have project proposal
+[]			 The smart whole want what kind of function that is gonna have
+[]			 We're gonna have a business model in camera
+[]			 So that was just a manager, even a stakeholders
+[0:36:34.1]  The requirements of from it even that secretary under the soft overuse of Utopia software
+[0:36:37.4]  Uh, where up a wave guy
+[]			 Thio
+[0:36:39.0]  Manage the value proposition
+[]			 What is how even the party can't work together for your suffer
+[]			 You're gonna be right up
+[0:36:51.2]  So I'm going to talk about the occupation Multivision architecture so we could talk about a archy mate Tool? Well, that is to motivate yourself in architecture
+[]			 Have used his mother t
+[0:37:05.1]  Okay, just keep in mind that this is just a polity
+[0:37:05.8]  Tentative
+[]			 Okay, You need depends on
+[]			 How do you move forward? I may just a job for one of those
+[0:37:21.5]  And I did something you The reason I'm seeing that here cause there's a constant is just like a self ready But a moment that we have these incremental keep adjusting to see how things go
+[]			 The re something about it because of what you do
+[0:37:27.1]  There wasn't services of a low rider
+[]			 I really want to see it early
+[0:37:30.0]  Perth happen earlier, the possible so they can avoid the disaster at the end
+[]			 Because saying that I might have won a just one that intermediate deliver, but was the first that you know
+[0:37:46.2]  So you can show me what? You have got some feedback from me rather than be a Ben approach
+[0:37:55.5]  This is his term called Big Obama approach, right? You don't want to do that? Assume, um I might A job office that he was a case of my living
+[0:38:01.6]  No, we will see with the houses they go and the two quizzes will be announced The in cross that when he's the Iran Ammi term a need of October
+[0:38:08.8]  I was a little bit closer to the end about an octo very Indian
+[]			 24 Another quiz
+[0:38:16.7]  But I don't want to leave the last few weeks also solely on your project
+[0:38:18.5]  Deliver a beautiful, beautiful project
+[0:38:25.2]  That's what happened because quizzes to 20% hearted 80%
+[0:38:32.8]  Okay, there's the outer Said about said you have any questions so far? Yes, Jimmy
+[]			 Yeah, there is
+[0:38:40.1]  Ah, still debating
+[0:38:55.2]  We educated in the parts that I use them, you know, because I used the pretty A comprehensive one because, uh, I use a pretty comprehensive one that has the basically, everything's opening you already
+[0:38:59.5]  But this this is a surprise that I'm trying to see if we can use the lice
+[0:39:05.0]  Comprehensive one about it
+[0:39:07.7]  But I'm worried about the feature about it
+[0:39:12.8]  You know, you need to have the light training that How would it the son that you need to have with a camera
+[0:39:20.8]  So I will have you two of my last study researcher, and then we won't let you know
+[]			 Okay, so, yeah, you are
+[]			 And so yeah, let me do my own research on that
+[0:39:37.2]  Well, it's basically the comprehensive and will be $70
+[0:39:38.0]  Also, the lower premium premium
+[]			 The basic version will be $35
+[0:39:45.2]  74 of the pine
+[0:39:48.0]  Each of you will maybe just have one piles
+[0:39:52.5]  I have some pie in my office Out of my past
+[]			 One year old is the last year he offered his car
+[0:39:56.0]  Settled in the late 18
+[0:39:58.2]  Kill me now
+[]			 I would have got any pie
+[]			 You really need it
+[0:40:03.5]  Desperate need of high felt not just come from out and have a little bit of teacher about the building mouth
+[]			 So anyway, any more questions? No
+[0:40:20.8]  Okay, sounds good
+[0:40:22.8]  Is this something you use Pachter from this cost or pulled it off? Our old is exactly what I think the cause with caution of you
+[]			 Yes
+[0:40:37.1]  It's a continuation
+[]			 Yes
+[0:40:39.1]  You're definitely is kinda news
+[0:40:39.9]  No doubt about that
+[]			 Yes, it took us a principal seven
+[0:40:42.4]  You crossed
+[]			 All right
+[]			 Okay
+[]			 Yes
+[]			 So Okay, but the first the lecture
+[]			 Because if we do how student we have Ah, about a 50 more than 50 student
+[0:40:58.1]  Yes, Casa were here, but I haven't lost it online
+[]			 So some of the money now take it
+[0:41:01.1]  Someone
+[0:41:01.6]  You, Constance, these election night, Senator, I'm gonna have a quick overview
+[0:41:06.1]  Quicker possible principal suffering here in so then bring everybody up to speed
+[0:41:13.3]  And we're gonna move on to the specific, divisive topic right away
+[0:41:16.6]  So bear with me
+[0:41:23.6]  This is this is this lecture and a nice electric We'll be just I mean, I know we do have a student from business, right? I'm II says student
+[]			 They don't know that or they have took it out before
+[]			 Have taken that before, but many years ago
+[]			 But I want to give them my version off 17 days
+[]			 You took my classes
+[0:41:38.5]  So you know what? My foot
+[]			 Yeah
+[]			 Okay, great
+[]			 So okay
+[]			 Oh, good
+[]			 Okay, excellent
+[0:41:46.5]  Wonderful
+[]			 Okay, So now doesn't want to
+[0:41:51.6]  Our first the lecturer, which is home about a what? I called it a sovereign Jeanne Fouquet suffering
+[0:42:03]  You broke camel, which is the only talk about her
+[0:42:08.6]  Um, about a Krieger
+[0:42:09.0]  Overview the fuel highlight self
+[]			 Sorry
+[0:42:16.4]  What is the sovereign you even hear from? Requirement is gearing from what is suffering
+[0:42:20.3]  Jing is about to requirements Algeria
+[0:42:24.5]  How do we capture the processes on how to beat a design? So there's a quicker view off those
+[0:42:31.6]  So before we start, they said I, like, talk to you a little bit about in my bed one
+[0:42:36.8]  So I came to CMU 2004
+[]			 It's been like 15 years ago
+[]			 Times goes a worry
+[0:42:42.9]  Very foster and S O
+[]			 I worked with the industry a lot
+[]			 I worked with the BMW on their engine control systems
+[]			 You know, control there
+[0:42:59.7]  All the the cars are almost even is not a test
+[0:43:02.8]  The car's still control that maybe majority control myself
+[0:43:09.7]  So how do you make it is itself to where precise Fight her control
+[0:43:14.2]  The BMW cars of that is mine
+[0:43:24.6]  My work was grew force engineering the BMW engine engine control software so they can re use those colder for their new abortion off the BMW
+[]			 The reason they want to reuse ism the cause of the developed the software is extremely expensive
+[]			 You don't you don't want to go through the way
+[0:43:41.2]  Say, Hey, this is new or worse, the older one of the two old of a chain of something you
+[0:43:43.2]  It's not like you're throughout
+[0:43:43.9]  Get high leverage and chin and something new
+[0:43:46.1]  Flat screen television is just not that it's just so expensive
+[]			 The calls off the software is way
+[0:43:58.6]  We positive the cause of the hardware the super steam desire of the car way salaries, cars so much more expensive
+[]			 And then about him
+[0:44:08.9]  A few years ago, I How about my sabbatical, Erickson? You Sweden home in the Argus in right hand with the cell phones of ours of my spent a whole year over there and it working with Ericsson
+[0:44:19.5]  Something called a future dreamin develop much
+[]			 So you know how to call her
+[0:44:23.7]  This is very, very good experiences and the actually on
+[]			 And then we have a here
+[0:44:30.5]  You having you when we have the motor, like hearing implantation? I'm working You, uh, with the mob that provides is here Ravi's younger The how? Well he would a project that work with the presentation
+[]			 Well, hold on, cutter
+[0:44:40.9]  One possible action
+[0:44:48.9]  You know how crew Remo's We're not, um, heard octo timeto market Because of how computations you remember
+[0:44:50.7]  Martha has a reser ful
+[]			 You're too young to remember that You're probably too young
+[0:44:56.5]  Reaser, We're so cool
+[0:45:02.8]  This even for so you have, like, a very remember how All those hard about the blank, but in the face
+[0:45:05.3]  Oh, this is this equality
+[0:45:07.3]  One reason came outta so super shop
+[]			 Oh, It looks so good
+[]			 This is Ri before I phone started it so great
+[0:45:24.3]  So the time to market this is a viable imported Who put your mark product on the market of first your gain user
+[0:45:27.4]  So what did I have these? A property
+[]			 They called it one positive production Me letter
+[0:45:35.1]  How could reduce our suffer life cycle from beginning to end? Formative, deception, The ideas to deploy our product into the market
+[0:45:43.2]  Oh, just that within nominees have within 24 months
+[]			 Two years now
+[0:45:50.0]  How could you choose that into 24 hours? It's a very, um, beaches go
+[0:45:52.2]  But it's really, really very river
+[]			 Very, um needed the gold
+[]			 So that's the problem we have
+[0:46:00.5]  You cram it, we work on that
+[0:46:05.3]  If I were quite a few years and there's so they probably working with his mom, Yeah, the industry
+[]			 And as a matter of fact, I just came back from my sabbatical
+[]			 So I spent a whole year
+[0:46:16.1]  I could just have the positive year in the peace burgling and Carnegie Mellon University
+[]			 I was there
+[]			 My research was on himself
+[0:46:30.7]  A tap with its systems mean that how to season conserve what that Salva, He's ever come finger the missiles Have we've had a human interference is my whole reason is about now a days
+[0:46:37.0]  But you cannot ignore human
+[]			 You cannot call today
+[0:46:40.9]  Don't consider humans units, processor
+[0:46:48.2]  So human presents a lot of knowledge right now How you have human under the autonomous systems instructing each other how to seize him
+[0:46:51.2]  Understand, human? How humongous Stannis
+[0:46:53.7]  So this is my watercolors system
+[0:46:55.5]  A human court adaptation
+[0:46:56.8]  So I was funny, um, Carnegie Mellon for Whole Year University and just came back
+[]			 I just two weeks ago
+[0:47:07.2]  I hope I could bring you some new things that you're my closet to my students
+[]			 So there's enough for me
+[0:47:14.4]  So now we talk about that our objective off the suffer and you cause we want to learn why he suffered unions so harder to the word a well and why it is so important
+[0:47:31.8]  So we want to know that we wanted really appreciate have appreciation off the some off the pea falls off a sovereignty, You know, Patrick's and we want to avoid them
+[0:47:43.1]  Divina have ah summer challenges of suffering too
+[0:47:45.1]  You ah, professionalism on the summary
+[]			 So anyway, so sufferer
+[]			 Is it everywhere? So now it doesn't mind her
+[]			 You'll have to work in the self
+[]			 Our company anymore
+[0:47:57.6]  You work for airlines, Bink
+[]			 I'm talking about BMW cars
+[]			 Is it? Oh Gigante self
+[]			 Your company is really everything
+[0:48:07.8]  Is the information applying? It's already so even working at home
+[0:48:16.2]  So why, um, you have the card of my first? The first of my jewel
+[0:48:17.6]  My, I do a rental car
+[]			 The first time car doesn't have a key
+[]			 It's the first time I use a car without a key
+[0:48:28.3]  How do I, Carl? You know, just the theater for the price's body, doesn't there start? So you have prices, the pied hope for us and then just it's the party
+[0:48:38.1]  So this is something you really have dinner, Really? Everything control myself
+[0:48:40.4]  Door authentications And there you are on them
+[0:48:46.3]  Secure Hayes Privacy's everything
+[]			 So we talk about the sovereignty and dealing with a larger, larger scale off stuff
+[0:48:59.2]  We talk about the Facebook of the source code about a 15 minutes alliance cold
+[0:49:04.5]  So what is the largest? This software you ever you have ever, ever reaching yourself? Haman and Lies Code 200 nine's Code Me All right
+[]			 Okay, Okay
+[]			 That's why that's a worry
+[]			 Where you got a question? So the common is them
+[0:49:25.3]  So how do you compromise code of Okay, this is hot
+[0:49:30.7]  That's a part of part of the productivity off a programmer
+[0:49:34.4]  So the code used you, Nelson
+[0:49:36.4]  From what? Existing services from the existing libraries
+[]			 Is that a part of your productivity? Yeah
+[0:49:44.1]  So this is really a tostada
+[]			 How to imagine the perfect a video
+[]			 So I would say that is the cold on your right
+[0:49:51.5]  Now, that's some Makoto
+[]			 You use your services
+[]			 That's a lot of 10 1000 lines, co
+[]			 That's a very impressive
+[]			 Yeah
+[]			 Yeah
+[]			 Okay
+[0:50:27.8]  Yet yet? Yeah
+[]			 Yeah, yeah, yeah, yeah
+[]			 Okay
+[0:50:30.6]  Integration part
+[]			 Right
+[]			 So that is a very impressive good
+[]			 You you don't know? Yes, but it's going
+[0:50:43.2]  Was it a larger the application? You have a rating
+[0:50:47.3]  You think this is so pretty large medication over insisted Mr Carson has a project
+[]			 Okay, so we're dealing with a lot of skill
+[0:50:59.6]  Suffer, assistant
+[0:51:03.3]  Right? So another, like a small concert project is small medications
+[]			 This is something we're dealing with It And the word, often somewhere, is a really light
+[0:51:10.1]  That's why we need to have suffered Ewing
+[0:51:11.0]  So Summers is over
+[0:51:12.1]  Body Team is so expensive, it's so hard
+[0:51:18.3]  Thio understand why somebody so hardest on Is that so, For example, the summer season
+[0:51:29.0]  My work with it, like a BMW, for example, Over the time of Your Keeper fixes about keeper fixing bottle right, the Margaret Fix and Bug, the original design architecture, which is a beautiful he's on architecture
+[0:51:36.1]  It's another recognizable anymore because they keep fixing it
+[0:51:50.2]  He allows the original structure off the silver Assisi, so they become a so hard on us, then it is so become so not maintainable at all
+[0:51:53.3]  So this become a some kind of float aware on this is too complex to use, so they see the situation of sovereignty
+[0:52:01.4]  Right now we have a 1995 assisting about a 16% of a summer project to finish come, come within body
+[0:52:17.6]  So we have to give him a gold star because this is an extremely difficult You can't have things to finish on time on division body
+[0:52:24.5]  I haven't probably the cause of nearly double the original proposed it estimation, and the project usually have only half of the functionality that proposed it delivered to the customer
+[0:52:36.9]  Your problem is maybe a 28 different upon functionality za
+[0:52:37.7]  But the Indio deliver just half of them, or maybe even the other half
+[]			 Just not already
+[0:52:42.5]  So Bucky cannot be used
+[0:52:52.4]  So do you really bite her own tools? This is a date I got from the the niece too, right? So far, we're doing better
+[]			 It was on the two
+[0:52:59.8]  We Should you have a 75 software project? The light on the counselor A wire are TV Go
+[0:53:11.9]  I'm gonna give you if you take another classic Gotta suffer meeting this evolution I can give you a lot of kids studies the sound of ours A spending four years of government the money But at the end of that have described it
+[0:53:29.5]  So when when's the virus Famers? The example Cut a virtual case file says statement, which I fear has that a project to keep training after 9 11 and they want to keep tracking all peoples feed you those signatures everywhere you told for the print
+[0:53:37.0]  But of that, a project of Richard Keyes of five systems which is or so for four years and then spend a lot of money meetings, meetings that they have the square because not very usable
+[]			 So you have
+[0:53:50.0]  Ah, you could have a lot of organizations that is a A enter into a litigation because of the South are killing people
+[0:53:59.0]  We have a terrorist 25 those a sufferer a sistema they deliver is that insulin They deliver this radiation shin tool cancer patient But you didn't to calculate the well the cancer patient die So those are really the software unfold that it caused a human at a life at stake
+[0:54:33.6]  Another example is the Aryan 25 is a role cater French of the rocket Rena I rocketed carried a satellite into the orbit You know, it's just like that We watch it soccer gate, miss
+[]			 Right, So on that is the, uh everything four, which is the rock
+[0:54:50.2]  Its name was a wire Rex is a four for 20 years but the four verify which is a neuro version
+[0:54:55.0]  Given the change in, they want to improve eight We want an increase disobedient We want to increase the curry loaded because it has to carry to say the light after the aerobic this time and say we want to carry three
+[0:55:09.9]  So every file in the maiden flight totally self destructive by the onboard computer because of the bug
+[]			 So I've actually there's no human on under rocket s So this is suffering is so important
+[0:55:23.4]  You have the credit card problems, How much how much they cost money
+[0:55:33.2]  So this is so is a privilege, the problems, the pockets after work
+[0:55:44.9]  So that's why we need to use the suffer engineering, have a proper management, have proper process problem the models proper validation, that verification on Latin
+[]			 So to make it more doing, bite her
+[]			 So that's why we need to take a sovereign
+[0:55:51.2]  Jeanne Coste
+[]			 This is the one I'm talking
+[0:55:55.9]  The area fire long ship is European
+[0:55:58.4]  The rocket designed to long to a commercial payloads into the earth orbit
+[0:56:01.1]  And therefore there's a totally excited successor
+[]			 So this is another example awful suffer maintain is evolution
+[]			 You've all existing south of our for new Russian
+[0:56:13.9]  You're not a guarantee to the new Russian gonna work
+[0:56:21.3]  You think you are based on something already proven a pasting
+[0:56:26.8]  But is not it So the successor of every four is public successful, but you're not him at six
+[0:56:29.6]  That Irene fire you in the maiden flight
+[0:56:39.1]  It's just that the onboard computer finding the rocket, we're all for the pre defined trajectory
+[0:56:42.5]  And then the Amber Committee packed with that is that we have to
+[]			 That's joy and the whole rocket
+[0:56:52.2]  So there's a cause, the bottom 400 unless a lot of money anyway
+[0:56:54.9]  And then the Fabrice got hurt all the word on the French coast
+[0:57:00.8]  So now they tell about the importance to study suffrage in your name
+[0:57:08.8]  And that was that was really some engineering was a divination of self in engineering, the sovereign juniors that actually the computer society is called a fabrication offices
+[0:57:14.0]  The magic of diesel painting, which is a little music, is not at a hawk and a quantifiable approach
+[]			 What a quantifiable something is not here side her
+[0:57:28.4]  Oh, Bastar
+[0:57:33.7]  Something is a You want to use the members you want to say it was something measurable to major the quality
+[0:57:40.4]  If you want to see my system is the faster you want to see how far so eighties, you know, im my system country reacting in five million second, let's call it fast
+[0:57:52.3]  Okay? You don't want to see you too fast because one second is a very slow to me, But a one second quarter be faster to something else
+[0:57:55.9]  You want a Cockney five? Approach it to the development of operation and a major nation office software
+[0:58:04.4]  So this is the actual be centered lots of Nigerians that also have these
+[]			 He's busy on the practices theory
+[]			 So that's why we talk about it in our class
+[]			 We talked about it
+[0:58:13.4]  Even a business model wings the model doing development, Internet Everything's kind of form
+[0:58:18.0]  Basic development
+[0:58:19.2]  Levin Long into the women well into the project
+[]			 The parts where you have a different A touring right
+[0:58:27.6]  You have reasons cameras in the touring
+[]			 So you have work
+[0:58:32.3]  You talk about it on the wall since arises So you'll have with those
+[0:58:39.5]  So not like a company sign you say still use a frigging accurate
+[]			 We wanted to have a, uh for the theory of heart
+[0:58:44.7]  You need to build a structure We should have asked Dr Use
+[0:58:49.3]  That's why pretty requisite water
+[0:58:50.5]  Parexel
+[0:58:51.3]  This crowd's did that structure
+[]			 You didn't know how to develop her
+[]			 A new arugula
+[0:58:57.0]  Awesome you really consistent? I wasn't out of working
+[0:59:07.8]  So you want to know how I understand the computer ability? Did you take a classes off your company sized meteorite? Okay, you take a Yeah
+[]			 Yeah, yeah, yeah
+[0:59:15.6]  You know where your incompetence eyes? You take a autonoma and company theory class, right? Formal languages
+[]			 Right
+[0:59:23.3]  So I tell that it causes wetness
+[0:59:28.0]  Um, that it causes of our theoretical cost, right? Where? Theatrical
+[]			 But this is so super super important across we talked about out of even so some problems computer ble, some problems
+[]			 I'm not a computer ble
+[]			 So that means you do not even two think about those s so so when you cannot reach the optimal solution
+[0:59:48.4]  You, Richard, are sub optimal solution
+[]			 This is so important
+[0:59:54.2]  You know the complexity for certain calculations, certain computing was the time
+[0:59:57.5]  Unless the base is needed for that
+[]			 A particle computing use a bigger Oh, no patient unit
+[]			 A concert
+[]			 So is this is so super important on
+[]			 So you need to be skill
+[]			 You virus of programming languages
+[1:00:13.4]  You do the web developer mention you need to do the job up here to pee in my ass
+[1:00:25.2]  Killer all of those I know you need to know what's coming architecture, but assisting when you divide up all four windows is different
+[1:00:28.6]  If our system developed for the Apple computer, you want to use the object to see and you need to adapt after the engine compact systems
+[]			 And here is so complex
+[1:00:43.8]  The hardware software is even a con from one component on The lack of the reason I'm doing is really the self ourself adapting itself
+[1:00:48.7]  So we talk about how the human and robot a communication
+[]			 The robot doing something
+[1:00:54.0]  How do I know what robots doing? Can't give me an explanation
+[1:00:56.6]  You know, that's a lesson, really that were imported
+[1:01:10.2]  So the current of the cell where we wanted to have these really and suffering in the larger Okay, we're not want a skill small scale off a suffering? Um, she's getting help
+[1:01:13.0]  The large, long lasting long leave so far sounder
+[1:01:15.9]  Productive
+[1:01:17.9]  We have, um, the stream corruptor pieces after where? You know, like a couple tracks
+[1:01:22.6]  All right, when you have a radio taxi, hold two more times over there
+[]			 I do
+[1:01:26.0]  You have your enterprise application, cr I'm no one to see our am eyes
+[1:01:32.2]  Cousin Rune Amendment
+[1:01:32.8]  Beautiful
+[]			 Very nice
+[1:01:38.8]  So everywhere have a use it that does It is a soap, even a version
+[1:01:45.2]  Knowledge What he said today they are the same purpose Show Supes Control self door for NASA
+[1:01:46.9]  GPL right, Isa
+[1:01:49.8]  So I obviously the J v r Ivory
+[1:02:05.1]  What they're talking about is going to prove just you watch surrounded by those Really the rock rocket scientist There's a tool, their tongue With a lot of skills, you'll feel your dress is so insignificant
+[1:02:10.2]  You just you really feel that you are so you kidding? It just so wonderful when you are you worse yourself, you let it kind of environment
+[]			 So somewhere engineer is not just there are a lot of forties and product
+[1:02:24.1]  We want to produce a productive calls, the effective manner and also in the viral much of a particular vote manner me that I can predict it myself working in the, you know, nice it, you know, You know what you call it that expected
+[1:02:38.2]  So that goes to produce a high collar software with a fine and among of a resource is up and put on schedule
+[]			 Okay, so we're gonna use a lot of case
+[1:02:46.1]  Choose the case with a company 80 to sell for engineering
+[1:02:52.9]  Where you Oh, by the way, I want to You remember those the acronym? Okay, we have a lot of alchemy here
+[1:02:57.7]  So you take a syringe in Casa
+[1:03:06.8]  I want to you talker to your peers, to your potential employers and your co workers in the professional vocabularies
+[1:03:12.0]  And those are filling up with How about a case? Cool Would've case too
+[1:03:13.7]  Computer 80 the suffering Gina
+[]			 Right
+[]			 So everything you use the i
+[1:03:16.6]  D
+[1:03:22.0]  You have any ideas that the libraries of the totems of our case choose? Okay
+[1:03:27.0]  Stools are intended to provide a automating the support of our silver process activities
+[1:03:31.6]  Where? Floor fabrication tools you have
+[1:03:35.6]  Ah, this supporter early stage off a separate development, which is you have ah, for requirements and design
+[]			 We're gonna use a sum over their tools
+[]			 Right here on this is again
+[]			 This is that we talk about
+[1:03:47.4]  This is the attention off
+[1:03:48.5]  Our undergraduates suffer engineering
+[1:03:52.5]  So what did they use those truly into managing our requirements here? We didn't talk about that
+[]			 We talked about a concept, but we never practices
+[]			 Now we want to practice it
+[1:04:03.5]  So you have a mortgage Tuesday To supporter off later activities is such a programming tea bagging and testing
+[1:04:10.4]  So these would be your visual studio Groovy
+[1:04:13.3]  Your any idea eclipses could be anything in the You know, um, anything you use
+[]			 So now we talk about a coded actual beauty
+[1:04:43.1]  So why you develop a Celtic where you will have all your final project at the deliver Bos, Some of this they are not on Lee, measured by the functionality they also measured by something is called a non functional requirements to malfunction requirements with are they They're not
+[1:04:47.6]  Cannot somehow cannot be calm, be viable something
+[]			 So say, Hey, I be valuable
+[]			 My smart home system
+[1:04:57.1]  It's easy to make him So how do you mean measure to maintain ability
+[]			 So that means the season to be able to evolve from one to the other to change the need
+[]			 So, like I'm talking about, I have the pie in my office about 11 year old pie
+[1:05:19.5]  Maybe that means it's working well now, still, the sovereign to be dependable, so there must be trouble with it on the have provided that deficiencies it could not
+[1:05:22.8]  You cannot waste The system of resource is me, and you can see with so much memory so much of your time, so much a spot, he said
+[1:05:32.2]  This is all good, although your suffers you work so well
+[1:05:39.0]  I work a correct me, but just know as the vision listen l stealing No usable
+[]			 I'll give you example
+[1:06:02.4]  Line was working with a BMW, the Indian camp assistance, because the engine countries what was the feature off engine control was allowed a prominent feature of any natural, real time, right? So that means that some owners of functions not only had how to react correctly, they have reacted in the family minor
+[]			 So one second it's not now
+[]			 Some function reply you have
+[1:06:12.3]  You have to react to your committee
+[1:06:14.1]  Second, someone must be heaven Eun si five minutes
+[1:06:19.1]  So those are the efficiency and look call
+[1:06:23.4]  The attributes is called a acceptability
+[1:06:31.2]  Several master accepted a body use awful, which is a designer to that music is must be understandable
+[1:06:35.4]  Even human cannot dance this Venice's design
+[1:06:40.2]  How could I making any changes to the safety MMA making in more evolve in the future
+[1:06:47.4]  So, for example, I'm working with the BMW that any control system, you're 1992
+[1:06:50.9]  They want to use that for newer version of being BMW car
+[]			 Even the cold is not understanding
+[]			 I understand that, uh, could be on a student
+[]			 How could I make a change in that cold for the new car? Right, so this is all right
+[1:07:02.8]  So you must be making a easy Thomas, then
+[1:07:04.0]  Usability
+[]			 You know, he's already talking about it
+[]			 This self are easy to use
+[1:07:10.3]  A talk with the iPhone
+[]			 Easy to use
+[1:07:12.7]  Help may be something
+[1:07:15.9]  In the words of some of the other Web side
+[]			 Easy to use and I can find the information
+[1:07:20.5]  What? I wanted to find you somewhere beside it
+[1:07:21.7]  You just looking all over the place
+[]			 Cannot find any information come fine tonight
+[1:07:25.5]  An article of usable even to be secure too
+[]			 So looks like the car days, um, were important
+[]			 So they're now we talk about summer processes
+[]			 Let's take a break right here on because we are
+[]			 This is called a logical break
+[1:07:44.8]  And then we come back a king a 10 minutes break by 27
+[]			 Come back and we talk about a summer
+[]			 A process, and we wanted a requirement
+[]			 Okay
+[]			 Thank you
+[]			 You have to sign up
+[1:08:46.2]  Okay, Good
+[]			 You're must a student
+[]			 Okay, s
+[1:22:51.4]  So let's don't want next that help you go talk about processing
+[1:22:57.6]  So when the cop he could your project you do is business smoldering
+[1:23:01.1]  So far, a process is in the Mahdi
+[]			 So to do that
+[]			 A project, uh, the basic concept
+[]			 It is the software process
+[]			 We need to know what the process is
+[]			 So we have ah, process
+[]			 Any term is a set of, ah, order to task
+[1:23:20.7]  It doesn't mean it's a sultry bars of anything
+[]			 Process
+[]			 If you could go to graduate school application process, you can go to, um, has the border control you have over the border control process
+[]			 Any process is a self odor
+[1:23:34.3]  That hospital importing the key water right here you feel apply that same concept
+[1:23:38.8]  You just saw pretty vital dimension
+[]			 We do have a older task so that it was going to finish here for few
+[]			 And that is called a silver life cycle
+[1:23:48.4]  Several micro said there's a key words
+[1:23:53.7]  A few key was here when the first of all is the order of hostile
+[1:23:54.9]  Many, latter is must be in particular order
+[1:23:59.7]  You know there's a chance it is ordering that even away
+[]			 I told her a change of the process
+[1:24:05.4]  It's just like a cooking
+[1:24:08.3]  You make a short brother cookie
+[1:24:10.0]  Where? Casey
+[]			 Right
+[1:24:12.2]  So you could change the older off Whether you put a bottle under 40 yard, Uh, the past three in the Italian would be changed
+[1:24:19.2]  The sugar changed the structure
+[1:24:30.1]  So even though it was for separate even a moment, if you do, we are, um, implementation first, then then you've got high sting less
+[1:24:33.3]  It is irregular summer process all the underhanded
+[]			 You go to your sovereign testing
+[1:24:36.9]  First you do out the vitamin later meaning lighter
+[1:24:39.0]  Before I even write in my cold
+[1:24:42.2]  I want to write a heist in crazy for that, a particle called a first So you don't want to see
+[1:24:47.1]  I want to be credible somewhere to sort out our ah students the eternal graded
+[1:24:57.4]  So first of all, I write a kowtow past the starting our Gotham's right
+[]			 So that's called a past in Germany
+[1:24:59.8]  Vital moment
+[]			 So that would change the the older, over the right of the cold
+[]			 It was interesting
+[]			 We totally change
+[1:25:07.4]  The process is awfully devoted herself to work
+[]			 So this is the meaning off summer processes
+[1:25:35.2]  So where were you? The software process it to describe Suffered the very moment we needed to cover all the ice Specter off what itself are, uh, activities are so from, uh, your, uh former the How do you do your design? How do you do your aim in impatient? How do you have your testing and how do you do to your validation that Murphy for vacation
+[]			 So all of those
+[1:25:46.6]  So for each processor, you need to have, ah, inches under the ACA center criteria
+[1:25:50.0]  So, Mark, for example, you are in the process that offer to you the requirements
+[]			 This is gonna be your first project
+[1:25:56.7]  Seemed clear
+[1:25:57.8]  The finder
+[]			 What is it? My starting point
+[]			 It was that ending point
+[1:26:02.5]  Indian Point Dominion was the definition of a thumb, you see? Hey, I finished the requirement
+[]			 What do you How do you define your finish? Let me that
+[1:26:12.6]  Definitely
+[]			 So my definitely finish
+[1:26:15.1]  Minion, I deliver your order
+[1:26:17.2]  Welcome
+[1:26:17.5]  Cation off a requirement
+[1:26:18.8]  That confusion
+[1:26:22.7]  Okay, so that's the You have a clear Incheon point on the clear
+[1:26:32.0]  Actually appointed off for their product for each activity and all of those actively organizing this increase in minor and sometimes not
+[]			 So we have
+[]			 I wanna imagine maybe a couple off with a typical summer process model for you
+[1:26:43.2]  You see, someone's in the secretion
+[1:26:44.3]  Minor sums in the spiral
+[]			 My question
+[]			 So regards it
+[]			 Anything else you like besides that you needed toe talk about it
+[]			 What does countries and the controls may apply to the activities of resource? Is that our productive? So not only you need to specify what are these particular things you can do? You'll also have to specify what of these particular things that can not to do
+[]			 So you're talking about a secure Hey, right? It is a It had a lot of this
+[1:27:19.7]  Security is really the access control you have
+[]			 This is the people
+[1:27:26.4]  Have the colonel part
+[1:27:29.2]  People have this the casual user
+[]			 She will have me in part that you said what a season can do
+[1:27:37.1]  What kind of does that finish off the server processor
+[1:27:44.1]  So we have Ah, a set of what to taste that the result of leading to a production off several product
+[1:27:54.6]  So why you follow those step by step, guide the lines off the activities The final result as your believe Orta product
+[1:27:59.9]  So it doesn't matter what kind of cellular processes you're using you could use a strong, agile could use a spiral model
+[1:28:06.0]  You could an illusion, their model you wanted a synchronized, the synchronized, the process model
+[1:28:34.4]  All of those does the maitre You must specify the falling the four foraging areas you need to specify how do you suffer a specification which is a mighty fine functionality off a self to fire on the country's on this operation you mustn't define How do you do the design and the emancipation off? These suffer the specifications and you mustn't speak
+[]			 Why? How do you do the validation? There's a oh, everything
+[1:28:47.6]  I was a pain here, right? Something called a Vienna V
+[]			 Oh, So, um, I know how to you right down here
+[1:29:11.5]  So something called a veena Baker of validation on a verification
+[1:29:15.6]  I wanted to write down your broker right now, one of you talk about a different It's a peach in what is a validation on what is the verification
+[]			 They look very similar, but they are told it even a concept
+[1:29:31.4]  And in the sufferance year don't make if you go out talking to the researchers, the practitioners, the people in the industry, arguing in the research community
+[1:29:35.9]  If you are a coward of Vienna V all the time, are you must know was a Vienna V
+[1:29:42.7]  So why's the validation? Medication is a dust
+[]			 What did the customer won't? Okay, so that it means that you produce these a product
+[1:29:51.0]  But the concept of what? A cousin a while verification is a product that you produce these soft of our season, right? Meaning back afraid No fault, no exception
+[]			 So those are the verification so suffer and then nothing is about a suffer
+[]			 Validation evolved to meet changes of requirement
+[]			 So are you all a process model? If you'll see we want to produce his process Mother, at the beginning, off the requirements that analysis, which is gonna be your first project
+[1:30:58.8]  Vita, what you had me to your customer is the pieces model that is a model itself or a CE a software product, so you could have a whole bundle consult in the out of their Their job was a totally define was it buys the progress of for your company Sony, for example, Working in, um uh, why was it working with our Casson? Uh, you stopped holding that Some people working for you, The people I work with with the extender that I owe Emmy contradicts, thundered one guy working for Sony Jim Hen
+[1:31:05.8]  So he's a job Is a producer suffer process? A model for the Sony He doesn't write a cold
+[1:31:12.4]  He just how them was the lean practice
+[1:31:15.3]  It was this The ground practice was the command process and he's job to identify where your software developed a minute
+[1:31:22.3]  You you meet some Mars Babson
+[1:31:24.0]  I know why you're softer qualities
+[]			 Another good he can identify what the process is
+[]			 The problem in the process is so It is a very, very important job
+[]			 So you can see that mother only writing code is important to the process of management
+[]			 You trim important because he is like a manager
+[]			 You have a process is wrong
+[]			 Your product will be wrong
+[1:31:48.4]  So this is really the, uh be beyond
+[]			 This is a technical ice factor
+[1:31:53.0]  We do have this long packing you aspecto
+[1:31:57.3]  How do we manage the people? The people are student from bitterness of the time
+[]			 I I said you don't come here to play right here
+[]			 How do you manage your project? How do you manage your process? How do you have these in the er? The control, the control
+[1:32:13.3]  And how do you have the marketing is all part of these long packing
+[1:32:18.5]  You're expected off some Virgin Mary
+[]			 So I'm gonna quickly go over those
+[1:32:31.6]  What are the A silver process out there in the practicing the world
+[]			 And then we're gonna have one lecture on what is the job? The right woman
+[1:32:39.8]  More specifically, you talk about a school, alma, So that it Because you're gonna working in the square on the team
+[1:32:43.6]  Better
+[1:32:56.2]  You know, what's the scum practices? The first talk about a waterfall, which is a wire a basic basically, Kong's act under it is isn't more, eh? Theoretical abstraction off
+[1:33:03.9]  What are the sovereign development here? Process A's by the Actually new reality were rarely follow that mortar for model with us, would we? I mean that so water for Mullah Talus
+[1:33:18.3]  Well, how This requirement said that you want your design your movie your morning into your constructor, you moron
+[1:33:21.6]  You're too trusting you more onto your readiness
+[]			 And then so from here to here, if you're talking about a major nation to requirements in your letter, you for you working, starting with your the code, which is not a requirement
+[]			 So one part of color
+[]			 A forward engineer
+[1:33:43.0]  Yah! Okay, this kind of forward engineering these apart go from top of the ball him
+[]			 But even so go backwards
+[]			 Oh, you have a Gina
+[1:33:48.5]  Salt is a source of code, just like in my work with the BMW
+[]			 I like it was a source code
+[]			 What do I need to do? I want to go cold analysis
+[1:34:00.5]  I'm to come out of with all the desire, rational, going to come out with the ark picture off the silver system
+[]			 So this called a reverse engineering
+[]			 Okay, you understand me? So that's kind of forward
+[1:34:11.4]  Engineer was kind of, wasn't you
+[]			 You go out there, we're lost
+[1:34:17.2]  A lot of for Amanda
+[1:34:20.3]  Need to reward engine and your existence
+[1:34:22.8]  Is it? And the people charged that, Abi, how many lies? Cold and the rivers
+[]			 And you know So you see I'm working with 100,000 lines of code
+[]			 So they reach hard by you
+[]			 The lines cold and it is extremely expensive
+[1:34:40.8]  So, people, really the presents of reverse engineering skills is a high demand
+[1:34:45.3]  Because we have so many systems have become a legacy
+[1:34:46.3]  Systems out there, the bank
+[1:34:54.0]  What is that? Oh, tell you about a You feeling that other languages of the house along with pies on 1000 your language? Okay, Newer
+[]			 I mean recent
+[]			 How about that? Oh, then they are talk about a C languages
+[1:35:11.8]  Java see sharper and easy
+[]			 You will
+[1:35:21.4]  I asking you this question for the applications that we have in a society which longer to use the most for little wronging on those in the applications thing about a bank thing about airlines thing about it
+[1:35:28.9]  Any separated which allow you to use the most
+[]			 Yeah, but if you have a lot like his assistant No, not a video basic
+[1:35:46.9]  Not a shower
+[1:35:50.4]  Now to see sever
+[]			 You're too young
+[]			 Pascoe
+[]			 Pascoe is rarely using a really application
+[1:36:00.5]  A survivor
+[]			 Go the language for education
+[1:36:07.7]  Kobo
+[]			 You think of other
+[]			 It's another reading
+[1:36:12.7]  Older Kobol Still using
+[1:36:18.2]  Nowadays you just say, Imagine that we collected all the average occassions in the whole world around bank and our allies Anything
+[1:36:24.3]  Okay, bookie
+[1:36:28.8]  So you think about the which, along with their using collectively, Kubel occupied it
+[1:36:33.4]  Majority of the abdication where it was
+[1:36:40.1]  So you've been thinking about the reverse engineering program understanding you have won a maintenance of those along the JSA
+[]			 You really have to know that a cold
+[1:36:45.9]  So that's me going backwards from backwater up
+[]			 OK, recent hearing is a very difficult job, but extremely important job
+[1:36:55.7]  The next mother I want to breathe with hot base is a evolution in your mother
+[1:37:02.2]  So I said the waterfall now is really not very practical not being used that out, right? More like a abstraction
+[1:37:08.4]  More like a theoretical illustration
+[]			 What we're doing here in the theoretical mention
+[1:37:13.8]  So maybe for teaching so many, Aleida
+[1:37:18.6]  Oh, you know, I finished my requirements face not moved by the move onto my design face
+[1:37:22.4]  Now I move on to my contractor face
+[1:37:26.7]  Okay? No, in the real world, probably want to do something simultaneously where you do have this sophistication develop from the validation
+[]			 Go
+[1:37:33.7]  Some continues it concurrently and then you'll have your usual Russian release
+[1:37:44.8]  You want to have your intermediate Russian release You want have a final release? Okay, so like you helping her
+[1:37:46.4]  So that's the scenario we wanna have
+[]			 And that's really the case
+[1:37:53.9]  It hates so Eunice Evolutionary model
+[1:38:00.0]  But what do we have to once cutter a supply oratory? Which kind of incremental What does that mean? That you started? Beauty needs to sell for assistant
+[1:38:46.1]  Was it on your graduate puta was you bring Is the customer tohave your system to be validated? Get a feedback from customer on you Quite a beauty, A pop off that step by step A little bit like a Lego We put all the legal, even a squares together put together and then awake How they soothe away part of happy There were before having means it I want to quickly put something about a pony show for the customer I want to show Is that the website? That is what you want is this is the part of you wanted to hide Is this color you want have is this functionality will highlight the layout You like the pediatrician So to do that and you'll quickly put something together
+[1:38:56.7]  That means the language you have me now even the language will be used for the actress systems with your basic
+[]			 It's a beautiful language if all part of that very quick so that they never use the use of the exit
+[1:39:06.0]  Exhale the spurs sheet as your we have it
+[]			 But you're going the purpose off that just have almost no customer
+[1:39:18.6]  What does it really need? Because you won't have a quick of fast Get a feedback So you don't want to make a mistake what you have with the mark the last of the very moment, right? So let's go through a way through remain united Why I come back? I said, Oh, I understand what he want so longer uses the rial programming languages
+[]			 I will use the real database
+[]			 Everything's gonna be really okay
+[]			 So they're two way to do it on earth
+[1:39:42.1]  He's developed by Ah, very Bheema
+[1:39:43.4]  Oh, he's a wild a pioneer in sovereign June community
+[]			 I want you remember some people's names
+[1:39:53.7]  Okay, would you please? Why you take this Cause since we are taking this cause I want to you maybe our research in you know nothing in suffering Gene like a unit on the way in
+[]			 But, uh, I want to use you
+[]			 Understand? It seems you're taking this car, so I want you kind of a familiar know
+[]			 Some of the is happening in this community
+[]			 No
+[1:40:17.5]  Some of the major pioneered the country boaters to these adult main
+[1:40:22.1]  So very beam a one off
+[1:40:26.2]  The probably the well known guy in the summer processes
+[]			 He's a USC, USC, University of South in California
+[1:40:33.6]  Yeah, L A
+[]			 So he is
+[1:40:48.6]  It has these aspiring model spire models that instead of like the water for model, you see from top to bottom out you go from that requirements and design, you have humiliated implementation and high sting
+[1:40:54.7]  So he said that he said, suffer it doesn't is not developing in such a way
+[1:40:59.8]  After he's a many of many years working for a P R W, you would hear a several systems
+[]			 He calculated that he he work of what he said separate development in a such a coming in the loop, which would you have is a force secretary
+[1:41:15.0]  We have ah opportunity with high sting
+[1:41:18.5]  You have risk assess him in the reduction develop on the validating planning on those specifically talk you about her A in a sparrow fashion
+[1:41:29.7]  Keep it going
+[]			 But each time, although I'm coming back, looks like I'm coming back to where I started
+[]			 But you are coming back in March
+[]			 March
+[1:41:38.6]  Elevated level
+[1:41:46.0]  So these model and taking those on your yearbook, Okay
+[]			 Specifically, address got risk analysis
+[]			 Where the other process model
+[]			 They do not specifically address
+[1:41:55.3]  Address at risk analysis
+[1:41:58.2]  Okay, this is a super super staff
+[1:41:59.4]  Somehow my my pens
+[]			 Now that working
+[]			 I wanted to mark on my my screen, but I cannot
+[]			 Okay? Specifically put a double star right here
+[1:42:11.9]  Sparrow motto
+[]			 Is the motor really talking about a risk? And he would tell you why So he has a letter from the beginning to hear
+[]			 You have ah review
+[]			 You have your risk analysis right here
+[]			 The whole thing here is a risk analysis and you have your product a prototype
+[]			 When you have a concept of operation, you have your development and you're starting to your risk again
+[]			 You have a purpose
+[1:42:37.9]  A part of hyper to you
+[1:42:39.4]  To your simulation that are that are coming back again
+[1:42:42.9]  You risk analyses
+[1:42:44.2]  You have 1/3 of version off your prototype
+[]			 And you have product design
+[]			 You have
+[]			 Ah is on in Vienna V Okay
+[1:42:52.3]  We covered Avian
+[1:42:52.9]  Avi here
+[]			 Okay, I understand that was a Vienna V validation on a verification, and now we come back up
+[1:43:00.3]  Immigration hasn't mandala until you have ah, deploy your productive to the They're actually environment
+[1:43:11.9]  So you can see this is the fine at the sound bite of four secretaries where you have Ah, you have, ah determined all project table for the next cycle
+[1:43:19.8]  You want to evaluate her identity is the result of risks
+[1:43:27.7]  You want to develop for the on the verify Next, the level upper product you're gonna plan for the next face
+[]			 Okay, is always coming
+[1:43:35.8]  He's a circle, you expe unities of four secretary
+[1:43:39.4]  So that's the word of therapy
+[1:43:39.8]  Him said this is called it a spiral model
+[]			 So we finished
+[1:43:50.5]  I didn't tell part of the other one, but we're gonna have one lecture on what is the ideology of a woman
+[]			 I would talk about a scrum s
+[]			 So you're gonna practice scrum as I'm gonna cover the exit electric
+[]			 So that's it
+[]			 Let's move on to the next
+[1:44:07.1]  Face off the suffrage, principal sovereignty and pull camper
+[1:44:13.0]  The basic concept that we called it a requirements engineering you crumb sending you and deal with
+[1:44:16.1]  How do you manage the user stakeholder requirements? From their perspective, able I never have to deal with a man in a minute
+[1:44:21.6]  Even a stinker holders
+[1:44:23.5]  It's called the venture capital
+[]			 People could be the user
+[1:44:26.9]  Could be the Thai stir
+[1:44:27.8]  Cover the architecture, you know could be your manager
+[1:44:42.4]  Could it be that the vital her so many amenities Brenda, um, stakeholders the requirements here And there are two probable requirements documents
+[1:44:43.8]  But you Finally, he'll deliver to your in the user once
+[1:44:47.3]  Kinda no, we're dealing with Okay, I'm sorry
+[]			 No particular back
+[1:44:52.8]  You delivered the user coverage requirement specification
+[]			 So the architecture
+[]			 So you have Ah, we have a concept of a requirement
+[]			 That definition
+[1:45:02.5]  I know how this concept called Requirements specification
+[1:45:04.6]  You're willing to know there's a difference between chore
+[1:45:07.7]  Ok, table star here I a note
+[1:45:12.7]  Take your pick of those right here
+[]			 I almost them the concept
+[]			 Okay
+[1:45:17.0]  Requirement definition on recording the specifications
+[]			 Well, then also, we talk about how do we wanna have a requirement specification, which is you could have a informal the the natural language
+[]			 English
+[]			 We said hey, use their neither tour
+[1:45:36.1]  We needed to even talk about ourselves on the Amazon
+[1:45:38.9]  Sells this stuff are needed to Ah, calculator was the past six months
+[1:45:45.1]  The South State, huh? And we can use that Particular was the next six months they have
+[]			 So those are baby that in English
+[1:45:53.5]  But we could also use something called a structural natural language
+[1:45:58.6]  We sit and we can use a female Use it formal way
+[1:46:16.1]  The former my sitter with a design description, languages and we have his hammer are a graphical notation would be You are male graphical notation on that we can have some before moments
+[]			 I know you're really talking about that
+[1:46:26.1]  So first, though one is the requirements is about a physical in his study feasibility studies, talking about it while you are, He decided to work on a per Dr So when finds out about the smart a home, a project
+[1:46:45.0]  So we have these smart home project where we have all you want to know if there is a a feasible hacking Negro feasible
+[1:46:47.1]  Mean, Carrying, implemented
+[]			 So now we help us their home
+[1:46:51.4]  We can use the pyre
+[]			 A reservoir pie
+[]			 You how I use it
+[1:46:54.9]  The others Hard work too
+[]			 Yes, you can
+[1:47:06.7]  But the problem is that can you utilize the existing service? Is that provide to you? You have those existing services available to implement your functionality
+[]			 The technical feasible
+[1:47:20.8]  Do you have the hardware available to you too? So for the feasibility study and then after died we have all this composed
+[]			 The three main activities in one is if you decide to go forward with the feasibility with our doctor, is that Hey, we're gonna go hide A with these smart home project
+[1:47:38.5]  Now, the last of it is in the two illicit requirement from defense thing holders from any user who got to use your starts
+[]			 Marta home
+[1:47:49.7]  Elderly people
+[1:47:56.1]  Baby sees her or a busy professional individuals
+[]			 Young people
+[1:48:02.4]  I just wanna have my home told Aly um digit heart Easter
+[1:48:05.6]  The air conditioning can adjust the temperature based on my mood
+[1:48:09.2]  Completely music
+[]			 A piece on my mood
+[1:48:15.4]  The easy contrast that Peter, how do I feel? Comfortable in autumn with nature on my rice equal can turn it on the moment I walk in the house
+[]			 Right
+[1:48:25.8]  So really, who's your stakeholders in mend your Samata Home Services thing about that
+[1:48:37.3]  So after night, we need to have a requirement of specifications being that How do we translate? How do we translate it to the users? A requirement didn't do something technical term
+[1:48:42.8]  I wish I have all these
+[]			 So you need a have, Ah, definition
+[]			 I think that I was specification
+[]			 So the divination is requirement
+[1:49:13.8]  Reformation
+[1:49:24.7]  Is it from a user that perspective, you will be translated that into engineer is a prospective what we call the requirements specification
+[1:49:50.9]  Is it from engineer's perspective? This is really the So over here would be playing immigration something, eh? I wanted that you can talk to the baby Caesar
+[]			 What do you need it for? A smart home
+[]			 You can tell it to the hour
+[1:49:58.2]  Delay people
+[1:49:59.5]  What do you need? A four smarter home
+[1:50:02.0]  Which one's anything to our technical jargon
+[1:50:13.7]  So that means from here one single requirement will be mapping in tow Money? Are you starting your money? One single requirement Definition coming, maverick into many, many requirements
+[]			 Why? Because of you
+[]			 I see the assisting
+[1:50:21.9]  We should be ableto reader defender files
+[1:50:28.1]  Then you said, seems to Ms Shelby it really even the formula files
+[1:50:31.2]  I always say, ho, it's must be included
+[1:50:34.6]  A video fire must include J
+[1:50:35.3]  Paige
+[]			 Must be included
+[]			 The world on fire
+[1:50:39.4]  So you know what is translate into the translating into many, many
+[1:50:43.6]  So this is the one to my name, I mean, and the further wrong
+[1:50:50.9]  So the design is really based on these requirements specification then becoming into design these eyes in all the base it on
+[1:50:58.1]  Besides, another piece of that, um, requirement definition
+[1:51:03.2]  But design is a prison record
+[1:51:03.7]  Mississippi specifications
+[]			 So bag of that here is a really our technical term
+[]			 What kind of database To user
+[1:51:16.6]  What did the media later, if you use it, I want to get a three tier architecture
+[1:51:21.0]  Okay, This all your butt over here is a Monica
+[1:51:25.3]  Maybe he's a later plant English right here
+[1:51:31.7]  So that's the difference if you tender Yeah
+[]			 I said that the difference between these two the concept now is coming to the validation
+[1:51:47.1]  Veena V
+[]			 Okay
+[]			 As a double
+[]			 Okay
+[]			 Here
+[1:51:50.4]  The meditation isn't ill
+[1:51:52.0]  repute in the right of product
+[]			 What a verification, minion
+[1:51:57.7]  Ill reputed particle rice
+[1:52:04.6]  So that means if I want a very nice a bicycle, I want to do some exercises
+[1:52:10.0]  But you give me a beautiful, beautiful mortal cycle which rules this violated her here
+[]			 Validation Because although bag afraid super easy to use every but it's not what a user need
+[]			 So this is so super super important
+[1:52:25.5]  So once you decide, you're you're beautiful writer productor that you've been talking about it
+[1:52:30.4]  Hey, I want to visit the season to be able to handle days I wanted to be season
+[1:52:38.5]  We should be self or attacked south for driving the rover cars is driving on piecework Is it really not? We can see that So like a comet A verification part
+[1:52:57.8]  So this is so important It one part is wrong The system Lockerbie usable so somewhere are physically the study staging the output over here Is it requirements? Documentation under my question to you is here that all put it's a requirement occupation as their requirements specification
+[]			 It is a requirement definition
+[1:53:16.0]  I just roll down the paper, right, So that means you can de creer I finished my requirement of face
+[]			 Now I'm moving on to my design face
+[1:53:21.8]  What is it? Either output
+[1:53:24.7]  A document you produce to the likes
+[]			 The cell for architecture
+[1:53:31.5]  It is your specification park, right? It's not a destination
+[]			 I understand that
+[]			 So forget about it
+[]			 So these records were hard
+[1:53:46.2]  Thio, man, Agent and I will tell you is what you're trying to go get a user's input is your answer the user
+[1:53:52.0]  Hey, what do you really want for me to afford these apart? Actually Survivor hard sometimes
+[]			 You know, it doesn't know what they want Very often
+[]			 Don't
+[1:53:59.4]  This is a ward of the award prizes
+[]			 So I love you so much
+[1:54:02.6]  This is the Adisai that is She's super smart, super, super smart
+[]			 And this is the customer that s set up
+[]			 I need you know, your requirements that before I started designed itself to her
+[]			 So first of all, trying to a combination and a custom is it that I'm trying to make your design myself to her? That is I mean, what are trying to a combination with the software customer
+[1:54:35.6]  I want to know what I accomplish in why onto you tell me
+[1:54:39.3]  What did the sucker can do when she said Get try to get this A concept of through your fix? Girl suffering can do whatever I designed it to do
+[]			 But I just need your input
+[1:54:53.2]  So is sighted
+[]			 I didn't know the customers that you designed it
+[1:55:01.6]  Hell, you might, Cremins
+[1:55:04.7]  So this is really that Come to the point, Lyta
+[1:55:07.4]  Well, my readers, right
+[]			 It's something you can really your mind I did
+[1:55:15.8]  A part of my research is really I used a e g isa importer Euroyen Porter
+[]			 You know, computer systems
+[]			 So complex system, you can understand the humans the intention
+[1:55:32.4]  And I think that we really told a perfect lie here, right? So, yeah, I hope that someday I could give you a princess now for my research
+[1:55:36.4]  So how does he suffer, Erica? I'm just gonna human invasion
+[1:55:41.3]  So that would I like what I don't like so that its African reactor tow my intention
+[]			 Right
+[]			 So that's, uh it is very nice
+[]			 And so this is a really hard one of the definitions requirements
+[1:56:01.0]  So what are we talking about? Here is a requirement specification takes the specific It
+[1:56:02.7]  OK, Agnes
+[]			 Definition specification
+[1:56:05.1]  Pigs
+[1:56:05.5]  The clarity will customer requirements
+[1:56:08.7]  That was your definition on the construct of a specific model specification model
+[1:56:15.0]  All put off a specific and face as it elaborated the requirements of documentation
+[]			 Okay, so Oh, off the old, The output off a requirement of face is your requirements
+[1:56:25.0]  Specification document
+[]			 So there's a whatever requirements of which have you
+[1:56:36.0]  You will reflect these into We are approaching the one
+[]			 So which is that there are three kind of requirements
+[1:56:41.8]  What crimes? That I was over There must be mad
+[]			 You must have, you know, BMW car this season
+[1:56:50.0]  My monster reacting in five minutes
+[1:56:56.4]  Second, listen, you must have something like a highly desirable but another necessary
+[]			 So you've you have the GPS
+[1:57:03.0]  I want have a root hammer
+[]			 TV is talking to the second lighter
+[1:57:16.8]  Know where I am but the wind is some have is another desirable because he in Germany, Germany, they have this ah consortium All the BMW calmer cities The potion on this German car Fancy car you have with this, uh, ultimo off the mobile comes your shit
+[1:57:28.2]  They work together when they walked out
+[]			 They have this agreement so they share some over the software
+[1:57:32.9]  By the way, that's a debatable mended
+[]			 So would have Ah, you have this GPS
+[]			 He's down on your car, which is very nice
+[1:57:40.2]  On the other hand, you have keep sending this signal back to the GPS
+[]			 The set tonight
+[1:57:43.8]  Let's your privacy issues
+[]			 Some people don't know that one have that
+[]			 So this is something 100 desirable, but maybe not unnecessary for something on those air
+[1:57:56.4]  Something possible, but it could be eliminated
+[1:57:58.0]  You suppose I want to drive in this car by using my mind visit Totally possible
+[1:58:08.9]  Just by using my mind, control my process, it at the Vatican arms
+[]			 They can't do that so I can use in my mind, joy
+[]			 My car left
+[]			 But can you make it may be a false you
+[1:58:21.5]  So those are the three cover requirement Haiti
+[]			 Oh, okay
+[]			 This is Ri
+[]			 That's very good question
+[]			 We're talking about it while you tell us
+[]			 Any software comes everywhere, Talk about her here
+[]			 You mustn't think about a context
+[]			 Contacts meaning Where did you find a contact? So they needed to find my boundary off of my contacts
+[1:58:53.5]  Mean uniter Use out of the boundary is cut it within the context
+[1:58:57.7]  Outside of boundary is the house of the contact
+[1:59:05.8]  So it really depends on you are say something must be Imagine that everything about depends on which a conch eyes I'm talking about
+[1:59:10.3]  If I wanted to enlarge my boundary, something's unnecessary Moss that become will become higher desirable but don't mean not necessary But he won't want to shrink in my ear My my boundary If I wanted to increase that into my boundary that you master have it so it really depends on which to conduct is you're talking about on the contract you trim important These self locked you up to answer your question regarding the Congress you're talking about? Yes
+[2:00:02.4]  So you've you're talking about, um, you two tps as example in Germany the GPS that while I was working with them, you know, we have the GPS is really a kind of debatable because a lot of people they don't want to have a privacy issue
+[]			 Right? But you move the same er you say it doesn't belong to a master have all belong to something desirable
+[]			 You will move that again to see China
+[]			 Everything's that you know
+[]			 You must do that
+[]			 You must
+[]			 That must, however, that you know, so privacy
+[2:00:23.6]  Everything's controlled, right? So Judy didn't, by the way
+[2:00:30.1]  So whenever we talk about it and then another one of these, even we talk about it
+[2:00:34.1]  The court of hate, the call of the attributes
+[]			 I know we talk about the use of cases in the future
+[]			 So you talk about it
+[2:00:51.5]  What is the use cases who belonged to the where did, however, use cases? A meaning the U sternal component interact within another component, this kind of use cases
+[]			 All right, You have one of those cases
+[2:00:58.4]  Remember that? Yeah
+[]			 Okay
+[]			 You know, she would have me, right? You take something so you could have one
+[2:01:11.1]  The CEO I'm so ama in Interact with Liza Sistema
+[2:01:14.5]  And this is the outsider system is actor
+[]			 So this is kind of your cases what you might consider all off those
+[]			 It belonged to one system
+[]			 He's not an actor anymore
+[]			 He's a part of the system
+[2:01:29.5]  You have another Western go
+[2:01:30.2]  How's it coming to them? So it's really when we talk about a use case of modeling is really were important for you to decide at the boundary
+[]			 Why do you? I could have said in my boundary right here
+[]			 I could sit on my boundary right here
+[2:01:45.0]  Well, it depends on what you said about boundaries, but that's a viral Marco
+[]			 The question So using what is the master? How that depends on where you're talking upon
+[]			 Three contacts? No
+[2:01:58.3]  So now, with the help of the liver, the functional requirements are now function requirement on the function of criminal
+[2:02:04.9]  Is it designed? Describe an interaction between the say steams and icy environment
+[2:02:14.6]  The back of the user cases every child doesn't talk about where so, for example, the system are shell communicator
+[2:02:19.1]  With external season X, you must communicate that and the comments and must be made of for the massive to be sent
+[]			 That's important
+[2:02:27.7]  But for the non functioning comments in it described, the restriction on the country is that limits
+[2:02:37.0]  Our tour is for constructing a solution
+[]			 So that's really the key word
+[2:02:45.6]  Although you still can't see for himself using the sufferer regionalization software, I use a BMW as a temple
+[]			 So why we used the ending control systems? Well, every wasn't
+[]			 You're right
+[2:02:54.5]  We have to visualize this a one million ice cold, rigid
+[2:02:59.7]  I mean, you we put a coat of port of the Richard function called me to function
+[2:03:02.9]  Would you file Pinker? Visualize them in a clickable manner
+[2:03:07.3]  So now I have a choice and do yours
+[2:03:07.9]  They commercialize
+[]			 That would last
+[2:03:10.4]  You two at the Tom Sawyer
+[2:03:13.0]  Are you using open source A graphic visa? 18 Keith out
+[]			 You make your decision
+[]			 So that is another my choice
+[]			 That's BMW choice
+[]			 So and that is you're not a situation
+[2:03:35.7]  Do you know what your decision that the team I was I work with Did they choose the commercial visualization to well, the truth of the open source with your position? With your position, too
+[]			 She wanted to choose
+[]			 What do you think? We choose the open source
+[]			 Okay? No, they didn't
+[2:03:58.7]  They choose the commercial tool, and the reason they chose a crucial tool is that they don't wanna open source of having a barking
+[2:04:07.3]  No, Well, for the open source isn't Nobody's has ownership of anything because we share everything
+[]			 The ownership, which is a good thing
+[]			 Meaning that her ownership in media this could be down to me
+[]			 You're not
+[]			 I'll do any chin for my coat
+[2:04:21.8]  Without my permission, everybody can contribute to the this open source
+[2:04:28.3]  Why? So be a militant name on that list that we want a commercial toe, meaning that if anything, problem with the armor visualization
+[2:04:35.0]  We always a fun of the homicide rate comedy
+[2:04:36.6]  How was it? The feast, But even open sores
+[2:04:40.9]  What do you do? You pose the poster
+[2:04:42.3]  I never become fixed, Lisa
+[]			 For us
+[2:04:46.0]  And is it Hey, perfect in that canyon control
+[2:04:47.5]  Perfect
+[2:04:49.5]  More wary injection over there
+[]			 So they needed
+[]			 And they choose the commercial tools
+[2:04:59.7]  So what is it? Not function requirement? Talking about is the restrictions and the limitation offer your services
+[2:05:05.2]  So, for example, the pay charities to beauty loan life
+[]			 No more than four hours average though they are red
+[2:05:12.8]  So not only you needed the stability, the paycheck to all your professors and students
+[2:05:40.6]  You How didn't he speak no later than four hours? So what does that mean? So So can you say from the picture? Can you say functional requirements and more important than lung function requirement? You see that? Oh, there are equally as important that equally and portentous The reason being that if you cannot reach in my four hours a region yourself, there's told you about it
+[]			 I don't like again
+[2:05:55.7]  While the functions yet in the Angel's engine say statement responded, Real time system writing embedded a sizzle reel come features a trim them critical if you can
+[2:06:02.3]  Not a real acting in five mini second death
+[2:06:05.8]  The whole car could have run into a problem, right? That all that
+[]			 So this is so
+[]			 They are equally as important eyes
+[]			 So we can all say that function requirements are not better than 100
+[2:06:18.9]  You know, Warda, you can all see deliver vital for myself for a system to you deploy that to you
+[]			 I have motor function and if you need it
+[]			 But for me, not only that, I still need to check your phone
+[]			 So this is about a requirement specification definition
+[2:06:41.8]  This is more formal definition about become definitions completely least love what the Kazemi's expert system of due to So this is really in the late herma in the customers
+[2:06:53.3]  In languages where you have a requirement specification, we want a restate the same requirement
+[2:07:01.6]  For example, the file should be read it in the city should be able to read a multiple problem files
+[2:07:07.1]  I was saying, What does that mean? Obviously hole must be real
+[2:07:09.8]  Pdf or jape Agger
+[2:07:13.5]  Uh, MP three out of those actual sitting over there
+[2:07:15.8]  The requirements Pacifica
+[2:07:17.3]  I did eat healthier accommodate detonation, which is a divination
+[]			 That specific A specification
+[2:07:22.4]  So they're working it, Honey handed on a consistent on the map in together
+[]			 It is a one too many
+[]			 Maybe so
+[2:07:33.6]  For example, you for the photo sect that either tracking say statements that you can see Hey, the, you know, tracking on you, Major
+[2:07:50.9]  Oh, should I be the logical process and shall be down in the initial, uh, initial state A track on images we shall have as import a handover date, huh? And they still have a up porter had over i Q status data on the bridge
+[]			 I d on this
+[]			 A logical processes show one
+[2:08:17.2]  Probably identify the type of entity Houston as a being image on track note requires the four houses as a maid by entering a formal record in the 100 over i Q, which it feeds on the powers of sending procedures
+[]			 So that's the definition
+[2:08:20.5]  Shin How do we translate that into requirements of specifications? This is our professional language
+[2:08:32.0]  Are a cell is called a requirement sophisticated along region
+[2:08:38.9]  So there's a whole Gigante go the paragraph English in which resident in to say Hey
+[]			 Hey, we have this offer
+[2:08:44.3]  So this is a part of the language of the Havel, the RSL, right? The requirements of a civic duty
+[2:08:48.1]  Along with what? You will stay there
+[2:08:50.6]  A tracker on you, Major, the input A's hand over
+[2:08:54.7]  I killed data
+[2:08:57.1]  The output is a Hanover accused state imager on
+[2:09:01.5]  Do you want to create it? What? I want to create a teenager
+[]			 Some said it is so
+[2:09:09.8]  This is just the A long, richer by thy toe requirements is clearly you think the Casa McCann? I understand
+[]			 They say they don't
+[]			 They even you don't want you
+[]			 But I did the developer going into the next stab in working with the NASA
+[2:09:24.0]  Then you need to be sound this Ian Porter, you can create some off the our porter off
+[2:09:33.6]  A real requirement specification under the crime
+[]			 A specification
+[2:09:38.6]  Kyle have ah many different forms while the creature is on the you form one that your long region like English and we have nine paragraph paragraph
+[]			 English doesn't like a We're talking right now
+[]			 I could be in Spanish
+[2:09:49.9]  Asia could be any longer than you have
+[2:10:04.8]  And, uh so you can have ah, structured natural languages with the XML, you know, X amount, right? See if I'm here so they could have with our own graphical notation, which is UML
+[2:10:12.3]  I have four more descriptions
+[2:10:19.9]  Have you just quickly talk about Lisa? The informal language? It will be English, Spanish in our men drinking
+[]			 That was you
+[]			 To the example
+[2:10:30.6]  Ezam What a sales of the current among I below the target of sales
+[2:10:36.9]  Then a report is to be printed on lies The difference between the car get ourselves on a chrysalis
+[]			 And that's half of the difference between a target and cells
+[2:10:41.2]  And and your sales in the previous amounts are the difference between the target of cells and accuracy
+[2:10:44.6]  I was afforded Karna
+[2:10:45.3]  Mama is under 5%
+[2:10:48.3]  This is a very, very lengthy description, but even could have used someone like a else
+[]			 It was statement that we can make it very worth for you till the problem isn't natural
+[2:11:01.2]  language is ambiguity
+[2:11:03.2]  The ambiguities that is we couldn't understand it
+[]			 It's even a ways
+[2:11:10.4]  And it could be very Amish is you know, bees or something because this is not a worry model, another formal mathematical formula in it
+[]			 So it's another worry
+[]			 Um, this quick
+[2:11:23.2]  Not a very strict
+[2:11:27.9]  So the example for these Hubert super smart
+[2:11:29.8]  And you have disappointed the hair balls, right? He only he always make a funnel for him
+[2:11:39.1]  He said that you have been chosen to design award a citizen nuclear part
+[2:11:44.0]  How? This is a greatest assignment together
+[2:11:48.4]  Any Jian could a hole before I'm a flight hurt by the trust that you have me the false data by saving I mean, not a near my house
+[2:11:58.2]  So he the same comes after a few beers
+[2:11:58.4]  Extreme comfort, totally different
+[]			 You were thinking about how to have a, um besides a control
+[2:12:06.3]  How do I have a exception? Hollering
+[2:12:07.6]  How do I have prevented arrows? But he said a decent So this isn't a joke, right? But it is a super good the next way, ese for the structure and that you're a long way agent
+[]			 We can use the XML use
+[2:12:23.3]  I smell right out
+[2:12:28.2]  You know, just that maybe you don't use it there, actually, but almost everything he was behind it is ex ml just almost
+[2:12:32.8]  Pardon? It's active it
+[]			 Well, that's a very good point
+[]			 I wanted how to your little bit about this
+[]			 I said no if I was there is a reading
+[2:12:44.5]  Um, wouldn't quote about XML
+[2:12:50.1]  Is that him? Three feet person you can't oh superficially resemble x me out, right? So three, Peter, that awful facsimiles of Ari Gold
+[2:12:55.9]  When's it? You stand's ability that amuses you
+[2:13:00.1]  You can define your own hacks
+[2:13:06.5]  So I did my own tiger
+[2:13:09.3]  So it in the documentation we did it with a Motorola we produce is the documentation for that, Mom
+[2:13:13.4]  Now, even if I own patterns, I can see this is a fireable
+[2:13:21.3]  I've when you're finished this unbearable marble, right? Beautify your own hex
+[]			 Oh, another thing I can say
+[]			 Oh, sorry
+[2:13:31.9]  I can see this is a function on essay
+[]			 They finish this function
+[2:13:47.2]  So why we called XML on the team? I was caught a markup along region because we can present the content of the meaning of the content in the weight that by the continent's falcon on you presented it so I was Oh, this ever is a viable this after meeting function
+[]			 So I know exactly it
+[]			 Hayes
+[2:13:56.0]  So East End's well meaning
+[]			 Imagine I can, either
+[2:13:58.2]  My old hag
+[2:14:00.4]  Same thing if I have a I would say what A It's t p a Ever see a
+[2:14:12.2]  I also can't A's What? A lot of hype
+[]			 Well, it depends on what you present
+[]			 So this is the first of the, uh, feature that
+[2:14:27.8]  What is that? Vegeta Mel, you cannot define your own pack a picture
+[2:14:31.1]  I just want to find a package for you already
+[2:14:37.9]  Right? But even I have no schema user user, actually XML, as your Balcombe enter Define your own scheme
+[]			 I identify your own
+[2:14:42.1]  So this is a leader to the Baxter feature? Awful
+[]			 What XML is good about? A kind of structured so I can see that this is my file within fire
+[2:14:53.4]  I have a function, but do you think I have horrible? So they structured in a hard liner? Another thing is kind of validation
+[2:15:00.7]  So if I posit my accent accent, I'll file to you
+[2:15:08.6]  You want to import it say I have my BMW X man file for my structure of my engine's water
+[2:15:10.4]  I give that a true posh, then posted a eight
+[2:15:21.5]  By the way, you have some Haggerty finding this and also the That's another conform with our German automotive or consortium
+[2:15:26.3]  That's an hour, right? So they have validated that use their own schematic validated
+[2:15:28.6]  So this is really can't buddy
+[2:15:29.1]  The by schematics was a beautiful use
+[2:15:35.0]  So Anna theism can use the statistical description of a requirement
+[2:15:38.3]  Huh? You do use if you're competent size the graduate graduate from underground company signs
+[2:15:48.2]  You know, the condom is free language, right? Contacts of free long region
+[2:15:55.6]  Kind of Connie's re Gramma you forgot already came in
+[2:16:11.1]  It's no, you can Now the forget about the things you're you learn, right? Hey, so okay, come as a free guar
+[2:16:13.9]  Oh, the program languages of Probably me, George Hell for the program languages I can't even tell you
+[2:16:24.0]  Was that bag how many a program? Languages in general we have and yet bigger cause of occasion
+[2:16:31.8]  Okay, probably just in terms of language of these, I impress fact table
+[2:16:42.0]  Take it once that bag in terms of long review these on in terms of from along with your prospective the program Languages have a C Java Sea shopper all over
+[]			 Those belong to one type of language in another house
+[2:16:46.0]  Another popular languages there they are different
+[]			 Okay
+[]			 Yeah
+[]			 Okay
+[]			 No
+[]			 Yeah
+[2:17:01.3]  Years the Here's a Quaker
+[]			 The comfort of your knowledge
+[]			 A hole
+[]			 Okay
+[2:17:08.2]  Generally, we have two commas, other programming languages
+[]			 Oh, to see object
+[2:17:16.4]  Er would, however job a C plus it is a based on other computer we're using right now with the ISA Was the architecture with Carter and Noah Newman architecture, right? You know, if I know my architecture, you have one memory
+[]			 You have a CPU and you have what? So you have you have ah city
+[2:17:44.8]  You go to your memory, right? Pickup quickly, quickly
+[2:18:02.0]  What I like is that it doesn't matter which because he would take and it never, never, never and choose say this cause is useful to me
+[]			 This car technology is about to me, I think for undergraduate Richard, your graduate student already undergraduate, that all the foundation classes so super important
+[]			 See what you want
+[2:18:17.1]  Is it? I would have saved for my own education prospect table
+[]			 Three concerts before classes in my my my school from California
+[2:18:22.8]  I'm always undecided so much
+[2:18:24.9]  Where's the comparator class? You must have Must have taken that a cop because those are foundation cast can bring you a long way in your Korean future
+[2:18:34.2]  Second one's operating systems
+[]			 You need it
+[2:18:35.8]  Learned that across really well
+[]			 The third one's computing theory
+[2:18:43.8]  Your formal language of Tommy need attending
+[2:18:45.8]  Although there is nothing about a game is not a would have wanted to a super cool autonomous cars
+[2:18:51.5]  But let's give you the Fundacion
+[2:19:03.4]  So anyway, so, um, all the computer architecture we're using right now PC, right? A few dispute on a friend Norman
+[2:19:05.2]  Architecture
+[2:19:06.6]  Cheeses are a pioneer guy
+[2:19:08.8]  There are a few of the company's signs of foundation father funding
+[2:19:11.5]  Father Young
+[]			 No, man, No one machine
+[]			 Right
+[]			 Okay
+[]			 Anyway, so you have what you have
+[]			 You have Ah, memory
+[]			 And you have CPU
+[2:19:29.5]  Ofcourse
+[2:19:30.7]  Scipio, is that disappear? You have what? You You're right
+[2:19:35.0]  Larger unit child
+[]			 Yeah
+[2:19:38.9]  Way
+[2:19:40.0]  Gonna call that much detail now? So this is just a combination of Roger when the computer is a field hung me Mika Human Breen
+[2:19:54.4]  Right away You read a for Newman's book? It's a human can think contributed
+[2:19:59.2]  Where can all desire machine can calculated you? So this is it copied from the human brain
+[2:20:02.5]  And now there is a which come on, green trying to come back up with how the computer think
+[]			 You know this is so wonderful
+[]			 It's just a size is so wonderful
+[]			 No, no
+[2:20:14.9]  When the woman she knows which is our pioneer, remember, you have city your so we have something coming back on the fourth of the bus
+[2:20:27.0]  What do we peek? Would we stretch? So we have our own this you fetch and that Would you do your first? Your instruction I needed no was instructed
+[2:20:31.8]  Do I do Annie? Decoder that instruction, right? Have that decoder the instructor I need to ask you So I will fetch decode
+[2:20:39.1]  Ask your magic decoder at school infinitive alone coming back and forth
+[]			 What has saved your memory, Peter? Two things was data
+[2:20:52.4]  When's the destruction? Okay, match decode
+[2:20:53.2]  A fragile decoded is coming with people running now to mimic computer workers are like that
+[]			 We need to have a high level program tow program it? Nothing like a low level cold
+[2:21:05.6]  They talk about a microprocessor
+[2:21:07.6]  You take it out of costume
+[2:21:10.3]  Uh, in hell
+[]			 Which a process it did
+[2:21:17.4]  You okay? That's a pretty good Yes, it is better than 6800
+[]			 Yeah, it isn't
+[]			 Very good
+[]			 So what? A processor
+[]			 So we need to have high level program language, the meaning that is a final machine
+[2:21:31.0]  So how do we mean maker? Okay, think about a cease developer has a job
+[2:21:38.3]  How do we make the memory? Who saved data on the destruction we now have? What variables, Right, variable To save our this is a space even might have a point, Theresa, which is a way to wait
+[2:21:49.7]  What is this? Reverence by you, Reverend Za Burn forever is a valuable on his different regions
+[2:21:56.0]  Pointed the location with ginger doesn't
+[]			 When did change value off without a cell went
+[]			 It was appointed there
+[2:22:02.3]  Get to the value out of these chains
+[2:22:02.7]  Sell right
+[2:22:05.8]  So we have a viable Mimi
+[]			 Could is a memory
+[2:22:06.9]  Hardly much
+[2:22:12.2]  He called in fights coming back in a foreigner
+[]			 We should program a language of future
+[]			 We make that a function
+[2:22:19.5]  Well, come fighting I'm talking with a program Languages I want to go fetch Come back, go Friendship! Decoding hope, right we have ah to loop Wild loop all hope all off Those who can think about right continue
+[2:22:48.5]  So then, if I want to put a pretty girl vital to a particular memory of cell that's what's fun Assignment which is actually five, for example, right? That's the assignment
+[2:23:03.2]  So these along region this across a long region is called What? Oh, you stab a supervised plaza? Does she travel? Whatever
+[2:23:12.9]  Almost the other longer you know off belonged to a basic class or language is not friend Nomi for Newman Machine Architect
+[2:23:14.7]  It's got a one imperative programming languages
+[2:23:31.2]  So this cutting impaired him program languages
+[]			 So there's a one class off
+[2:23:39.3]  So then we have another pop along with ism not a baseline friend no emotion, mice, A magical formula The song symbols So where you talk about a I right art If you imagine I'm a demon with the symbols, what does what is Sin Bos symbol A minion five classify is what you know with the symbols
+[2:24:05.1]  So I I treat Visit Plaza as a contamination so they become a 55 It's not a calculation you gotta treat of fire and a symbol
+[]			 I can come in a tour together
+[]			 So this type of language it We caught a functional program
+[]			 Languages
+[2:24:36.3]  So this is one high, but it's in the past, so function are based on mathematical farmer it
+[]			 So if I have what I have excellent, his accent class might as well function play around with
+[]			 So the typical you may treat everything on the symbols, which is everything as a least so example of that is the least for log
+[2:24:57.3]  What you doing? Artificial intelligence programming everything to treat either symbols
+[]			 So for lease
+[]			 But I have also five three a night
+[2:25:10.8]  I tried everything the same boat I don't even know it was a tour a Union Java
+[2:25:17.3]  You cannot put a 28 together, right? Eight
+[2:25:19.0]  I went to the Carter Ones and number
+[2:25:21.0]  You cannot miss Thelma before this
+[2:25:22.9]  Everything you calling So poor Lage, You look at the poor luck
+[]			 It's a problem
+[]			 So those are function language
+[2:25:33.5]  So these are not based on fine Numa human machine architecture by the piece on applied
+[2:25:34.6]  It's a viable packet of the function itself
+[]			 So in the whole world
+[2:25:37.9]  Okay, to summarize, everybody ask you what kind of a long ways in the whole world
+[2:25:43.6]  Okay, we have two eager class of the world
+[2:25:48.2]  Why is it in peer toe programming? Languages weighs a functional problem
+[2:25:50.6]  Great
+[]			 You see your a little bit a whole year Knowledge
+[]			 So we have with these? Yeah
+[]			 What? Why? I talk about this
+[2:26:07.0]  You know, we have this this pressure and the banks in order form for the compiler
+[]			 And you have been the from meaning
+[2:26:13.7]  How the compiler even you'll write a compel it wrong
+[]			 See if you're right here
+[2:26:15.7]  Longer ground
+[]			 See? Actually, it was a fire
+[2:26:18.3]  You've forgotten this
+[2:26:22.2]  Study it semi Call it by the common I say Synnex, Admiral
+[]			 And even your name your variable you started available with a number is not allowed
+[2:26:33.5]  How does the company know that? Because you have your infinite remember wayto name your variable
+[]			 But how does a computer know that? Yeah, the infinitive
+[]			 Wait, I don't even know how you gonna name your variable
+[]			 But I just know you were right or wrong
+[]			 How does that happen? You have as magic happen because computer has a rule, like a lot of really right
+[2:26:55.2]  It's a wedding ring
+[2:26:56.5]  Rules of them all
+[2:26:59.0]  Let her win A's their rules
+[]			 The competent has a grammar over there, so I can define you
+[]			 Must have started with a later on
+[2:27:11.8]  I could have any companies of lighter members afterwards
+[]			 I don't care
+[]			 So that's a better grammar
+[2:27:16.2]  It called it bankers nor forma
+[2:27:19.6]  We should also call the young kind like his frequent
+[]			 Okay, so there's a lot of for the things I think you got that right
+[]			 So, okay s Oh, this is just the wound to use the graphical notation here and now
+[]			 We're gonna talk about this later
+[2:27:35.5]  So dynamic of decisions of these proceedings on the pay Boza, we can have
+[]			 We'll see from down at the table
+[2:27:43.9]  That decision table you have ah, for Fresh Mountain to accept
+[2:27:44.8]  Accept a student
+[]			 You have a few rules rule
+[2:27:48.0]  Why brutal Rule 3 to 45 So you have Ah, you must have
+[2:27:53.6]  Ah, good as 80 score
+[]			 You know that is true
+[]			 Everything else you fail, you accept it
+[]			 You have what? Hi
+[]			 It's great
+[]			 The g p a
+[2:28:04.0]  Everything else I failed you accept it
+[2:28:06.9]  But you have cooled a recommendation
+[2:28:13.6]  Everything else fail, you're gonna steal, not accepted on missile if you're certain rejection letters, so there's just the one I make me
+[2:28:17.9]  Well, there's a examples
+[2:28:19.4]  Another word with these imports
+[2:28:22.5]  And so you can have these the flow chart of the court
+[2:28:25.4]  See, they have law diagrams
+[2:28:28.3]  One know what happened, how it happens
+[]			 And then the symbols order
+[2:28:35.3]  So this is ah, refinement it where you have a customer process older and they have packaged data custom data altogether
+[2:28:44.4]  I know you have adjusted coming by before
+[]			 So now what we can do is that we can use the finest in the machine going back to your home in that class, right? So find it a state of machine is
+[2:28:55.3]  But how seriously And so, for example, my locking the Jima
+[]			 I've my number
+[]			 I turned right a tool
+[2:29:02.0]  Times turned laughter
+[2:29:02.3]  Want one time on turn right or what? Another one
+[]			 So that's my combination
+[2:29:07.8]  So you got any off those estate is not working well, you're gonna fail
+[]			 So this is your opening
+[]			 You have six
+[2:29:17.8]  A saver log way right? No one left Three riders, two left you open it
+[2:29:25.9]  Anything else? Any companies and coming in, you're just even the locket
+[]			 So this now the good
+[2:29:34.9]  So this is just the uses, the finest in the machine as example to show, How do we use that with prescriber requirements? So I can usually the diagram the shoulder a criminal right easily
+[]			 But you would use a ward of the say that it's a very, very complex right? So there's just a viable example
+[]			 Hey, so this is dynamic these women
+[]			 So there's something wrong with this picture
+[2:30:03.3]  So when you read a self description, you need to consider all the different scenarios You cannot leave some scenarios that sonata describe
+[2:30:15.5]  So what happened with this diagram? So the sweet over here it was a dark I push up light isn't lit up uneven
+[2:30:21.4]  That light out, I pushed it down The light Is it love? So do I describe loudest narrows right here
+[]			 You think of yourself a self to our designer is this is a complete of requirements to you
+[2:30:38.7]  This diagram? Yes, I wanted the square for Life's a lot of switch as if it was dark up
+[]			 Come
+[]			 You said light is on
+[]			 Put it down
+[2:30:56.1]  Turn it off! This is how do I d? Squad the relationship between the switch on the light is this and my question to you Is this the completar description requirements? Because the first quite promising That would be the software description
+[2:31:02.6]  We should've questioned everything in a description specific e the some options on the heat and meaning
+[]			 So you fire we're gonna give you days is it is right description
+[]			 Me and that you developed this software based on my description is this is a good idea
+[]			 It is enough
+[2:31:37.3]  Why? It's not the novel, okay? A CLP say said That's OK battery again this good question, But let's go
+[]			 We talked about it before
+[2:31:42.3]  What is it? Boundary we're talking about, right? That's another boundary
+[2:31:50.5]  Young is Could it be? Could be sometimes start for the circuit
+[2:31:54.9]  You could be by the boundary, But I'm talking about a boundary, right? Justin, My relation with pigeons aren't enough with life
+[]			 So is this enough? This is complete
+[]			 It is not because it my present right here
+[2:32:10.0]  You do not want have any assumptions And a human mania happened
+[]			 So you see the dark? Why You have to assume the user have to put it that
+[]			 Can they just put it down? But your state agent doesn't have that
+[2:32:25.7]  A dystopian would have been the user
+[]			 Put it down with a happen
+[]			 You don't have that description
+[]			 Then you solve
+[2:32:32.5]  There's a faulty on their hand
+[]			 You The light is on
+[]			 You say, Hey, you put it down and the light is off
+[]			 What happen if I do not? I put it up so that it is
+[]			 You have to understand
+[2:32:52.3]  You have a describe, oh, different a boundary cases decided a normal case
+[]			 You have to think about you, the wall
+[2:32:55.8]  Have an assumption you don't wanna He's squire the suffering
+[2:33:02.0]  You know what you think you need the scribe of suffering the way that somebody else
+[]			 I think somebody has the crazy eyes on me
+[]			 Okay? I just don't turn it on just what happened
+[2:33:13.9]  And I just keep pushing it and nothing happened is a frustration
+[]			 And this is not a call herself to work
+[]			 Okay, very, very important
+[]			 So, um, the I think we're gonna stop it right here, where you finish requirements and then we go to the feasibility study and then next electoral can finish this
+[]			 Okay? Just stop here
+[]			 I'm in
+[]			 That's all for today
+[]			 Thank you very much
+[2:33:46.6]  Have you created a group on the canvas? You can sign up on your roof
+[]			 You must somebody you know
+[2:35:38.8]  You use Ember
+[]			 Well, well, well
+[]			 We need a post
+[]			 What? You'll doesn't want to
+[2:35:48.6]  What is that? It is a Georgian forces
+[]			 Okay, that bit about
