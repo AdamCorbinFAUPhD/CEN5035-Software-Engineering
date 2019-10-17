@@ -1,0 +1,1471 @@
+[0:00:04.4] How's the homework going? It's doing these Friday bounce
+[0:00:10.1]  Okay? I just want to come under on, uh, one thing I receive with some emails he was doing
+[0:00:12.5]  Student came to my office hours
+[0:00:16.2]  Asked about that was that they had affirmation
+[]			 Okay, then the divination
+[]			 So was a tool
+[0:00:19.6]  Purposes
+[0:00:22.8]  So one is the terms that you're using throughout your project
+[]			 You mentioned that all the time
+[]			 So, for example, if I work with BMW on there, the engine control systems I was talking about a collaboration all the time
+[0:00:34.8]  There's a lot of myself to wear
+[0:00:35.0]  My hardware is about
+[]			 And then collaboration
+[0:00:43.8]  What do you mean by collaboration? So, for the for the not a technical person, not in your ice purty domain
+[]			 They want to know
+[]			 What is that? A particular term means you give them explanation was a collaboration, right? And then off Another purposes offer The definition is even I can't know the term would help about suffering
+[0:01:01.6]  Sample your talk with a practice off software, but you may have your understanding with your context
+[]			 And I have my own list
+[]			 Any my contacts
+[]			 So you talk about a silver methodology, so a so So I wanna have that
+[]			 A divination particular definition within your contacts
+[]			 What do you mean by that? A term
+[]			 So you say
+[0:01:25.7]  Ah, basically user off my application
+[0:01:27.4]  But your bases the user
+[0:01:28.1]  Probably way, way, way tomorrow
+[0:01:29.8]  The vents
+[]			 They're from me
+[0:01:33.0]  I'm just that I don't even qualify you to your term off
+[0:01:35.0]  Basically, user, you have a defense that use, right
+[]			 So who is the say? Even talk about access control under in the world
+[0:01:44.3]  This so he viewed
+[0:01:48.2]  How about access control? Then you know who says a part of this cell tower? So I want to know Water, that is definition days
+[0:01:54.8]  Okay, so silver two purposes it off that they have definition Wednesday for the people outside of your domain
+[0:01:57.9]  Understand what you're talking about
+[]			 Another thing
+[0:02:08.1]  To give up your understanding that we think that a particular contact stuff your today we're gonna talk about the contracts that Michael's a lot
+[0:02:11.5]  Sometimes the most important thing is repeated contacts within the confines you're talking about
+[0:02:20.7]  So Okay, so that's my explanation on your project due on Friday, and each team once you'd have a justice about me
+[0:02:22.8]  The one version on it's populated to our team members within your cook
+[]			 Okay, so and I just show you this isn't my fault
+[0:02:34]  You're probably more of events that Emmy
+[]			 I just gotta started
+[]			 It took a long time
+[0:02:40.8]  This is just the other the the print
+[]			 No printer, the border
+[]			 You could have put him together
+[]			 This is my teacher about Okay
+[]			 On this is the that I used to hear, and here gonna be the arm
+[0:02:54.3]  And then so hero being the bike of the breed
+[]			 So anyway, so there's a little cute thing
+[]			 Very cute
+[0:02:58.9]  Nice
+[]			 Okay
+[0:03:03.9]  Anyway, so I'm gonna put the pie inside of the auto sensor comeback potatoes
+[0:03:04.8]  So there's a essentially what it should be
+[]			 Look like you're finishing our project
+[]			 If you have those about right
+[0:03:12.1]  How? The investigation
+[]			 Right
+[0:03:15.2]  Listen, member of this Michael Okay, just the announcement of that
+[0:03:24.5]  And next week, I would be I, uh you know, next we were out being a conferences
+[0:03:25.4]  So everyone, I'll be here
+[]			 So you're gonna have some guy selector or our class, and I'm gonna be have some day tutorial off your the pie
+[]			 Come on, get to your no
+[]			 Right
+[0:03:38.7]  And some basic sommers is No
+[]			 So I hope you can bring your computer
+[]			 You have a question that has the time for you to answer a question
+[]			 Okay, so come here
+[0:03:48.5]  Prepared of it
+[]			 Gonna have basic service is over there
+[0:03:52.6]  Maybe some of the simplest thing would be the conversation part and then says So Anyway, we're gonna have a while a student that he would have kind of tutorial for you
+[0:04:03.1]  So then, Ivy, watch that a remote today because I'll be away from conference
+[]			 So anyway, Okay, so today's lecture, we talk about use cases
+[0:04:16.8]  Um, and how do you write a wire for professional use case? So for the purposes, will have a very proper self dirty about a homage
+[0:04:24.8]  Because in a really industry, really, the use cases is really very simcoe exchange a symbol, but a very powerful way to make sure you talk about a Vienna via right, a validation of verification
+[0:04:33.4]  That is a really rare a simple, powerful way that you could make sure you give up those soft for verification
+[0:04:39.4]  That ghetto verified and validated by the customer and also the wings
+[]			 He can see the cover off days
+[0:04:47.2]  I have these about a vaccine
+[0:04:47.9]  International coarse material is, of all classy was on Lee
+[0:04:54.9]  The reason I'm saying that because I have is that he's close your schools
+[0:04:56.8]  Your contract I signed is a contractor with the company because of the their company using the material for professional training
+[]			 You know they're making money
+[0:05:06.1]  You know, you have the sign of a $3000 for the cars
+[]			 So anyway, so we have this material use of our across the room
+[]			 But I don't have distributed this somewhere
+[0:05:17.5]  Some somebody else, which is not the art class
+[0:05:21.0]  Otherwise I'll be in trouble and a little always evil Jacobsen, right? He's a while
+[0:05:27.5]  The guys offer UML, right? Why is that? The three guys is a phonograph uml Viacom
+[0:05:30.1]  Glad aboard ship and the team rumba price of the three guys put their ah development methodology together
+[0:05:37.5]  That's why I called a unified unify
+[0:05:40.2]  To what? Unify the three guys idea together The comm Unified
+[]			 Okay, so even if you're a young person is one of those so well, you tell her what I own
+[]			 That idea of self ready, but a moment to for the requirements as well
+[0:06:00.2]  This is a very good book for you to hide on this by in leaving, Well, seals
+[0:06:12.2]  He's probably one of the books you want to put on a bookshelf when you are talking about Oh, what is the requirements on that particular you know, we have a child suffer from the department visible easy to read
+[0:06:20.6]  Barter is a lot of, uh, a lot of practice practice practical
+[0:06:27.3]  Otherwise, it's suggestions before for the industry practitioners
+[]			 So this is a wonderful while with a book
+[]			 So well, you talk about Ah, your your homework
+[0:06:43.8]  I mentioned that Oh, you need to talk about the scenarios and that hopefully after these across you will understand the scenario
+[0:06:49.8]  Bite her, Onda
+[0:06:56.3]  How do you write ago the use cases in which I think you're gonna be next? The homework, the anomaly, the use of stories, a trim listen
+[0:07:16.9]  The reason one would be simple is that each story focus on one function, and one function on Lee was, Why, what do you want? That? Because it's a way how specific function when you do the developer mention your only focus on that a particle beam so you do not want help us suffer architect to design you want to have with a couple of Cho Hee Jin's? Why do you want to be as tight as a succinct as a possible as simple as possible
+[0:07:26.9]  So normally so the story You such a temple as a I'm in a roll off something neither function out of hay off with something to achieve a goal off some
+[0:07:39.5]  So if you talk about your teaching about Asia who have called right here is my little robot here
+[]			 So if I say that I want to, um, as a user, if I'm a visually impaired, I want to be able to you either function to ask her questions about her, the room temperature on then to achieve the goal to make him make the room temperature go up and down
+[0:08:09.9]  So those over gay Oh, I as a customer, I want to ask you the voucher
+[0:08:15.5]  What is the Friday schedule today? So, you know, O'Toole, whateveryou wantto make my tree or I wantto, today's the temperature, but there's a climate so that I want to get in my answer
+[0:08:34.9]  So those are you trimming this simple? Where were simple, simple sentences? Um, so they use a story first, and then you want before that your hyung's that it with use cases, handle it
+[0:08:43.4]  And I will give you the use Kate's temple it later still, and that you have us set of recommendations
+[]			 So whenever you'd be right up with your software because you hold a silver is a very complex, so many different function, that of his I even awful each a single functionality
+[]			 And there's so many people in the supper
+[0:09:00.4]  Maybe Sabol function anything within it
+[]			 So you want to start with a list of users stories? Okay
+[0:09:08.7]  What? I want the chief so that you can prod hae your even a functional requirements
+[0:09:17.4]  So maybe you can talk to your friends, you see? Hey, I'm developing is apart for individually imperative people
+[]			 What is that I have You know that
+[0:09:23.8]  So you want your house visit with more and poured in the complex
+[0:09:30.5]  You story off course that you want to add that into your priority in the backlog, which I asked you to do the trial
+[]			 All right
+[]			 Okay
+[]			 You might
+[]			 I opposed it is on the announcement
+[0:09:39.4]  You fighting me on a th with your travel, the workspace and even User kid hub, which is equally well, Bridget, actually, even equal awhile
+[]			 Eunice Eunice for this purpose
+[0:09:52.1]  So it was You're gonna happen, that Lincoln Public killing
+[]			 I want to see that it wise your on the story wise, you're doing progress and they're finished
+[0:10:08.9]  So you want to use that before the product has in a backlog that have finished with the user use case models and then you can see uncle to the American model
+[0:10:13.2]  So this is just a lot of things that we helped water requirements across that we would talk about, use more detail
+[0:10:18.0]  We have a closet, just folk song sufferer requirements
+[0:10:22.5]  So you see that that we talk about the oldest authorities of the use cases, the pike longer items the non functional Carmen's of 100 relationships between those different terms
+[0:10:35.6]  And this is a very nice the, which would be called a meta model
+[0:10:37.0]  The men have no meaning
+[0:10:38.4]  The MO does that describe another model just like that that I made
+[]			 So you have, like, epic meaning, whatever toe
+[]			 It's sort of like a theme, a sort of like a theme
+[0:11:02.5]  So you can hide is how I would say you have bees in this epic A and the architecture I pick a different girl in particular specifically the scripture off that a program part on this is us mode
+[0:11:05.6]  I want Mrs And then so you have a features
+[]			 You could have a story whether have this story right here
+[]			 You have this a user story and that you have other work
+[0:11:18.7]  I don't miss it and that you can't collect stories on employment here by task
+[]			 And where is that? They're all together
+[0:11:29.9]  Well, if those are items, we'll go ace your bike Log items on this bag back longer items the elaborate hit you you score a burger by your user cases
+[0:11:36.4]  So and then what if they're constrained by by your non functional requirements? So your your project in your proposal, I want to see a cent of war scenarios I want to see set off on the lung function requirements with you because those long fucker from our requirement will restrict your implementation off your backlog items, which is a general hither by you
+[]			 The story
+[0:12:12.2]  Okay, So do you remember that we talk about, um uh the rapport right? Has a three site is you have off architectures
+[0:12:13.3]  Centrica, you have a use case driven on each word she would development
+[]			 I want to show you this the future again
+[]			 So remember, this is from last lecture
+[0:12:24.1]  When we talk about a robbery, unify, uh rational
+[0:12:28.2]  Unified A processor used kids driven you must starting from use cases were development
+[0:12:37.8]  And then after that, you design architecture and then you'll have a use for a table at the Vatican Meant going back before with them
+[]			 So I did
+[]			 The harder basic is really use cases
+[]			 So this give you a rabbit, Peter, don't water about it
+[0:13:00.4]  Some of the terms we did the motion because of the severity of the central piece off of the requirements Engineering class way have the class
+[]			 I teach that class
+[]			 So we're gonna have more intact managers
+[0:13:09.2]  Silver requirements is solely the whole class of talking about how do we manage your requirements? So you talk about it
+[0:13:26.8]  The Hughes case driven that it means that the heart I fought for the city vitamin is really we needed defying a court use cases to defy use cases that we must find that Hayward's the actress under the use cases altogether
+[0:13:32.6]  And that this lecture I want you have Ah, Vier
+[]			 Where professional understanding off
+[0:13:43.6]  What is your suitcases are how do we identify the actor on how they've How do we at anybody use cases rather than just the very superficial I talk about abuse cases
+[0:13:53.7]  Okay, so this is really I give you an industry strength off this electric to the objective off these we want to stand understand the season of Hungary
+[0:13:58.3]  So I had hoped to use cases in your skin
+[0:14:08.2]  Is a the external, the external component? Could it be the same students could be their habits
+[0:14:09.8]  Could be users interact with the summer existing existing system
+[0:14:16.9]  And then now we talk about a external any internal
+[]			 If we would talk about a light, you must have something called a system a boundary
+[]			 That's what I'm talking about
+[]			 The contacts that at the beginning of this electric So what? You have your they have the information
+[0:14:32.7]  I said that you must have talked about a context within your proud of contracts
+[]			 What do you mean by that? Okay
+[0:14:38.2]  So people can understand your with your refrain chip
+[]			 So we want to identify the primary and a supporting actress in a way that her own
+[0:15:00.6]  How do we identify so that it kind of look responding to your highest priority? And that maybe your the secondary for artists and we wanna have the name and describe how do the squad, your actresses and how the way identifying how do like that? We identify primary, and it's supporting those cases
+[]			 And how do we name on the disc are abuse cases
+[0:15:14.5]  So this is just the very small protein suburb porch off this whole lecture
+[0:15:19.3]  We identify these objectives
+[0:15:28.4]  So now this picture is in just give you a little bit of background that this bigotry is the new standard
+[0:15:32.0]  In 2016 you standard off software developed from the corner
+[0:15:45.4]  Isis give you such on the What is it a year? Today's work
+[0:15:53.9]  Okay, so you socially omg object up management group
+[]			 Okay, He's not a term of your familiar with
+[0:16:09.6]  So you have that called it Ice Ensign, which is a software development in my thoughts
+[0:16:25.9]  So this is a new software developer on my throw them, So oh, they started a about a discussion initiative was in 2011 to 112
+[0:16:40.0]  So after about a five years of work on all the people with a lot of people from even the part of the world on together, So I was a part of the core contributors person
+[0:16:41.9]  So we work the workaround, Lisa for about four years
+[0:16:45.9]  So over the ice, Izzy, you can do a search for that sort of unit
+[0:16:51.4]  I think that the final version approved by or MG was put on the 15
+[0:16:59.6]  The lumber think so? Okay, so I said to the surgeon it up, and then we well, over there you don't have a time of you
+[]			 I have the saliva tutorial on canvas
+[0:17:08.2]  If you are interested in, you can take a take a look at this slide, but you will have a time
+[]			 I'm gonna cover that otherwise that we can just give you a brief introduction
+[]			 So, you know, this is sort of development
+[0:17:18.5]  Might talk about a different kind of a card, you know, say this is it for each other
+[]			 When we identify what is the the attribute her for each practice
+[]			 And then for each attribute that we define the word to the actions, you should take
+[]			 So for these particular action, you know have used case models and then we can talk about it here
+[0:17:47.9]  Is it with definition of using case model? And it was the contending, which is the artifacts you have, actress use cases association
+[]			 We know that you have yours cases
+[0:18:01.8]  Okay, so it's just that you should give in a car, but this is the way they presented a united pretty good myself licenses
+[0:18:03.2]  But the nation does that Forget about those
+[0:18:06.2]  They're just assuming we have
+[0:18:07.8]  We have those in all ageing, but it now that's cutting into details
+[0:18:16.3]  How do we identify a If you talk about it, I want to develop these Them? Yeah, a serie like for the visually impaired people
+[0:18:28.0]  So how do you identify each the amateurs, How you identify each individual use cases so that you can start into your developmental
+[]			 You don't want to miss anything, so you probably don't want to start in
+[]			 Your group went through your project
+[]			 You probably wanna started doing the summer
+[0:18:44.4]  The priest or being as many cutting as a possible don't know where about that
+[0:18:50.2]  So don't worry about it, which is the correct which is not is doesn't matter just anything you can think about it
+[]			 You can put a, you know, sticky on the wall cause even will go to the development
+[]			 You can see it
+[0:18:59.9]  Actually, the company's a lot off times that they have a lovely yellow stick on a wall
+[0:19:04.4]  This is literally how to develop in the industry when you go to job hat and go to the throat, huh? You know, they have a lovely in practice
+[]			 Is that really you can see a lot of things on the wall
+[0:19:15.3]  You want IBM While I was there
+[]			 The same thing too
+[]			 So you can just as many people just think about anything
+[]			 So they put on the wall and then just the man we can sort of that later
+[0:19:25.4]  Started from some somewhere
+[0:19:29.1]  So have you Bree Storm, identify
+[0:19:33.4]  What is the possible actress? Was the post of ball would hardly possible use cases
+[]			 Now we come back to the definition
+[0:19:39.3]  What is the editor? It sounds like a person
+[]			 Okay? It is another person is
+[]			 It could be a database
+[]			 Could be external
+[]			 The driver Could it be something external? Any component
+[0:19:50.9]  Okay, but it is a poorly named anything actor
+[0:20:00.0]  Meaning someone or something outside of the say stigma in tracksuit with the system in a particular role
+[]			 Okay, this is so important
+[0:20:05.0]  Must be outside the system
+[]			 That's why we won't talk about the boundary, which I'm gonna give you an example later on
+[]			 They must have a particular role
+[]			 So evil
+[]			 You are a student
+[]			 You are contracting with the season off the library
+[0:20:26.5]  So you are in a particular row at a student under your brows, the libraries and the catalog
+[]			 So you have your purposes
+[]			 I have my purposes
+[0:20:32.7]  I am a professor
+[0:20:34.5]  I have my photo browser died
+[0:20:47.9]  Okay, So this is just the definition on this particular role represented off one or more stakeholders who used the system on a contributor to the completion off their goals
+[]			 So you don't want to say that? Well, why I say that? Um, no se a evil
+[]			 Say you had a student to you a browse the library assistant and s so you don't want to um So do you want writing your name? Toby? Say you as a, um browser
+[0:21:16.1]  Visit us the system
+[0:21:19.6]  Or you can say that ive y se you actually represented a cool stakeholders
+[0:21:25.8]  So you want to say you represent a sleepover off student? I represent a speaker
+[0:21:29.4]  Hold all the faculty professors
+[0:21:31.8]  Okay, so they really have a repetition off one
+[0:21:38.0]  Almost stakeholders who use the system and that's so underhanded on the other side off the equation, we do how our youth cases use cases all the ways off
+[0:21:48.6]  Huge in the system to achieve a prodigal go off four particular user
+[]			 So the music is really serve the user
+[0:21:56.1]  So you wanna talk about your case? It would be that in Libra system it would be in order to check out a book
+[0:22:00.8]  You know, bro, uh, browse the book so those are out of the service in this level
+[]			 Well, for my purposes
+[]			 Okay, So this is a very important and it is so when they have this is the definition of this actor on the youth cases
+[]			 No, we mustn't said how Our boundary
+[0:22:28.4]  What do you talk about? So for example, one system what you think it is belong outsider, but a tour, a broader concept, using the vessel within that it says it's another actor
+[0:22:38.9]  So that is a very important have that the appreciation
+[0:22:44.9]  What is the boundaries? So everything young they it is that is interacting with the system
+[0:22:52.4]  Is the actor younger? Right outside? So this is really requires a contacts that I grant in tow Help the threw out of the process
+[0:23:01.6]  So whenever you develop your component of your whole system the term project, you want to know this a particular prop the component with you with your concept, which is the outside of which is inside
+[0:23:07.9]  You wanna go further larger? This would be everything gonna be inside of you You have morning outside
+[0:23:15.9]  So you want to ask all of those questions out of the Venice, the holders, and then to see by starting identify the users on a connected assistance
+[]			 Okay, so this is how to you You find a use a boundary
+[]			 So what? You have so many people
+[0:23:31.1]  Actress
+[0:23:32.9]  Okay, He contracted with the system
+[]			 They're not equal somewhat are at the motor
+[]			 Some identified after that, it will get the most of value from the system, so those are the same
+[0:23:52.6]  The actress for way to the system is a beautiful so even come out of the library system they are beautiful or the student into the factories
+[]			 The staff to browse the system
+[]			 They're not a beautiful people
+[0:24:02.0]  Who behind the library They're doing the kind of dog, right? The purchasing off course We use it, but they're not at the main user
+[0:24:08.7]  So you want to know what this is? Season the beautiful
+[]			 For who's that out of me to people you want to serve
+[]			 So those are the primary users
+[]			 So you want to identify them? So and also you probably wanted the library to the lease of users on our systems
+[]			 So for your user and system, when you are ready for you, you wanna You sure at least the one actor identified to address the need off the systems
+[0:24:40.7]  So you're Mieze? A particular are creatures in your domain than your system is now complete
+[]			 And let it fail
+[0:24:46.8]  The Aurora
+[]			 Our validation heist in all the verification
+[]			 Right
+[]			 So you'll fail the one aspect
+[]			 So you will
+[]			 You are not able tool
+[]			 They lead her books in your card
+[0:25:02.1]  Why? You added you cannot be lied anymore
+[]			 They say you are not a complete right
+[0:25:09.9]  So the actual presented the rules adopted by the accusers are the prime your actors
+[0:25:16.4]  So you have these the user types technology with chapters, standard users messaging devices
+[0:25:23.0]  Those are the types that what kind of people they are having
+[0:25:26.3]  And this actress could be the coding subscriber call mobile subscriber Onda customers
+[]			 You can classify them
+[]			 They all belong to technology with opportunity
+[]			 So you have with all of those people that they are the standard of user and they have another way
+[0:25:45.5]  You have the messaging devices, so you should have be able to have the ability to synthesize the information
+[]			 And they can Christ, if I them into a one specific group, whatever
+[0:25:59.0]  So a lot of people come here using the library system while you're over there, you'll take a look at some people looking at the system's Oh, I can't classify the mom while student
+[0:26:02.9]  Why's the faculty one staff? Okay, that's how you're gonna defy them
+[0:26:10.2]  So remember, actress are grows up later with the respect to the system
+[0:26:21.5]  Whatever role you're playing, you wanted to guide at a, um, the aorta customers, you are the maintainers off the system or you're the in use off the system
+[]			 So that's your role play
+[0:26:44.1]  So in general, the general practice and 1/3 item you wanted Thio start a ways that general ideas the first and then from the general idea, is a quite a vehicle shrink getting smaller, smaller off your a scope on
+[0:27:00.8]  Do you want to identify kind of goto from a big goto? Small, small, right, Just like that, Read over the otherness of information and then extract most important license from that
+[]			 A general practice general concept
+[0:27:14.4]  So you don't you don't want to start away their ages of the most suitable actual names
+[]			 Okay, it's not a good practice
+[0:27:28.2]  So what do you want to do? That you want to walk it down to a good actor named about first by identified a few peoples who prayed to the same rose more like they're the same sleeping on the same category with respect to the system
+[0:27:35.3]  And then you don't want too preoccupied with the perfect actual names because we can always coming back to modify, because that's in the nature off 70 development
+[]			 We cannot get a thing done right in the first place
+[0:28:06.3]  We always seem to modify it so good enough is sufficient so either you gotta stock think of other a really individuals who will use the system wantto have a through the If you get stuck, you can think about him If I wanted to the my part of the help of people to navigate him I just cannot think about going away
+[0:28:10.0]  Nothing about a grandmother and she invited faded from your boat so started from somebody who's so you can associate Read it with I don't give you go through this process So you're here
+[0:28:39.2]  You can think about it the whole group heroes you think about identify something your mind on that you really belong to that group of people And then you find out your actress name That's kind of with the information gradually extracted, right formed even the abstraction level on the out A way to your actress It was kind of Ah, very nice process
+[0:28:53.8]  So why you identify the first? Uh ah set off the actress who are the main the service's many service to those people that you want to identify the second witness supporting actress to using him machine as example
+[0:29:10.8]  If you go to a t m machine, you may anyone to be the Bangor customer, right? Am I really? So the bank customer, not anybody else
+[]			 They are the main primary actor
+[0:29:22.5]  So these are the primary use cases that he needs Those the main function you provided a true the the main customer
+[]			 So I goto a t m machine
+[0:29:30.9]  I want to transform my money
+[0:29:34.0]  I want this job because I want to take my Bennett's
+[0:29:37.0]  That's all I want to do till
+[]			 But those of things cannot be dung we father people supporting those
+[0:29:48.7]  The service is so those are your secondary actress and those are the sex Could be secondary use cases
+[0:29:52.2]  So service other millions teachers, Bangor systems, the security of the mystery Cher's So those are the people behind this scene Big are lean customer work off
+[0:30:05.4]  They are still equally as important so well, Eastham as a secondary actor, Senor Separate development you want to Starting with the main actor on the menu is a case of first and you gradually move on to the secondary actor and second real cases so you can finish your completed your system gradually
+[]			 So this is because of we neither
+[0:30:24.7]  Some supply the care cash where anyone you two will be informed of on any event You for my car to stock over there
+[0:30:29.3]  I want to make a call, right? A secure Mr Trist
+[]			 So but keeping your mind it the actress another always people walking these systems
+[]			 So if I were going to draw the boundary, where is my bun jury? Right here
+[]			 So this I'm my boundary right here is my one boundary
+[]			 But even with the larger, I can call the whole thing as my bun jury on There's something else in tractor with that
+[0:31:00.5]  So again, everything is relative isn't no perfected, so there's no right or wrong
+[0:31:04.4]  It depends on what we're talking about
+[0:31:06.2]  Your rigid framework
+[0:31:08.0]  We are operating
+[]			 So this is the Peter
+[0:31:11.9]  Folks are on the boundary off our system
+[0:31:17.9]  You want to consider other system as actress force you to confront the boundary off the season you are creating And this really make you focused on We should free
+[]			 So we are doing developing right now
+[0:31:29.6]  So you have a bank customer and you have a transfer funds with a joke, cash and cheque of violence
+[0:31:36.2]  And so ever and the ok on this guy, the banker systems
+[0:31:37.8]  He A's and I could teach you what? He's outside among boundary
+[0:31:43.7]  So where did you go? Mission that it would be required to support of these behaviors
+[0:31:59.2]  Is it him? So Okay, so this is how do we identify the the main actor? The main use cases that forces the supporting actor in supporting the second Orioles cases
+[0:32:06.5]  So please don't get a pre empt the design being lighter
+[0:32:11.5]  You want to just take something just out to start a way that we thought a systematically going through that So is the other sister Maria and actually a part of the system assembly? Is this a part of that? So, for example, is a printer actor? Yeah, printing indeed
+[0:32:26.6]  Interacting with your system
+[]			 But is it an actor? Now you need to go back to the actress definition
+[]			 I turned
+[0:32:34.9]  Neither took out of the service off from the system
+[0:32:43.2]  So what the printer is, although, is it is it a indispensable park off your system? But this is not an actor
+[0:32:51.9]  Okay? So before the system was required, a communicated with them a system represent them in the actor in the model
+[]			 Okay, so there's a bank raises the browser
+[0:32:59.6]  Why eyebrows the bank? I need the browser but his brother, an actor
+[]			 It is not just the media, but of course you'll see is me
+[0:33:10.6]  You must be in cream into that or the advertising in my contacts
+[]			 I'm talking about it right now
+[0:33:14.0]  Seeing you my small faces
+[]			 That is not the thing
+[0:33:17.7]  I'm concerned
+[0:33:25.2]  But when you go to browse, support the part of component Now Vo sistema Now you can say Hey, the brows I'm contracting with the browsers
+[]			 Okay, that's it
+[]			 This is even a story, so just be viral
+[]			 Clear what you're talking about
+[0:33:44.9]  Okay, Now how do you name your a browser? How do you names border? So actor actor names to the describe Rose the actor place in addition to the seasons
+[]			 So this is so, so important
+[0:33:50.0]  The good Agra names are descriptive off their responsibility
+[0:33:54.8]  So Frank Zambo, a adm operator describing right descriptive Oh adm operator so good
+[0:34:02.6]  Regular names describe the Ruoff keeping adm include the working order on the stock with the cases, The in the paper he's and he's operate
+[0:34:12.1]  Okay, repair prison
+[0:34:14.4]  So this is pork today with the actors a job
+[0:34:17.1]  Get a quite a Peter Young
+[0:34:17.6]  Simply recovered
+[0:34:18.9]  Repair the machines
+[0:34:22.0]  Maybe because he can assemble a minute of the cash
+[]			 Maybe he's on the for evil car stock over there, thinking the guys who will think about so you know to be a little bit descriptive and a simple one
+[0:34:33.2]  Simple use cases on Lee
+[0:34:47.8]  You want to make sure to capture a brief description off each actor as soon as it is covered, so that you have a fresh ideas what you are, what you are intending to describing that no more than a few sentences
+[0:34:55.7]  Why, because you needed a paragraph described that a particular music is use cases Let him use that is too complex to be implemented by using a simple function, and you should break it out should describe the role the actor plays on
+[0:35:12.3]  You should stay to the goals that actually expected to the chief
+[]			 So this is just the, um, this the way you describe your actor
+[]			 So get that right
+[]			 So the actress of the general role, or rules, is you don't want to confuse the actress with the organization job title
+[0:35:35.2]  So his job title could it be the library is a mother librarian or am I the kind of Logar? Of course, Sometimes the job with the title is rarely hear that whether you are doing is quite so the manager's by that you wanted to be excited what he's doing
+[]			 What he's in the role play so you don't want it to overly generalized
+[]			 Okay, this is just the manager you want to say
+[]			 We should part of the manager
+[0:35:56.9]  So he's the day it happens
+[]			 The manager
+[0:36:00.1]  Oh, he's the kind of log of the book
+[]			 The manager
+[]			 Okay, do not overly generalized
+[]			 You want to use their roles
+[0:36:07.1]  He's a hell of a job title as actual names
+[0:36:10.2]  And you want to characterize your doctor
+[]			 So, for example, look at a future on the life, too
+[0:36:17.6]  See how sales a minute cheaters the sales of the readers
+[0:36:21.2]  They interacted with the main sector diary, uh, batteries
+[0:36:30.3]  Inter Qasim odors handle custom car Kurt, the Cory's General Kemper, the Silver Keys and processing this pensees
+[]			 This is a not gonna use cases
+[0:36:42.4]  Why? Because this guy is June too many jobs himself
+[]			 So how do you think about us? Kate is the for implementation for several development
+[0:36:52.9]  How could how could It is? It is even possible that the improvement of these components with a so many even a function than it is there is another A coda approaches
+[]			 What? How could have a fix this? How could we fix it is a problem
+[0:37:04.5]  We broke that into a several youth cases
+[0:37:11.9]  Um, so we have What? Hey, you have so many years of cases here, right? I mean, can't secretaries diaries, You know, customer orders on the process expenses
+[]			 Okay, I almost that night
+[0:37:19.5]  Okay, let's see you recode heaven handle, cousin
+[0:37:22.4]  McCurry's on agenda Generator temporary solved
+[0:37:25.9]  Rockies
+[0:37:28.1]  This is a supporting engineers, a job
+[0:37:29.7]  And where's the Inter customer order is the oldest of the menace
+[0:37:33.4]  Futurist, old and even talk about it maintains secretaries diary on the process of expenses as a team at him in this futures job
+[]			 So you have those of three years of cases altogether
+[0:37:49.8]  It has started doing even impatient you can get when you're preparing to one person, another implantation to another person and so on
+[]			 So this is it again, Going back to our are the lecture on silver architecture
+[0:37:59.2]  You know, the couple in Caucasians is so un component is so important that this is just so wonderful
+[]			 So keep in mind, this is the picture of you
+[0:38:21.7]  So your Cooper, when you are trying to identify the actress on the use cases in your group you wanted Teoh from the I'm gonna give you some of the uncovers that there's a handout but we would talk about those later
+[0:38:31.5]  So briefly talk about some of the candidate of the actress for a system to develop on the truth
+[0:38:38.1]  Someone you just We don't have time to do these exercises, but in your homework assignment, probably you should have something very similar
+[]			 Now we finish
+[]			 The actress doesn't talk about how the way I think if I use cases and they're so, um then so that and how do we describe that? So why, then, if I use cases you want to starting by identify the actress goals, meaning what the actor trying to achieve
+[]			 So for each actor, identify first the things that they actually need to achieve it by using the system
+[]			 So go t a t m machine as example
+[]			 So I want to withdraw my cash
+[0:39:17.0]  I wanted the Posey to my check
+[]			 This is something I want to do
+[]			 So sometimes I see you on the other summer classes from the other classes
+[0:39:29.4]  I see the example would be Oh, your prizes at the elevator on everything go up
+[0:39:33.4]  So is the press
+[]			 The elevator is a use case
+[0:39:38.1]  President
+[0:39:38.7]  Button off the egg is a use case by this example
+[]			 It is not right
+[0:39:46.7]  I presses the button is because I want to go up
+[]			 Going up is what I want to do
+[]			 So so is the same thing
+[]			 You think about it
+[]			 I got e t on my machine
+[]			 Verify the Pena
+[]			 Is that a use case in? There's a compact
+[0:40:01.0]  Ofcourse you
+[0:40:01.5]  Eventually we will be yours
+[]			 Cases somewhere
+[0:40:04.6]  Right? But again, this is Purdue compacts, the to the bank customer
+[]			 Verify the very Pena
+[0:40:10.6]  It is not my main concern
+[]			 I go there
+[]			 I just want to get the money and deposited my check
+[0:40:16.1]  The verve Rp member is not a one of my concerns
+[0:40:18.9]  So that is shall not be a use case in this
+[]			 A compact
+[0:40:24.9]  Okay, So the Hughes case could be get a counterbalance
+[0:40:30.8]  We had captured with the draw requires a statement from the mansion and deposited cash eccentric those of things wantto so going back to the definition right here for each actor you wanna identify the least that the actor need to achieve by using this system
+[]			 It was something that I did wanna achieve
+[]			 Then it issues case
+[]			 Okay, not of some of the hours
+[0:40:58.2]  Okay, so you don't want to confuse the use cases away The functions where the function deep on account of the composition prevents this is the identification off meaningful scenarios on the obscured A system important requirement Because you're thinking about what the functionality system produces rather than what? The service you want to provide it
+[]			 Although sometimes it could be a similar
+[]			 So, for example, a good example, right here you have customers
+[]			 You want to tell you the orders? I gotta Amazon
+[]			 I wanna either orders
+[0:41:23.7]  And when a cheating, my orders approve olders on the older increase and so on
+[0:41:28.9]  But you sided
+[0:41:33.2]  You don't wanna have it is a My purpose is not a delete order, although it is a function
+[]			 But I want to be ableto browse the product on a police
+[0:41:39.7]  Older guys would have I'm trying to do
+[]			 Although the leader order either order that this it is
+[0:41:47.6]  It can help me fulfill the my requirement off with a brother
+[0:41:52.2]  Part of placing my order
+[0:41:56.5]  Okay, so this is really the differing the set of a granularity over the details
+[]			 And I want to be able to track of my older
+[0:42:01.6]  So this is the eighth bite
+[0:42:02.1]  Her use cases, then these 21 Because this one identified would have one achieve and their life, the one on the left
+[0:42:13.8]  You're talking about function? No decomposition functionally company dominion
+[0:42:18.1]  You break the peak of functioning, do smaller function to implement that
+[0:42:23.7]  Meaning that if we want to invite him in the browsing part of her place older, you have to have the leader
+[]			 I had a change order function to it
+[0:42:29.9]  Okay, So this is just the wealth, the smaller potion conversation off the speaker use case
+[0:42:41.1]  So why you talk about a use case? Is that what artifact is that? The drive your use cases of vision to, uh, can't happy you to think about from which aspect you can consider about your use cases
+[0:42:57.2]  First of all is the existing crime information should be leverage tohave authentic candidate uses
+[0:43:03.5]  Okay, So, for example, from, uh, from the life bottom corner right here from a stakeholder knees on the problem of statement from here, we want to ask a question, Sarge, Isa does
+[]			 This isn't provided behavior to sense
+[0:43:16.3]  If I'd a stakeholder knees on the solve the problem you wanna ask that a question? So you would go to the right
+[0:43:27.2]  Let's go to the counter clockwise fashion identify Schism of future isn't which is a capabilities
+[0:43:31.4]  So artists set of identified a use case is a capable off a deliver out of future so that if he finds so you can identify even your meat anymore the use cases because a few amusing any those cases then you're a system is in all the complete
+[]			 So are all the user
+[0:43:50.7]  A responsibility is sufficient addressed by the system
+[]			 Is it from stakeholders roles and user types And you form with the other particle requirements
+[0:44:01.2]  You were the user cases to conform tow any constraints of place the a publicist
+[]			 So those aren't a I suspect in you can think about
+[0:44:18.1]  Do I capture all my use cases clearly completely on either concerts in the fashion they don't know a complete and the income inconsistency there another in conflict with one another and another
+[0:44:29.4]  So here, that's talking about example Identify
+[0:44:30.2]  Supporting an operational use case isn't so
+[0:44:42.6]  Think about the information that ah, I needed to mainly, What did the evil mission the actual mainly need from this assisting toe? A potentially system
+[0:44:55.1]  So how do we get there? So that is it for you to identify yo yo's cases, so use it is the on the lab customer wanted with your cash before dying the primary
+[]			 This is a This is primary use
+[]			 Cases cannot provide a value if there's no cash in the machine
+[0:45:04.7]  Something about a shopper
+[0:45:08.3]  What? I want to get a new special offer at this content
+[]			 So this new special offer cannot get into the machine
+[0:45:13.0]  If we don't have a rectory, operate your sister
+[]			 So for that, a particular reason Then we're gonna identify those are operational use cases, meaning the ate him engineer
+[0:45:26.1]  So they want the riff You on a service? The machine
+[0:45:31.4]  So this is the secondary use cases on the makers cuts available on keep the machines they're running
+[0:45:36.9]  I know your marketer
+[0:45:38.6]  You need thio wrong
+[0:45:40.2]  There's the cells camping on another use cases allow them to Toby
+[0:45:48.1]  Includes be set running these ah promotion
+[0:45:52.0]  Starting data on the Indian date has a long so this is dumb information
+[0:45:59.0]  So this is really a way for us to identify the main May actor menus cases on a supporting actor in a supporting those cases
+[0:46:07.8]  Also, one user cases have associated with another actor because the one years ago that's no serve
+[]			 Only one actor sometimes says so
+[0:46:19.0]  There's more than one actually so of you at any of youse kids with a woman or Maura social actress
+[0:46:20.4]  And we want to create a use keys diagram
+[]			 You use it
+[0:46:23.7]  This is sticky finger to represent the action on this for your case
+[0:46:35.0]  So, for example, the withdrawal cash in withdrawal Christ of this youth cases that you trouble to have been a customer, you can run into him
+[0:46:39.2]  Also, you knew how to the bank systems detected that the money from his balance
+[0:46:43.2]  Okay, so even the updated your back in the database
+[0:46:51.1]  Keep in mind that the arrow doesn't mean doesn't indicate that they'd have flow
+[0:46:55.0]  Okay, doesn't mean that the fate of coming from the bank customer told withdraw cash on the data coming from a joke to here the arrow symbol Unified
+[0:47:05.5]  Who? Initiate the action on the holes
+[]			 The receiving this action
+[]			 Okay
+[]			 The bank customer initiated this action on a withdraw
+[0:47:27.1]  Cash is the receiving this action and do some of the receiving this instruction on adore the the the update on I used to sell it to the bank and then bang do this update themselves
+[0:47:30.0]  So keeping in mind Okay, this is not indicator offer that they'd half law so use cases is extremely powerful and a simple to capture other requirements
+[0:47:45.8]  I know we want to evolve a set of yours cases alongside of self the actress You want to do the most simultaneously in parallel because as you would define your discover your picture you want to discover your use cases? Because of that, you can start your development
+[0:47:55.6]  We honey hand So the two of activities that go hand in hand Someone 10 years early on it
+[0:48:01.3]  Teacher table When you you I discover a new actress
+[0:48:07.7]  I want this guy a new youth cases you keep on Miljan case more complete
+[0:48:11.3]  That kind of a chicken and eggs are a problem
+[0:48:15.5]  Identification of unusual cases can lead to a unification off a new, more actors on a vice A versa
+[0:48:22.8]  But this is all normal, which is the healthy is
+[]			 You've ever healthy process as you discover new things
+[0:48:27.7]  You keeper working all night, so on gum
+[0:48:33.7]  So why you didn't identify use cases supporting information? We will also be identified
+[]			 We knew that the secondary he was kissing be identified
+[]			 So that's where you have girls across your terms
+[]			 This is what I would ask you to do
+[]			 That they'd have definition
+[0:48:48.7]  These are real entered the ochre
+[0:48:54.6]  All girls here terms business rules the system Or why did the codify attribute standard or regulations part of that
+[]			 So the season
+[]			 What? Why the requirement that it do not apply to any particular use cases is could be That's really the season
+[0:49:03.6]  The regulation, the policies the law is not a part of your case isn't but its fuel
+[]			 And he's a part of their requirements
+[0:49:15.1]  So there you cram it should be involved in paradise to to Neymar use cases you want to give music is the active name just like a week
+[0:49:27.8]  Talk about the actress and you wanna have What? The script table name to the actor, the new me out
+[0:49:35.2]  Then if I use cases that may have ah, long names, why a breeze, darling? But he can graduate and a symbol of my age
+[]			 Have more succinct description off that particular use
+[0:49:45.3]  The case isn't so never lies
+[]			 The long name is a good a starting point
+[0:49:58.1]  So you want to do to use a a ack table, huh? Pens? You don't want to use the pacing
+[]			 One name
+[]			 It's a risk management
+[0:50:10.1]  You want excessive risk? Okay, on the fight Flight is scheduling your scheduling flight, which is a It's another really, absolutely, this way
+[]			 But that's the industry practice
+[0:50:14.6]  Okay, there's the river
+[0:50:16.1]  Well, from the conversion from the industry we want to use, the active war isn't so Capture a brief, please
+[0:50:32.7]  Good movies uses as so isa Isn't this covered? So you never want to accept the argument that oh, it is a very obvious Everybody know about it
+[]			 This is no such a thing
+[]			 You always even no matter how simple it is writing down because otherwise yourself there
+[]			 We will have a fault
+[0:50:44.8]  You will have one folding yourself to work
+[]			 You need that something you cannot
+[0:50:51.2]  You think this is just the take it for granted
+[0:50:53]  But of the user called again, Conger could go to that and rabbit hole
+[]			 But then you're suffering all the cover
+[]			 That particular part
+[]			 So there's nothing set off this again
+[0:51:04.6]  No more than a few sentences provided a short a synopsis off
+[]			 What a system it does to provide and so valuable
+[0:51:09.8]  You shouldn't make a career
+[0:51:11.2]  We just stake holders are receiving
+[]			 This is pretty good value
+[0:51:17.7]  So you why provide? It is a kind of residual, then whole receiving that you have one of the other day visit violence
+[]			 The bank you got up early
+[0:51:27.3]  This balancing used consensual capture, the specific of value provided to those stakeholders
+[]			 Some particular value, not a general
+[0:51:35.9]  As a lot of the, uh the way to the end about the part of the Indian to itself
+[]			 So you got what do you wanna go Thio? I want I want to do a goto a t m machine to get in my cash, deposited my check
+[0:51:50.1]  So take a pew member is not a part of that
+[]			 Okay, You want to provide a specific already so your core will probably go again for the use cases
+[0:52:03.1]  Ah, free storm on to choose the could, uh, use cases
+[]			 You can start from the long description off use cases on the order to graduate You, um, a symbol of my age and then find a cool use cases for your we'll use case the name of for your use cases description model
+[]			 So this is, um, let's go back to the Isis is the standard
+[]			 So I'm just standard that I talk about it at the beginning
+[0:52:40.7]  So you have ah, used his motto and then here are set of Ah, we called it a tribute
+[0:52:45.0]  United recovered a Stephen Dunn
+[]			 The attributes toe describe it that a particular use case model
+[0:52:55.1]  So, for example, the level of detail you have very established season bunga re established, structured
+[]			 So those are things that must be done
+[0:53:03.1]  Those things must be finished, you know, to have ah finish the use Katie model
+[]			 So would it mean by a value established that Okay, here's our checkpoint
+[0:53:14.7]  Here are all the check upon which is the primary actress are named Ridley, described on the primary use cases that are named on briefly described
+[]			 There is an explanation
+[]			 Off used his motor as hope
+[0:53:29.6]  So these are the while you finish everything else, you finish your Radio East appellation
+[]			 So secondary the schism a boundary established
+[]			 How do I know my boundary established there? Then here's your checkpoint
+[0:53:47.5]  73 actress and use kids that have been identified in a boat with the primary use cases ish actor and use cases appear at least that one diagram, and they're already in the backlog
+[0:53:51.9]  Items can be trees to use cases, an actress or other requirements
+[0:54:02.6]  So how do you know it's that they use kids being structured? You want to include and generalizing relationships off use cases on that you have extended relationship
+[0:54:09.3]  I used to ease prices on these tensions of behaviors on So so on the left
+[0:54:31.6]  They see your key for now practices, Um, and on the right is your the child released fuel that calling the attributes but a summarize of the selector, we learn by to, um, how do you even want to be really successful with your use cases? You must understand the purpose off your sister and it again
+[]			 You mustn't be fine
+[0:54:40.4]  Your bun jury Laundry off
+[]			 This is it
+[]			 So when you at any of our actual works of from the specific to the General
+[]			 Okay, so you want to start it from a state? Uh, maybe think about a whole new using about one started
+[0:54:55.9]  Think about your brother sisters on
+[0:55:08.3]  Then you can hope my brother city to represent Oh, my brother sees represented that a particular age of group of people, the younger people using that or that a particular need O my brothers is in Asia, just a technology geek
+[0:55:11.8]  And I would've Can you use it? So stand from with some simple general and don't forget about it Is total systems that in tractor with the system of being developed? Okay, Now the only person you have a six teams are in trouble, So use case should be provided on dhe provided independent of value to the actor
+[0:55:38.7]  So even howto sq U s cute several years cases in a sequence in tow either value Thank you are wrong
+[]			 You are on the wrong path
+[0:55:45.6]  Why? You are in a room Half Because you're not providing a wen simple single function, There's too much going forward
+[0:56:01.8]  You want first focus on the obvious and the familiar Don't get a parked dung dealer with an unusual on uncommon thing
+[0:56:03.3]  He wrote a set of actress and use cases alongside each other so you can have it in cream mint on each word table
+[0:56:13.9]  You haven't You read up on the fashion? So this is a tabulator
+[0:56:16.3]  I'm which I'm gonna give you to the Scrabble use cases
+[0:56:19.1]  Okay, So have a user case Name what? You use a case that I d
+[]			 And this is the by the way
+[0:56:30.1]  This is a very professional use cases the forms in and you have a requiring information documentary and it just happened
+[]			 I will give you this later
+[]			 So let's take a break
+[0:56:40.6]  When we come back with continually selection, we talk about it
+[]			 The last selector we talk about the what issues cases
+[]			 It was the actor
+[0:56:58.7]  And how do we identify the actually, how do I identify use cases? A prime your actor and second director on the primary use case in secondary use cases
+[0:57:06.0]  So? So we identified that So this electoral we talk about something more detailed, actually, isn't related about it kind of another
+[0:57:13.1]  Um morning, chaps
+[0:57:18.7]  So the use cases it really way to establish the requirement off the system, you know, to capture the user criminal from a different perspective on it
+[]			 Really? We trying to cover as much as possible
+[]			 So that's why we use the scenario
+[]			 The music industry
+[]			 When you the scenario description off your requirement
+[]			 So another one always
+[0:57:38.7]  Ah, Inspector, we need to identify the season laundries
+[0:57:44.4]  So what? We identify season boundary that enable a subtle identify which use the cases we were talking about which actress that we are talking about so that on the water, in tractor with the systems and what a season Sure
+[]			 D'oh! Because give was that other compacts the you which we can only have What the conversation
+[]			 So it's a way to a teacher change
+[0:58:13.8]  We evolved the requirements in the way that starting from Janet more general requirement getting detail motive failed on the so and also use cases is a way to communicate the requirements to our stakeholders
+[0:58:20.0]  Use cases provided a common threat
+[0:58:29.8]  Ah, through on all the project activities from the beginning to India from all the different developmental testing on to oppose the deployment from the user
+[0:58:33.1]  Acceptance has thing is all by Lizzie
+[0:58:41.5]  Could it be down by use cases? So it's really your case? Is just the former beginning to end it from inception? Lento post deployment So again, that's the re capita
+[0:58:53.4]  The divination off use cases, um, use gives
+[0:58:58.0]  It described the sequins off actions, a system performance that it feels on observable result off value
+[0:59:02.0]  Chew a particular actor
+[]			 So that's why I'm saying that it will price this the button from the elevator
+[0:59:10.2]  You go up less now that use cases because that was the vital that I bring to the user
+[0:59:16.5]  So use kids are showing is a diagram the bank, either with the dog casual
+[0:59:24.1]  Where's the Hughes case can describing the Pakistan with how the story's off, the interactions between the actress and systems
+[0:59:39.9]  So this really how the your narrow table there two ways to describe a use case isn't was used the views of the diagram where you have a bank customer and you have withdraw cash you have with Emma connected with feather
+[0:59:43.1]  Another way is used text which I'm gonna sue show you example in next
+[]			 So this is the way we mentioned
+[]			 That is just a defender
+[0:59:55.3]  The kind of key process areas on those each of them have ah, used kiss model
+[]			 No value established system
+[1:00:04.4]  A boundary wth e s tabulation on a structured So all of those together I know where each of them have
+[1:00:09.3]  Their different is set off
+[1:00:11.6]  We'll check appoint you
+[]			 You have finished all those a checkpoint
+[]			 You finish that up
+[1:00:15.4]  Ridiculous
+[]			 That visit just even a steps
+[]			 Yeah
+[1:00:22.4]  So this is the cases you have what you are Caller talk about a call center, right? A customer service, your color
+[]			 A prison
+[1:00:28.6]  Local call on the place along this and call
+[1:00:31.3]  You have caller
+[1:00:31.9]  You have Holly, the track of the days and from a customer
+[1:00:37.5]  You wanna have that a cock histories and the retrieval coating bills information on from billing information
+[]			 So this is just a very simple example
+[]			 Off water is the use case in model
+[1:00:55.3]  So is a concept that I love you too
+[1:01:03.0]  Really understanding what you describe a set of yours cases which is essential for self rectify recommended the our concept record of what is the basic of flow on that The other way is kind of alternative floor the basic off flow
+[1:01:16.1]  Describe all the high place in aerials in your letter you for not there's no exception
+[]			 There's no fault
+[1:01:23.9]  Everything goes on according to your expectation
+[]			 That is the basic of flow
+[1:01:31.3]  So you talk about the bank as example, You goto Ben User Little Carter, you validate your card
+[]			 See, like a cash withdrawal selected will be among you
+[1:01:38.4]  Have you wanna confirm availability of fund on return, Carter and dispensing cash? Okay, everything's goes accordingly
+[]			 So when you do your suffer, develop on to your developing your systems
+[1:01:53.8]  You see, there's a basic of law you need to think about as a Aegis
+[1:01:54.2]  Sing
+[1:01:54.5]  Go, Stan
+[1:01:55.9]  Step would it could go wrong
+[]			 Those are called a alternative flow
+[]			 Okay, you need to think about this
+[]			 Say why you said the card would it can go wrong
+[1:02:09.5]  You have a valid ID
+[1:02:10.6]  They call its electrical cache of it of its jaw
+[1:02:13.8]  Would it couldn't go wrong over there
+[]			 See, like that, a man would have called you
+[1:02:18.5]  I want to see the catch of the jaw I want to see like a monk
+[]			 I do not
+[1:02:24.5]  A selected a pretty final amount of I want to say, Hey, I wanted to, uh, $50
+[1:02:32.0] 25 is no such a month
+[1:02:36.5]  Then what do you do? Can you say is the deal with that? So think about that every single step you have to think about those
+[]			 So therefore you need to have a set of a definition awful
+[]			 Your alternative flows
+[]			 And so, for example, evil years or the card
+[1:02:52.1]  It says that you invited to Carter You want to use it A Bank of America and you put it in your city bank card
+[1:03:05.4]  Andi for relatively Carter, which is a A and you have what you could have a long standard that among you have a receipt required
+[]			 I'm the have
+[1:03:12.3]  Look, if I wanna get a 100 our dollars out, you don't have that $100
+[1:03:15.4]  You selfish in the funding? Your A T M u Sophina funding in the account
+[]			 Okay
+[1:03:20.5]  With a cause
+[1:03:21.4]  Overdraft in the cart is stuck, cash left behind and so on
+[1:03:31.2]  So those are where we're going away for you to have your software being robust
+[1:03:33.8]  Okay, So, Pastor toh standard or different under the Thais that no out together
+[]			 So this is a something very, very good
+[1:03:41.5]  Consider
+[1:03:45.7]  So use cases driven over the valley woman and a tie sting in a way that we talk about all the alternative flows
+[1:03:51.6]  Drive all your past in cases those give you over, Thora complete relatively company
+[]			 So you started with your youth cases of flow
+[]			 And then you have your scenarios
+[]			 What if scenarios and think about your user Gonna walk through your boat
+[]			 You have to have a conversation with your user
+[1:04:16.5]  And I have your test cases in youth kiss a realization and the cold and the swan is of it
+[1:04:19.2]  Just hold coming back and forth
+[]			 Use cause of realization is I'm gonna cover that later
+[1:04:33.4]  Well, you see, like the one particular use cases, how do you start doing the impatient law for that particular of the use cases? Excuse the realization
+[]			 So this is the other used his model
+[]			 Go by
+[]			 We saw this already
+[]			 So you have this, say used his model
+[]			 You have a first will have the scope
+[]			 Well, you have
+[1:04:46.2]  This is solid that is the starting point
+[1:04:48.6]  And then you have these a circle
+[]			 It's a new point
+[]			 You have a scope of sophistication
+[1:04:52.3]  Grated realized that implemented them, verified it
+[]			 So where you have ah, each of them
+[]			 You have even the descriptions
+[1:05:01.7]  What do you mean by use? Kay? The scope
+[]			 What do you mean by specification are great
+[]			 You have a set off the check, please
+[1:05:09.7]  The full feel that a particular on the stack
+[]			 The suspect
+[]			 So this is ah, youth case model
+[]			 Either
+[1:05:20.9]  Is it together? A set of use case of flows and their corresponding has The case isn't so fully describe on aspect off these particular systems
+[]			 Okay, so that's it
+[1:05:35.6]  This is the good one so that we would talk about the eye job development use cases
+[1:05:40.3]  Really? A is the key to being agile
+[1:05:46.1]  So you work with the use cases you can think about your risks and benefits
+[]			 I identify was the key scenarios for the your system
+[]			 And you think about it
+[1:05:55.0]  What's the natural group are flows
+[1:05:59.8]  So if it is a good flow for checking my account of bandages on this gruel flow tough talk about a vital data my of the my pin number
+[1:06:07.3]  So this artist unnatural pull things together
+[1:06:11.4]  You want to think about a Tyson and approving the systems and you think about the items about driving that the radical mentor, which is really the use cases you have
+[]			 There's a basic follow party
+[]			 You have an alternative roll party, so, like you can describe What is it, really? I need to have a test the producer might has
+[]			 The case isn't which is a really it be driven by your alternative flow
+[1:06:44.2]  So this is, uh, use case of models are in the sense that similar to use the stories we said really talking about a compact in the compound itself uses story mode
+[1:06:48.6]  It was provided a more powerful We offer reasoning up off of this particular requirements
+[1:06:54.5]  So we called it a requirement that are two things of wire bark
+[1:06:57.7]  If required to do was the complete What is the consistency, right? The two things
+[]			 So this is a really use cases
+[1:07:13.5]  They help you to producer um complete, and they send scope the reference that they'd hard that it held under understand the politics off your system development and also is a scary place
+[1:07:31.8]  Meaning while you have it from smaller potion, the works and then you can gradually added two more use cases more on getting your cinema had become handle more function at a patient on even from 100 Working low the perspective you can handle more working over
+[]			 So this is that you think is the realization I mentioned from previous light is this is so wonderful
+[1:07:46.3]  The way we cut a child right means smaller pieces of working together
+[]			 So this is you starting with your youth cases of from a specified assisting
+[1:07:54.7]  So it seemed about a hotel and I go to a hotel
+[]			 I go to travel
+[]			 I needed you
+[]			 Look at my hotel
+[1:08:02.5]  Your read Sylvia room checking in a customer on your check out of customer
+[1:08:09.8]  So those are your use cases? Suppose you started with three years cases Peggy and customer take out and then you wanted to have a reserve Your My June
+[1:08:19.6]  So how do you start into your yin part? Imitation? How do you study the evil in the embodiment of your reserve room? There's a particular use cases
+[1:08:31.1]  So this car that used kiss your realization where you break that Somalia's cases in tow
+[1:08:33.4]  The seven several
+[1:08:34.9]  The Somalo functions Kazuma screen
+[1:08:38.6]  I want a room, Mahender
+[1:08:40.4]  I want her room's reservations
+[]			 Okay, so those are so it's a very similar
+[1:08:45.2]  You have the sprint
+[]			 You take a one spring out and then you have the spring
+[1:08:53.6]  A bike lock those small a component at a sprinter O'clock
+[]			 So what have you checking? Customer? You have a staff screen
+[1:09:00.4]  Meaning? You show your staff screenwriters the screen
+[]			 The staff was seen
+[]			 So you want Have a checking a handler? You are our rooms
+[1:09:06.4]  You have a reservation
+[]			 So when you take out of customer, you have, ah, the staff screen and you have a check out a handler And they have rooms
+[]			 So those are just different
+[1:09:16.4]  Show that the defender a smaller portion had a sprinter backlog to have use kids
+[]			 A realization
+[]			 So those are the element of the system
+[]			 We need to be need to implement a little performance heist in those years cases
+[1:09:36.0]  Okay, so this is what a way to break your use cases in those Tamara potion
+[1:09:46.0]  So how do we ties them to verify the imitation? Obviously yours cases and so you have this Ah, set of progression off your, um different process and you're using his Amato's requirements systems
+[]			 I have ties
+[1:09:59.6]  Thing is, there are just given that practices in the language off the license
+[1:10:05.2]  I just give you the weapon to the standard that we created him so friends
+[]			 But you just take a one out
+[]			 We'll use his model
+[1:10:11.5]  You have scoped, specified realize that implemented, verified for these
+[]			 So from you this uses his model
+[1:10:27.0]  You want to be a verified age, be ableto verified and it requires the responding Kaiser to be executed
+[1:10:29.3]  And you have you need to evaluate this particular on a step
+[1:10:36.4]  And so then you have this look responding that has the cases which it has kisses evaluated
+[1:10:47.6]  And you have all that even a stacks According to that, So use cases a really sophistication really enable we have with this age are practicing upon a squander
+[1:10:52.5]  It happened ax p those arda on Japan this older hi Joe practice out there in the industry so you could have on here
+[]			 Here's the one set of what the state over youth cases, just like he's using
+[]			 His model was a set of states here
+[1:11:13.5]  Okay? And then you have this set of state and frivolity squat
+[1:11:17.8]  So if our timer use cases, one use cases because the briefest described this kind of the purpose
+[]			 It was the purpose over these, and it was a support, a whole support of these one
+[1:11:28.4]  And you have Ah, say the author
+[1:11:29.3]  I stayed the bullet
+[1:11:33.5]  All I completed the outlying And you have, with the purpose of that summarizes the seat on the extension of your case isn't on
+[1:11:38.2]  This is a supporter all over those of functionality
+[]			 Thank you
+[1:11:46.5]  To use cases of fully described it, you can't do analysis, design, invitation, enticing creation, user documentation on the high fatality estimation
+[]			 So this is so on the left
+[1:12:05.8]  It is set of states that the while you finish all the states that you finish your those cases described on the description so far
+[1:12:07.1]  How two way link this use cases where there are a whole project, a team
+[]			 So this whole project team is the heart of everything
+[1:12:19.6]  And then we can use this use cases to unify the defender portions off the project
+[1:12:24.6]  So from users, periods of designers, perspective going to understand the user's goal, which is that you give them the scenario, right? We understand that So from the customers and is the eroticism of getting Butte this part is what Valley patient by and the hospital managers that he wanted plenty of monitoring develop person to almost then what of the season with us So they can beauty the system on the technical writer in the right
+[]			 What a system doesn't
+[1:13:06.2]  So I have tasters I need to describe an assistant mrs So Anyway, so all of those we can out hide back together by using yours Cases on this is the oil can be understood by out of Thevenet stakeholders Is that is something nice? So how do we produce the ah producers of the youth cases? So again, this diagram is the diagram from the standard I'm talking about I sense so you have even an area of the concerns you have What requirements you have with the systems on requirements has all the captured using models and the Tyson thank you again on these are the all the state And how do we provide some completed this use cases and you have you have finish all all off those of five states, and it's here
+[1:13:52.4]  On the right are the definitions off each estate
+[1:13:58.1]  So what do you mean by use cases? Is it being sculpt? You won't say, Hey, you want identify the flows Toby described on the implementation
+[]			 There's a finish that so how about a specific specifications is great? And by that even a stakeholders
+[1:14:14.2]  You see that? Oh, you want to write a news kids specification you want to write? It attested cases, and you want to remember to cover special on the Supreme Military requirements for that
+[1:14:29.7]  So this altogether, or the sophistication on the father realize, realize that you will realize that the flow off the event I located Requirement described by the floor off event on the element off the in community assistance and how they use cases being implementation input, imitated we talked about
+[]			 I use case of realization
+[1:14:47.5]  So there's a lease apart and the use cases being verified where you want a very fanaticism or produced sq ties
+[1:14:53.3]  That, based on the has been cases to verify this isn't delivered
+[1:14:53.7]  Hugh's case has defied so anyway, so all these things together
+[]			 So those are the state you want a check, make sure you're finishing everything
+[1:15:12.7]  And then you finish this use case of models and this is just that the floor was how do we reach there? We have a analyses, the leader shapes and Majesties and oysters
+[1:15:23.7]  So for the what you described by the use cases and we need this for McGinnis she perspective walking now another for your project from ministry perspective
+[]			 They needed toe Describe er was the competence
+[1:15:39.1]  We are what we need to describe it at the youth cases from analyses, analysis, assist, perspective from ties their perspective
+[]			 You can see they're here on the writer are the bar isn't Don't worry
+[1:15:49.1]  The low industries have one bar
+[1:15:52.6]  I mean, they're not overly confident competence and two bars and three bars
+[]			 And then the five bars
+[1:16:08.7]  So clearly the squire was intimidated and a beautiful photos on the facility of disquiet, the description and tablet technology and applied the complimentary and technology
+[1:16:14.3]  So it just like the level off engineer your Level one offer engineering level two and level three
+[]			 So use it
+[1:16:17.5]  Heister, as example probably are more familiar with the basic of Hester
+[1:16:23.3]  A competency
+[1:16:25.9]  Can I ask you to pass the cases
+[]			 So this is money
+[]			 Ah, the the team members is to specified cases, and the individuals think holders
+[]			 Okay, if you are, go a one level up in a moment You're in your organization
+[]			 You can have a specific specified that has the cases, which is your competence
+[]			 The level is too
+[1:16:50.4]  If you go the level three companies the level right here, you can lead posting, you go more you can plan has seen and that if you would really become a leader Hester, which is the highest level, you can lead a large scale heist team effort
+[1:17:11.0]  So this is the even the level of competence cos he's offered with high status
+[]			 So So that's it
+[1:17:15.6]  We talk about the video from a customer perspective
+[1:17:20.3]  Will we come with an ideology vital point? Remember, I give you the example
+[]			 You know, the BMW guy came to, uh, our live on this is being the customer representative
+[1:17:31.7]  So if you're the low level customer represent table, you just a subject of minor, I spurt you another level
+[]			 Go by
+[1:17:35.8]  Go fighter
+[1:17:39.2]  Your project adviser and then you are the ambassador to users because you are so competence and your knowledge is is so broad and you are actively manages scopes are you had directed the business
+[1:17:56.8]  So this is really that, given the level of competence is off with people so similarly do's and two knots about why you use cases you wanted to track your progress with visits, even a Uschi season, where you track the progress in terms off with a verified a requirement on the sulfur does not account as a finished the unit that has been verified again
+[]			 Thank you
+[1:18:19.5]  You know, on cue your paseo used softer against these product with those cases
+[1:18:24.7]  So you do want the celebrities cases too temperamental beast on the project of risks
+[1:18:31.3]  So the flows in the use cases that louse specifically risk to be targeted
+[1:18:35.0]  You'll also want to use a use cases modules to enable the scenario based the planet
+[]			 That's why in your homework, a one I want you right out of the scenarios
+[]			 So you wanted Thio just enough
+[1:18:49.9]  A requirement? Meaning that you don't wanna wait on through all the requirement clear before you do the development
+[]			 This never happened because of requirements are always a change
+[1:18:57.7]  Do you want you do on the Cheerios cases with the customer? The customer can't understand
+[1:19:01.8]  How do I collaborated with the developers so essential to produce a cougar? Your kids, the tomatoes on the use cases, specifications
+[1:19:14.6]  So why you have on the divan used his model? We want to kind of play a game like a card game on the group
+[]			 So those are the for example
+[]			 This is our requirements
+[]			 And so you have the same requirement
+[]			 This is the state off the requirements
+[1:19:29.1]  You probably conceived it
+[1:19:30.4]  Requirements are shared
+[1:19:33.5]  We promised a boat corrected, testable requirement of full field evolve out of those use case model, which is the vertical one
+[]			 You You're use kids just started there
+[1:19:47.6]  Then you want to see Okay, you are Here she comes
+[1:19:48.2]  It'll keep a tracking agent
+[1:19:49.8]  You were the sculptor
+[]			 You put it
+[1:19:55.4]  Just move along like along the sliding poor to see where you are in terms of you might that into the old requirements
+[]			 So this is just the way we have this card to play
+[]			 So again, these all belong to the standard I was talking about
+[]			 You would have time
+[1:20:11.0]  I will give you a tutorial on this is thunder, but I'm a saliva
+[1:20:13.5]  Is the uncover person in the module The last the slider
+[1:20:19.4]  Take a look of those, but, uh, hopeful That could give you a tutorial on Lisa
+[1:20:26.1]  So you wanna talk about it? Ah, ties that are needed to verify the human impatient
+[]			 You just come put it out there
+[]			 Keep them
+[]			 The Pakistan bars a police
+[1:20:36.1]  The tour this is this is the season was data where you have on the system all assembled approved a validated a function that validated readyto deployed and so on
+[1:20:41.3]  So this colorful getting together is very nicely So this applying use case is essential to our practice
+[1:20:54.6]  So how do you in your singing your team if you're using scrum how do I use use cases to the until practices scram? So we talk about the, um for example, we wanted to have what is a card of my tricks? I will tell you the system will be trying to develop a development Other ace of the hour limit one
+[]			 And, um So this is we have what did held a sliding in that a tutorial
+[]			 Don't worry about this
+[1:21:28.1]  So for Now I just want to give you some ideas of what is the use? Tenderness is about
+[1:21:31.4]  And so when we covered it to Charlie, I can give you more detailed explanation
+[]			 This was going on to summarize off these
+[1:21:37.7]  A lecturer we just want to talking about on the use cases is really can happen at any steps
+[1:21:45.4]  Any stages off software development from inception, all with your development under to own testing and also use cases can be used to it
+[1:21:55.7]  Hiker, biker, all that even a stakeholders from already from the ice packed an offer the development
+[]			 And we can use the youth cases to validate here
+[1:22:09.6]  The systems eso It also supported many motors off a team
+[1:22:12.3]  Size and distribution functions form a smaller team to distributed a team to a larger team
+[]			 And also, the practice can be neither to define the business cases for the project planning
+[]			 We can use a use cases for part of the planning and the for several development on before suffering
+[1:22:31.0]  Release the systems
+[]			 So this is the, uh we finished this
+[1:22:38.4]  I want to show you the head now
+[1:22:39.8]  Here we have uncovered You see that over there And so now, um, before that, I won't talk about it
+[1:22:56.6]  A one important futures of yours key season, which is that, um, other a included on the East Extender relationships
+[1:23:09.7]  Okay, so why you decide the youth cases that we talked about? A use case has the boundaries
+[1:23:15.9]  While you have the primary use case of primer actor, you have a Cingular, actually
+[1:23:17.4]  So what's the relationship? Is between issues cases in? And then how do we use these youth cases? It to develop our systems
+[1:23:28.9]  And this is this is a word of this election is about so attaching your use case model to development
+[]			 The particularly we talk about the tour relationships
+[1:23:37.6]  When's the included relationship? The others extended relationship
+[]			 So I do want you understand these and this is a very so important visit relationship
+[]			 I don't want to use their wrong
+[1:23:50.9]  You would have our exams
+[]			 I'm gonna put this question they use them for sure on because of this that you want to use
+[]			 This is the driver
+[]			 Our development of practice
+[1:24:03.1]  So particularly while everybody address This isn't even a system was so complex
+[1:24:11.8]  How could we use Kate? Use use cases? You a regular system in those smaller scenarios covered our music is the realization
+[1:24:18.0]  But a stew maintain relationships between the US because we were talking about to the external use cases that it probably gonna develop in the future
+[1:24:31.1]  And how could be avoided this common use because your relationship of mistakes So here we have all this introduction to the use kitchen relationships
+[1:24:45.5]  So be aware off this the dragon right now, drinking law underneath it off this water
+[1:24:53.5]  No, on it's that don't even you're not even aware how something could be very dangerous
+[1:24:57.3]  So even there's a Hawaiian thing that has set of the team's back into the wrong path
+[1:25:01.6]  It is a misuse off use case of relationships and in cold and extend and that keeping in mind that the arrows here Okay, this is arrows going through this way and that arrow's goto that way
+[1:25:26.7]  Okay, One is from the face of cases to the Thea other extended the case of wine from the the included case and you stand in the case back to the base case on the paint Asian to the fraction off this heroism
+[]			 No
+[]			 First of all, we knew the understanding the the terms
+[1:25:38.1]  What is the alternative? Follow, Which is a suburb floor
+[1:25:47.8]  And I give you the example already in the previous election, Right? So Okay, the name the sub floor on the alternate floor was a provider
+[1:25:48.9]  Parvo techniques for structure use cases
+[1:25:54.2]  A flow off the event without a restored him to use use kids of relationships
+[1:26:00.8]  So, for example, this Okay, this is Paige
+[1:26:04.6]  Aneka is something really toe Have a separate to the your cases
+[1:26:07.0]  So those attacking because should be used to They are full lister before additional relationships, you can identify the between the cases that aren't really introduced
+[1:26:24.6]  Okay, so that means What does this mean? That means that you wanted to describe you used a survivor carefully before you are identifying which ones the including relationship which was extended, which I'm gonna tell you next
+[]			 So most of system can be fully describe, but we thought it was starting to use case of relationship
+[]			 Okay, Now you talked to see the pictures on the right
+[]			 Right here
+[]			 So under life, read this
+[1:26:48.4]  Here it is a basic afloat right from here
+[]			 Here, here, here, here, here
+[1:26:52.7]  An assembly
+[]			 You have something come out
+[]			 You want to deal with it? This is your supper flow, which is also your alternative along
+[1:27:11.3]  Something happened, See? Oh, my balance is not You're not full from for me to withdraw $1000
+[]			 Now you need to deal with that
+[1:27:14.7]  Once you finish that, you go back to where it is before
+[]			 So think about the size
+[]			 It is very similar to your evil
+[1:27:23.5]  Take yourself for architecture costs
+[1:27:28.2]  Do you know even assembly classes? Somebody your microprocessor? Cause do you remember you have a program counter? He's the right program for appointed the which instruction you want to ask you
+[1:27:44.4]  So even your branch without your several teams rented out because of my pro program counter keep appointing
+[1:27:46.3]  So that instruction you are you stopped
+[1:27:54.3]  You always gold return bike toe where the program from counter pointed to let a particular destruction so busy in your microprocessor class
+[1:28:01.8]  So the same thing here, you want to branch out and you want to always go back to where you rescued again
+[]			 So you're my balance and all right to deal with it on the comeback
+[]			 So you have You could have a lot of lot of several teams right here
+[]			 Okay, so how do we deal with that? A situation
+[]			 So now you find the relationships evil
+[1:28:24.5]  Moses is, um, can be described without them than most team
+[]			 We're really getting into the trouble when they try them
+[1:28:32.7]  So why you wanna wanna preserve this year's kids relationships? So this is Riddick Chambers is such as these included
+[]			 So you include a relationship you talking about when you have more than one use cases it that the share some of the common features, which is you have this a commonality, all the behavior between two or more use cases
+[1:29:03.7]  So you have a visa call feature a cada customer service in you're Kazuma Service wishes that this is the quiet of the Czech people
+[]			 The you You want to order something on Amazon, and then you need they need to check your the comeback of the check of your order
+[]			 Although those people, even they have a two years cases
+[]			 How a portion is the common you want to use It included relationship
+[1:29:26.9]  So I'm very handy if you wanna either additional behavior to an existing your cases
+[]			 So, for example, if you wanted to have
+[]			 Ah, another
+[1:29:40.3]  Only I wanted to a flag
+[1:29:46.1]  The fought off the system, but I wanted to have with some folder on the recovery
+[1:30:04.6]  So there's something in the extended some additional feature something more byung Know what I am asking? You want to use that? You stand a relationship so and also you stand a relationship can reduce these complex city by isolating a portion of his youth cases
+[]			 Then, in this situation, I want to use the East End a relationship
+[1:30:15.2]  So this is the definition off EastEnders under the included? No
+[1:30:25.5]  Oh, let me, uh I'm gonna give you sure detail example, but these were somewhat the warning
+[1:30:27.4]  So you want Thio thinker? You wanna be careful which that you would never want to introduce a tradition shape between use cases until you have, you have at least a draft off the basic of flows going on off this year's cases
+[]			 So take a look at these
+[]			 So when you have your pace of the description from one item to another, I can't going forward
+[1:30:55.3]  And then you can realize that maybe I can use the extended use case of four days of my include I'm sorry
+[1:30:56.6]  I can use ink
+[]			 Will use kids right here
+[]			 Maybe here
+[1:30:59.9]  Several use the common pictures, and you can't use it at the ice and the the included, so you only can identify their relationships
+[]			 Well, you have a complete that description off your use cases
+[]			 Okay, so this is the one thing right here
+[]			 Now, this is a kind of nice a picture off
+[1:31:22.6]  The last letter illustrates
+[1:31:25.1]  When do we want to use that? You scare the included
+[1:31:29.5]  So suppose we have one use cases? One here
+[]			 All of those included this a writer portion here
+[]			 And they said harder is about a use cases, too, So you can see that they do have some common feature right here
+[]			 Right
+[1:31:50.3]  A comment
+[1:31:50.9]  The sheer over like him
+[]			 So that is a good candidate
+[]			 Er off
+[1:31:57.7]  A New Year's case on this New York's case will be included
+[]			 Use case
+[]			 Right
+[]			 So you take that out, let me give you example right here
+[]			 So this is a young color
+[1:32:15.3]  Your include? The relationship provides the ability who is tractor? The compensation from a tour or more use kids and narratives
+[1:32:35.1]  So this all my narrative is this you mentioned is almighty Wars here on this All my nerd hips on that You want to try this common effect picture over there? So in order to use the include a relationship, you must have the same discrepancy with text
+[1:32:40.8]  Yeah, at least the tool even use his barricade must be exactly the same
+[1:32:46.1]  If anything is not the same enemies, they're not of the same use case, right? So also, you want her on Lee, introduce the anti
+[1:33:03.2]  Include after using the narrative is this region so that you don't wanna just working with diagrams
+[]			 Your diagram
+[]			 It does not
+[1:33:05.4]  A review of the feet held and the pre size the requirements he one of the capture was a diagram just so loose
+[]			 And you want to never, never want to introduce the included that's included by only one use cases
+[]			 If you don't have one years, case is appointed
+[1:33:24.3]  It survived because nothing nobody to share that away
+[]			 If you would just have one years case
+[]			 So you have ah, totally pointed these
+[]			 So, for example, right here
+[1:33:36.2]  That's the really shindo off the including yours case, Um, you have with a base use case
+[]			 This guy Which is it? Yeah, this is a basic use cases
+[1:33:51.0]  Yeah, you see, on the right, you see my cursor here on the right and do the your narrow tapes
+[]			 Okay? He's in my face on me
+[1:34:05.0]  He said I'm in charge because I hold my basically flow right here off my which is my hyper day scenario
+[1:34:10.9]  And then, obviously, I mean charge just the eyes with a suburb flow
+[1:34:12.9]  I decided one on where I used my included portion off the use case
+[1:34:27.9]  And they include a portion saying that Oh, I am just a sub floor like a several Gene, I have a no knowledge off
+[]			 A whole gonna use me because he couldn't be used by more than what? Your cases
+[1:34:34.6]  You're amused by fire use cases
+[]			 You have no idea
+[]			 He has no idea who gonna use him, But he gonna provide this particular service to all even er use cases
+[]			 So this year's theme included the use cases has no knowledge off the base, including use cases
+[]			 So this guy is including yours
+[]			 Case isn't This guy is included
+[]			 Use cases so example would be basin where you have ah finish you on our table viral
+[]			 I detailed description
+[]			 You use case of one you have
+[1:35:12.2]  Don't mumble about
+[1:35:12.8]  About to go down and you have your another nerd hips
+[]			 Very good description of use cases to one another down
+[]			 Okay, Now, once you finish those two years cases, you realized that they have with some common behaviors, right here they are the same
+[1:35:29.9]  I'm I'm a disc wired for the same thing twice
+[1:35:34.7]  So they are the cooler candidates off New York cases, which is the common behavior
+[]			 So you want to include the use cases, which is a new year's cases
+[]			 Now you have a rewrite
+[]			 Your use case isn't okay
+[]			 You need a rewrite of your use, kids One
+[]			 So I have a use case one
+[1:35:58.0]  But other than that you write down, would you do here with the yellow pair? You had to say, Hey, Abdel, Here
+[1:36:03.5]  I mean, including another you knew yours cases, which is what you have indicated That so you can too
+[1:36:11.3]  Oh, he over here, you have to say you wanna included use cases, it using your juicy
+[]			 That was the reason for that
+[1:36:18.5]  But beyond that, you have this, eh? The new Year's cases we see you distracted from the two common behaviors for more than one use cases
+[]			 Okay, so this how do you write to the include a tradition? So here's the example off include relationship
+[]			 So before I have this included relationship customer
+[]			 You're wrong, sir
+[1:36:46.7]  Customer increase and you give you a customer service representative, I don't believe you have a sales representative
+[]			 Will you put a customer older? Part doctor, over here
+[1:36:52.3]  Great
+[1:36:53.0]  So those heir to all the different youth cases
+[]			 So after you have this, including yours Cases
+[]			 You have this customer
+[]			 You have, ah, also customer inquiry
+[]			 And you have these right here on itself
+[1:37:08.1]  Representatives have a particle, the older products out of either the customer information right here
+[1:37:19.0]  So because both off the youngster qasemi in Crete right here and you want the older part oxen included one portion Coleman feature
+[]			 The commonality part was called a either customer's information
+[1:37:40.3]  Because of that, I'm gonna take that out car with that out to a independent, you use cases, which is the ad a Qassam information
+[1:37:43.9]  And then what will I do? Because I'm missing something So I haven't used this airline
+[1:37:48.2]  The dash line pointing from other
+[1:37:53.8]  The base use cases, which is a customer in Cree and appointed a tool included use cases
+[1:38:00.4]  Same thing for here, orderto products
+[]			 I want a pointer from the base user cases
+[1:38:04.7]  This space he was used pointed that out too
+[]			 I had a customer information to here
+[]			 Okay, so this How do you draw this diagram and I'm gonna show you a well, the narratives
+[]			 Okay
+[1:38:18.9]  Right here is the Uncle Melissa
+[]			 But I want to show you here, include
+[]			 This is Ah
+[1:38:40.8]  Oh, interesting
+[]			 Okay
+[]			 Okay
+[]			 Now this is this better
+[]			 So this is the use of his model for using his model
+[1:38:59.0]  Afford a description off we used included relationship
+[1:39:05.0]  And this is before the Customs Service's description off the diagram that I just showed you
+[1:39:14.4]  So, first of all, you see, um, for before the inclusion, we wanted to have a answer
+[1:39:19.3]  Customer inquiry on Listen, my physical floor
+[1:39:23.8]  OK, so number one never touch the bow, are using numeric
+[]			 I took this right here because of this shows the stack and the custom was that your your your your your user gonna go through
+[1:39:51.8]  So that's why when a number of them So, first of all the use cases of begin when the actual customer calls the customer service center supporting member call that okay, to think about this is the vice of another way to describe your scenario on the system opens a customer service of requests that we to see as our on the locks that date and a time off the call
+[1:40:04.7]  Okay, and it says the service, the system and then off a tendon members off the foam from which the incoming call was placed, and the system of records that this in the customer service and, um, the request, the lock injury CSR entry on the service
+[]			 Then use the phone number to determine where there is whether there's have bean
+[1:40:21.8]  Any prior court was a place that, for this particular member on the primary core has Bean made as the system of record reference to the part of cause information
+[1:40:37.5]  And it's so and then a little cheese called to the next available customer service representatives and the and the number six at the customer service representative
+[1:40:46.4]  You entered the customers the identification number on a system of determining whether the customers the prison early formation is already on file
+[1:40:59.4]  So if hes a decision, then using the customers out of the kitchen, members toe identify whether they're helping any pirate calls and so on, so even
+[1:41:02.6]  Not so
+[1:41:04.9]  Paint a Shinto
+[]			 This party even there's not know the customer
+[1:41:10.1]  Information the say c'mon
+[1:41:14.7]  Ask the customer service representative to capture here the falling the Qassam, her name meeting
+[1:41:19.0]  I addresses phone numbers I was doing which they can't make a call on the turn of the contact with information on their union
+[1:41:40.6]  Okay, painted these apart also that the state off the province then interred a and then the system and then check in a post cold about up and again the system of store the customer information on the allocated customers that for the next available customer finish that
+[1:41:47.0]  So this is the eat
+[]			 How description one by one and then this is the customer service in
+[]			 Now listen, see the youth cases off all older products in we were all under the process of busy follow is such as using as it begins
+[1:42:11.1]  When the the actress sells, the represented was select to place the order and then the season Oscar sales arrives in table
+[]			 Who you entered the Kazuma
+[1:42:13.7]  The identity of member
+[]			 So even a customer is a new customer
+[]			 Then you two days the same thing
+[1:42:28.3]  You want to ask a customer names their mating address, phone numbers out from members and understated another
+[]			 That and then you wait
+[1:42:31.2]  You just stated represented record
+[]			 And then you finish it against you
+[]			 Clear it
+[1:42:36.1]  E you, Liza, to basically flows
+[]			 There's a portion
+[1:42:41.5]  There are exactly the same, and they're identical
+[1:42:45.6]  So therefore, what do we do? Which is? Take that in your sickest out two as a new use cases and they included use cases
+[]			 What do we want to We want to read, right? We have to read right at the orange in those cases
+[]			 So this year, because it begins that wonder the actor, as a called on everything stayed the same
+[1:43:06.7]  Okay, so this is after the conclusion, which is also customer increase
+[1:43:12.4]  Okay, so you see my stab a number nine
+[]			 So even a system that does not have with on the user's information over there What do I do? Okay, take a look at this is right here
+[1:43:26.5]  If we're not, I wonder in cruel user cases, which is a ida customer
+[1:43:30.8]  Information Tudor Sistema to the customer
+[1:43:36.7]  A customer service representative Representative is a kind of recording of omission
+[1:43:39.2]  Fold these a particular customer
+[]			 Okay
+[1:43:43.0]  You want to use a parenthesis, sir? The inquiry's New Year's cases and that after a badger, everything continues
+[]			 And then this isn't the name for the new use cases called a add a customer information
+[]			 The same thing I'm gonna read writer off of my basic of flow off our products
+[1:44:05.3]  And so the music is begins as a customer of the cells riper to place the order
+[]			 And then even this customer is that look at these one
+[]			 Either customer is a new customer
+[1:44:21.1]  You want to include the use cases at a customer information to the cells That representative will come recording for major fold is a critical customer
+[1:44:29.0]  Okay, so the coolest thing off basa both use cases that are drastically reduce the shorted
+[1:44:32.5]  Right? Beautiful
+[1:44:35.6]  What? I'm gonna include a granule use cases, which is this way
+[]			 I had a customer
+[1:44:40.1]  Information is a brand new customer
+[]			 U S O
+[1:44:42.7]  Yes
+[]			 Use cases
+[1:44:52.3]  Is he included by other use cases? And this your description Casey usedto add a customer information for the new customers, which is glossaries
+[1:44:54.0]  What? The examination
+[]			 This he couldn't to your definition and get their definition
+[1:45:00.1]  Your your proposal on the custom devotion, maybe Internal or Marty fighting in any order
+[1:45:04.9]  Okay, so there's a baker floor which we wanted to own
+[]			 Your first name or last name and the yours opposed the office
+[1:45:12.2]  The story posted zip code
+[]			 You have your under alternative, remember? And so on
+[]			 So this is a good thing
+[1:45:23.5]  So this is shows that it, uh, before you included you have these holding use cases right here on the ivory
+[1:45:26.4]  Included
+[]			 You have what they set out, including your customer information
+[]			 Right here
+[]			 Okay, so that's the That's an example offer using including relationship
+[1:45:54.7]  Let's continue our the lecture, and we're gonna move on to the, um so Okay, some of the discussion off the include a relationship is observation
+[1:46:00.3]  What do you use the included relationship for the tour? Original use cases are simplified and shortened to the definition of a customer
+[]			 Information has bean
+[1:46:09.8]  Ah, you usually extracted off tour this glossary and again creating the new included the use cases
+[1:46:14.2]  Prowse out for the both of urns
+[1:46:17.2]  You know, your case is how to be a re recon
+[]			 Okay, this is a key part
+[]			 You had to read y to both of basic use kitchen
+[1:46:23.6]  And this is in contrast that with the is the east and use cases, which you do now the one to write your basic all yours cases so that you include abuse cases that never has a specific knowledge off the use cases that is included
+[1:46:39.3]  Age
+[]			 Okay, so that's the, um so that it means that the go back to the previous in the future right here
+[1:46:48.0]  Right? So he has no knowledge of Hogan
+[]			 And this is base Casey
+[1:46:59.0]  When do I wantto have include? Okay, Now there's talk about the extender relationship
+[]			 Okay? I want to talk about these
+[]			 Okay
+[1:47:05.1]  The sum of the cam
+[1:47:05.9]  Common errors
+[1:47:08.7]  Some comma Ariza for performances included
+[1:47:10.2]  Relationship is used
+[1:47:12.5]  The performer a functional conversation
+[1:47:23]  You you want a break in this system into a smaller components where you wanted to have? Ah, I just want to include the for the purposely include that
+[1:47:25.1]  That's another Phil
+[1:47:30.1]  If you do that, they use case it couldn't end up with two smart, either including case, which is the the guy on the left
+[1:47:36.8]  It become a shell itself, doesn't perform any function anymore
+[]			 All he does it just recording the other included use cases
+[]			 And that's not what we want
+[1:47:47.7]  Being that in itself is no longer provided any and valuable on his own
+[]			 Okay, so that's not good
+[1:47:59.5]  So and also the behavior in the include those cases is spend it outside of the contacts of yours cases
+[1:48:03.3]  So women in the skull but creep you getting more and more, more, more So then this the included it doesn't lost its own meaning that the whole offer include use cases is a part of the off the including yours case
+[]			 It has become too large
+[1:48:21.4]  So there's a torero, so we common musically should be a Richard Avoid So using the East ender we wanted to have ah, the next apartment
+[1:48:30.8]  We talk about an extensive relationship
+[]			 The you standing relationship is used
+[]			 The one optional is the key words right here
+[1:48:44.8]  The optional are exceptional behaviors off a particular use cases that they need to be inserted it into an existing case
+[]			 So there's another common future anymore
+[1:48:55.8]  So the original purpose It wasn't you, Asia and mechanism A for specifying some of the options
+[1:48:59.2]  Bye
+[]			 Thio could be idea to an existing product
+[]			 So, Frank, you 700 in the summer off the optimization part of it
+[]			 So they extending use cases neither
+[1:49:13.3]  No changes to the case
+[]			 This is different from our including including yours, Casey
+[]			 Okay, including yours
+[1:49:24.3]  Kissing to change in from dream are modified to really want it to be re written
+[]			 But I just 10 years of cases they don't
+[1:49:33.4]  So the puzzle eso somewhat impossible circumstances our use of Asia description of features that are optional Tow the basic behavior, so find double optionally purchased something additional
+[1:49:45.0]  Something's Ah ah, That is not a provided by the base use case
+[1:49:58.3]  Another possible use of scenario is a complex exception 100 ing that it could otherwise obscure the primary behaviors
+[1:50:07.0]  So that means that you will have a use pensive description off the stamp
+[]			 700
+[1:50:10.5]  It becomes so big
+[1:50:12.5]  So east 10 saver is so complex that it the obscure to my original function off my base case
+[1:50:26.3]  So you will talk about the overdraft offer your the bank you handle overdrive little complex and then just simply, uh, with Joel Cash
+[]			 Then this is not good
+[]			 So alternative flows that are longer than the main flows
+[1:50:44.4]  Those probably better for youto have a extends vicious saber
+[1:50:46.1]  So customization off the requirements of Model four specific a customer need and you have a scope on the release of management, which is a behavior that will be another will be introduced that uncured later release you might
+[]			 First off
+[1:51:01.0]  Our release of eight already is probably I don't need that
+[]			 That's probably the better toe be included in the later release
+[]			 Then it's good
+[]			 It's good a candidate to use that as the East, an extended relationship
+[]			 So here's the picture that her again on the life that is the extending use case on a writer
+[1:51:29.0]  Is that the base case? Okay, so the basic a decider
+[1:51:34.1]  I have no knowledge off, even the taste of for that the ex extending your cases, you know that I'm doing pretty well by myself
+[1:51:42.2]  Optional things the the additional, uh, the additional scenarios
+[]			 Even the the you talk about a optimization part
+[]			 It's all part of the exceptional 100
+[]			 In part, I don't even know about it
+[1:52:01.7]  So they extend you the cases cider
+[]			 I know my place
+[]			 I know
+[]			 Where do I go? And it just like I'll turn the floor
+[1:52:10.9]  I have a detailed knowledge off the existence under the potential is tension pointer off of there Let a basic cases so that you stand it there
+[]			 The best case, the place use case has no knowledge off standing use cases
+[1:52:33.1]  The reason being is it because by the self he can perform a total well without even knowing that it's something optional to die Grandma for the East
+[]			 And your relationship is such as when you have this face case
+[1:52:55.5]  So you have this alternative behaviors out so you can take this out to have that alternative behavior as Houston use cases, but then the rest off these become a base case
+[]			 So I have died apart and then you have on the east and use it
+[]			 They extend use cases
+[]			 What do you want to add? A one part of that? The nerd he descriptions off these
+[1:53:18.3]  You won't say the Seine use cases in which the best use cases at extension point where the conditions is, such as the base
+[]			 Okay, so at night apart
+[]			 So there's a take a look at it
+[]			 The handout
+[1:53:27.6]  What? You're in on canvas, Sir, we're talking about you
+[1:53:28.9]  Standard relationship
+[1:53:46.4]  Okay, the we come one a trans transaction conception awful
+[1:53:49.7]  Maybe I should've sure that I went in first
+[]			 I have my idea
+[]			 Oh, no
+[]			 Yeah, this is show
+[]			 There's a first
+[]			 So, um, the extension again
+[1:54:09.3]  So the occasional allows us you don't have an ID on future over the system in a simple wait, So I don't feature, you know, again something on optional
+[1:54:19.9]  So the basic cases the mother remain impact, meaning the busy
+[]			 You don't want to change that
+[1:54:23.2]  You don't want to re regent
+[]			 You don't want to live
+[1:54:25.6]  I want to be rewritten, so there's no value
+[1:54:32.1]  They have the car of its value on this phone, so the detention cannot modify the base case
+[]			 In any case, take a look at these example
+[1:54:39.1]  Well, it is a high shear
+[]			 I want to ah have my process transaction basin
+[1:54:46]  So in process translation
+[1:54:52.1]  If it is a happy day scenario, everything's goes as the spectator that we don't want you to do anything so but would happen that you would have overdraft happening
+[1:55:06.0]  So when here is the the need to hire a overdraft a notification which is can be used
+[1:55:09.8]  I sten extends relationship
+[1:55:15.0]  So how'd cashier process transactions on you? Notice the direction of the arrows
+[1:55:18.7]  Is it from the youth? Tended? You send you use cases like to the base case
+[1:55:31.9]  Okay, be careful with these, okay? Because the including tradition shaper is it from the base cases? Two included was kissing
+[1:55:36.3]  Okay, just a pension into this arrow
+[1:55:43.9]  And this There are the Bagram
+[1:55:45.7]  Let's take a look at the r word description
+[1:55:52.9]  So this is the swimming card transaction or his transaction? We have the basic of floor
+[1:55:57.1]  This is withheld about Olga
+[1:56:01.4]  Brief description process transaction again so that the customs, the bangle come is a brave Dietrich
+[]			 And the basic of flow is the use case
+[1:56:20.3]  It begins when the avatar is a cashier initiated transition process for as set off on processes on process, the transaction and then the schism older the transitions so that all transitions of the customer accounts are grouped together
+[1:56:29.5]  So for each year cunt, You have these in the reason you will pull the base of the premises
+[]			 Is just that a documentation? That's another part of the U
+[]			 S
+[]			 Case
+[1:56:38.1]  Because you wanna breathe that into a logical group? You said hey, the following partner is determined Customer support
+[]			 Okay, customer account
+[]			 So where you have a season with determine the customer cunt, and then you have a four each of transition
+[]			 Now you wanna apply transaction? The season will apply the transition to the customer's account, deposited transitions and so on
+[1:56:58.4]  You have another portion color that recorded transaction
+[]			 You have another portion called summarized transaction
+[1:57:08.2]  Okay, so what does that have that? So one transition have being processed
+[]			 The use it is the end
+[]			 So now I won't have some off the alternate flows right here
+[]			 A one
+[]			 So why a one? So I talk about a alternative off alternative flow one
+[]			 I want to say you want to specify that it would you point? You have this exception
+[]			 So I want to see I had a point off with determine cause them a cunt
+[]			 Which raises died is up to here
+[]			 He turned me customer
+[1:57:37.9]  Conned right here
+[1:57:41.2]  Okay, I'd let a point to have exceptions which isn't here at a determined customer Congress
+[1:57:48.2]  Even a kind of a cosmic honor, is not a fund
+[1:57:50.2]  The city makes the transition for the counter
+[1:57:53.2]  I just suspend and suspended the transition process and company before the next country, which is a go back here
+[1:58:00.1]  So they just your marks and you trimming the customer, come
+[1:58:07.3]  And then that I have another alternative flow 100 or counter over Joe, After we thought an overdraft protection and I wanted again, I want to specify where do you wanna have? This is an exception
+[]			 I wanna have applied transaction at that point
+[1:58:22.4]  So the transition calls the overdraft under the transit applied the transition mark transition as a overdraft
+[1:58:33.5]  So then, after that, the system will resume a processing continue either a certain point
+[1:58:35.5]  Okay, so those are just your markers
+[1:58:48.6]  So again, I have another exception, 100 100 account overdraft, that with overdraft protection again, at which point you'll have that on the way she'll finish out of reach a point
+[1:58:50.7]  So they suggested all of that finish that
+[]			 So now for this, I won't have a This would be standing there, use cases
+[1:59:02.7]  It's a use cases off, notifying the overdraft
+[1:59:11.2]  That description is that this using this is notified the customer that that they're all Khanna has bean overdraw overdrawn on this is a racist
+[1:59:15.3]  It's only available even help purchase the overdraft
+[]			 The notification service is so And here's your attention
+[]			 Okay, here's your key words
+[]			 I'm at least of my basic of flow on a saw
+[]			 So this is the included everything, right here again
+[1:59:35.2]  You have your step one stab to and then which is use cases end at the winter point
+[]			 Okay, so it yourself is completely use cases already
+[1:59:41.6]  So that is conscious
+[1:59:57.1]  Can be can be included by the use cases on the hears of the diagram A So why you have this? Um before that you have cashier process transaction cashier of the poster in processes transaction that you won't have a reason
+[2:00:00.4]  Notify offer this overdraft which is pointed a bag to your base case
+[2:00:09.0]  Okay, condition to this arrow production This is that an example off of these? He's 10 eastern being east 10 years because he's tender relationship to wonder Have Ah ah these So this is a, uh, finished days apart
+[]			 So making one Do you want to make a decision off
+[2:00:47.8]  How do you want? If not, you want to include these in the attention off use cases so you've alternate floor is a primary providing a behaviour that's optional, then me and that a system could have deposited deliver it without Ridge
+[2:00:59.0]  There's a proven very good, and it could be considered as a very good candidate for two in the in East F become the extent of yours cases because we thought that the base uses can totally behavior soul fine
+[2:01:10.6]  So personal problem
+[2:01:12.2]  So the dissent will make her an extension
+[2:01:14.6]  Make a several years cases, making it easier to a manager from the basic off
+[2:01:22.1]  The flow perspective on the version, controls and configuration is a prospective on the Hughes case
+[2:01:30.9]  If you actually be own and have maintained by a TV people, maybe by contractors for probably haven't even the ice super tease on it so that ah required a four to develop this ease tension Onda
+[2:01:42.0]  We wantto a separated from the orange abuse cases and make a both of youse kids easier to read like a my both of my basically use cases easy to read on and make my attention that your case is easy to read
+[2:02:06.8]  So the extension always idea behavior to the new used to the base use cases because that is new behavior is could it be a again optional could be optimized, exceptional handling
+[2:02:12.4]  So the basic of behavior of abuse cases always remains intact
+[]			 You never want to change that
+[2:02:25.4]  So some of the attention it just like in our right our code we wanna have ah, including including your subroutine include your another use tunnel component
+[]			 There's something called a public
+[2:02:40.0]  You wanna have a extension point to be public or private In a sense that the private is a visible only within the youth cases that you reach it, they occur
+[2:02:45.4]  Okay, Within this self, where is the public? Er is a visit there visible externally toe east
+[2:02:46.6]  Daniel's case is that it means a they the the two people over there fun of the future
+[]			 That is, if you can the part of this function that it can be seen by the your to own the base cases
+[2:03:06.6]  There's a external to the Eastern use cases that's become public if it can only be used within that of your own that extended in the extended use case of them is to be private again
+[]			 You know, you wanted to make the east engine point make It is a public because the browser product then place the order out of those can be company made it public can be used by other use cases
+[2:03:36.5]  So on the so only extension pointed that it represented location at which of the US kids can be
+[]			 His tension should be made a public
+[2:03:45.9]  Okay, so when we have this is set off, remember? You have a ah, uh, that the network
+[]			 It was right here
+[]			 Okay
+[2:03:50.0]  You know, there were caves right here
+[]			 So that is the extension point
+[2:04:00.3]  See, when all of those is complete, made a public apply transactions, recorder transition, ana summarized transition
+[]			 So those are their made up, maybe your own public
+[]			 Then they can be seen by you
+[2:04:08.7]  Spend many other usually use cases
+[2:04:14.5]  So it's called a tension points of the wise
+[]			 So this is a valuable is your cases We have what? We saw this already
+[2:04:39.4]  You have customers on the, uh, the customer inquiry and this kind of included so and then you Ah, older paradise if you want to include it on a painted the arrow's direction okay is from a base to the include dating your cases
+[]			 So the question is that him you do you wantto have included or not? So the questions that you should I have had a customer information to be included on out
+[]			 You're asking a question
+[]			 You should ask
+[2:05:04.1]  Can you take away to include understand on a still see the value off your your base cases? That's the kind of the principal you want you to work with
+[2:05:16.7]  So the finding in a relationship between those ato actress Um, we have, ah one lecture talk about all the UML diagram on a system of modeling part where So here is just a very simple grateful the relationship off the actress in
+[2:05:32.3]  So this is represented a the similar where you have the similar similarities between the different actresses
+[2:05:41.0]  Where should they at? The main value is to show that some of the group actors share some off this common responsibilities
+[]			 So this is a cada one fuel
+[]			 For example
+[2:05:46.7]  You have ourselves a representative
+[2:05:50.6]  Will you have a future representative? You have a highly cell representative won the all representative
+[2:06:00.5]  So the share some of the common features and they have this inherent is the character's purposes from the cells
+[2:06:05.3]  And representative will include in common your communication communicates relationship with those the the use cases
+[]			 So this is really talk about it
+[]			 You heard him over here
+[2:06:15.3]  So this is a generalization
+[]			 Well, this is it
+[2:06:20.1]  I know we have another relationship called a aggregation, which we talk about the whole apartment relationship
+[2:06:26.3]  Okay, so the But this is more like a generalisation, which is a parent and child relationships
+[]			 So to summarize this own on the okay, I want to see what have these here
+[2:06:38.9]  I want to show you two symbols here, and we're gonna cover of night and in the next lecture
+[2:06:43.9]  So they're to steamboat here, But you have a class
+[]			 It's a one cost
+[2:06:50.9]  There's a 20 in a car season and that you have another relationship
+[]			 We should have a listen
+[2:07:04]  This is diamond, right? This is Earl
+[]			 You have with these
+[]			 Okay, Right here
+[]			 So this is a two different relationships
+[2:07:31.2]  We cover that wise, um, the two religions of ways the child and the parents relationship weighs a part of the whole relationship on the tour de vender semantic over there
+[]			 So this is the the arrow
+[]			 Okay? It is not diamond
+[]			 So summarize these the lecture we have
+[2:07:53.5]  Ah, using your relationship is after reading
+[2:07:53.8]  Misused particularly
+[2:08:03.1]  We talked about a two years Cases relationships once include When is the East End? The include tradition? Shape is a force situation where you have more than one use the cases that share some common features
+[]			 Part of that a share or something
+[]			 Come on, futures
+[2:08:15.9]  And we can take another common features out the general, a single use cases and why you have East ham
+[]			 Your relationship is a primary
+[2:08:17.7]  Focusing on some of the behaviour is under your health
+[2:08:21.3]  Behaviors are optional
+[]			 The additional features told the existence of these cases
+[]			 So you know, you standard tradition shaper, the pace cases
+[2:08:34.9]  I have no idea what was the East and in your case is a dry because of his opportunity
+[]			 He's the other arm
+[]			 Here's something nice, so high, but I have no idea
+[]			 But I thought it included
+[]			 I really know
+[]			 I must say, including you
+[]			 You do not include you
+[2:08:49.2]  I cannot behave by myself because you are that integral part of off me
+[]			 So there's about of these a lecture, and I think we're gonna finish you here, Finish a bit about it already under the prison
+[]			 Finish your homework on a simple meeting by Friday
+[2:09:09.4]  And I did me on a th with the trial all on even used a kid, huh? But does that send the media the public feeling, which I like to see? I really like to see you here
+[2:09:15.0]  How about you? You're probably a rap over there
+[]			 And so if you have any questions and just let me know that, you know, I'll come to my office hours
+[2:09:22.4]  Meanwhile, I hope it's starting looking at you
+[]			 This is your robot
+[2:09:26.1]  Listen, my yearbook was like the name
+[2:09:31.3]  Tell me coming this mighty okay, But they that really killed and next week of una conference
+[2:09:41.3]  So I have you need the cost here, but we're gonna have some editorial for you to get your bottle going
+[2:09:44.3]  Okay? Bring your computer
+[2:09:47.6]  If you have any questions, we're gonna be have a rake
+[2:09:49.4]  It ate like a live a station
+[]			 Okay
+[]			 And before for your class, because it's a recording
+[2:09:56.4]  You won't know you can always Kind of we would have again on life with these things in our new students
+[2:10:02.2]  What is the biter? I really strongly encouraged you to come to Carson so you can ask the questions right away
+[2:10:08.2]  Okay? You can all that as a question through cameras
+[2:10:10.2]  We're not early, are intelligent, has yet so great
+[]			 Thank you so much
+[]			 And I always see you
+[]			 Uh, let's talk next time
+[2:10:25.6]  And you still obviously here for a few minutes of, you know, a little while
+[]			 Let me know
+[]			 You've heard their questions

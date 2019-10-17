@@ -1,0 +1,1558 @@
+[]			it's gonna started
+[]			 Um, hope you're probably that going
+[0:01:27.1]  Well, um, So we the last days of Casa they are a super tears lecture hall was very helpful
+[]			 Right? So, listen, that was a very nice Yeah
+[]			 So that is that we're using the no right on the IBM
+[0:01:36.7]  What was in service is I received the email student asking me this question
+[0:01:44.7]  So what? That what? What is that about? How's that? A relationship with your final project
+[0:01:50.9]  There's more than one ways you can program the party, but the no right is probably the symbolises that because you use of video
+[0:01:54.1]  You know, Flo, you know, you're just driving job of those
+[0:01:59.1]  You know, Creator, your first, the floor, the timestamp
+[0:02:02.6]  The project is that driving job of those icons and created a service is on
+[0:02:06.5]  Those services are connected and integrated that into your the IBM Watson services
+[0:02:10.6]  So that's the probably easiest way to program it
+[0:02:15.5]  And, uh um, of course, you can use a pure python
+[]			 That's okay too
+[]			 So it doesn't matter
+[0:02:23.1]  Whatever you use it, the reason that I want you have exercises using no writer and the Watson Services
+[0:02:28.9]  I want you have experience with what is a soft now currently industry we per one using a plant for my service is P S s
+[0:02:38.4]  So those would be the awhile for the violent, typical examples
+[0:02:40.0]  Using the platform to provided a service is a very quickly
+[0:02:42.9]  Otherwise, you have to do a huge, huge lot of programming
+[]			 You have to know a lot off, even there, the small component that you're to be able to program or something like night
+[0:02:55.7]  So, vice of your poster, another similar assignment here, which is a baby today
+[]			 This union
+[0:03:05.2]  So I wanted you created a conversation by Eugene Watts
+[]			 And service is no
+[]			 Can't help them to back to you
+[]			 So, you know, using the no right on the water services
+[0:03:12.9]  His appearance that what is that like by using programming in 93 cars
+[0:03:20.8]  Another, uh, got a CODIS, a lecture
+[0:03:26.0]  The first part of it, you know, finish the talk about a season modern using Gmail
+[0:03:32.0]  So this we move to the second part of our cars and we did talk about the motor Jew and suffered a viable managing are nice across
+[]			 We'll talk about what is the motive, but given the medical men
+[0:03:39.5]  And how can use that? They have a lot of south
+[0:03:41.2]  Where out there so resistant uses just the u can produce this enzyme
+[0:03:45.3]  We can produce website just by using similar to what we talked about
+[]			 I know
+[0:03:49.7]  Read just a dragon job and produce a viral nice web side
+[]			 Let a true called a library show
+[]			 I can show you that
+[]			 So that's one thing
+[0:04:00.0]  Second part off this class
+[]			 Have you talked about me term? Your return will be in two weeks
+[]			 Two weeks on Wednesday
+[0:04:10.2]  Which days? That on 21st
+[]			 Is that right? What is our next Wednesday? 23rd
+[0:04:17.2]  Okay, 20 sort of here
+[]			 And the return will be because we have a lot of students online so far
+[0:04:24.9]  All my student TV watching this lecture right now there are decent learning
+[0:04:28.4]  Service is already sent out
+[]			 The email
+[0:04:33.7]  So you needed indicated
+[0:04:42.2]  Do you want to come to class this class at this time to take the exam or you want to take the exam online with these in Asian people so that it would be on Thursday
+[0:04:47.7]  Have you would I should let her while we talk about me termer
+[]			 I will give you a review today
+[0:04:57.8]  So what is the on the meter term? I don't have exam yet, but I just talked to you about what? The continent gonna cover
+[0:05:00.7]  So you're gonna be a reading exam
+[0:05:05.0]  So you're real having a close poor closing those example
+[0:05:07.0]  Have you talked about content? After that, we'll make it examined
+[]			 Maybe last week
+[0:05:15.3]  So this is the tool contingent? Awful
+[0:05:17.1]  Today's lecture
+[0:05:21.3]  Meanwhile, I have you do the greeting off your project proposal, which is actually a part of that already
+[]			 I didn't finish right off
+[]			 You couldn't finish about this week
+[0:05:32.3]  And your project? One for your I'm gonna have a ta do with that part
+[0:05:37.3]  So if you have any questions, they're always sending me email
+[]			 Come talk to my office
+[]			 I wasn't which you haven't told me
+[0:05:40.7]  Joy in traction with a student
+[]			 It's just so nice
+[0:05:45.1]  Why C student, the proposals
+[]			 You know your guys doing the water, water, the sensors, a water, the plant that just so very nice
+[]			 So make me really, really happy to see you too will go to work
+[]			 Okay, so let's talk about the 1st 1st part of this lecture here
+[0:06:03.5]  Go ahead, Understand? Hear me
+[0:06:05.9]  So these parties talk about the motive
+[]			 The system of modern on your mail will be modern systems
+[]			 We have a defender
+[0:06:15.0]  I spect to model the whole system's on the night of political language
+[]			 We talk about a softer architectural design is wilder ways to do it
+[]			 The language we use a UML Also off course we have you used a lot of full formal
+[0:06:44.5]  My third you talking about? We talked about a TV garden Mary Shell from a Carnegie Mellon University who are the pioneer, the funding fathers and mothers off with suffer architecture you talking tiu to you about? Here's a lot of formal methods, but anyway, as far as the industrial park, Tressa tumour is probably the most low hanging fruit
+[0:06:49.5]  They're easy to a grass
+[0:06:53.1]  Is it so that so? That's the about this election
+[]			 So you and Mel is ah, unified
+[0:07:03.2]  The modern A language, right? So is it unified? The three guys, the ideas together
+[0:07:11.0]  Now you mention that they select her The three guys we mentioned that before when we talked about so for architecture Electric
+[]			 So it is a not a programmer
+[0:07:15.5]  Languages rubber man is modern in language that means any language we still have
+[]			 Ah, what we called her for any language
+[]			 You remember I helped father for any languages
+[]			 We need our two things
+[0:07:30.1]  Your tour, I, specter, that is used to describe the long range
+[0:07:40.9]  What does A to ice it back? Did you find it along? And your lovely description? All that even definition
+[0:07:45.5]  Neither have a tool
+[0:07:46.5]  I suppose once you need to define a C
+[]			 Max is
+[0:07:52.3]  And I said that you operated next
+[0:07:56.0]  I seen that See centuries Grandma off of this off the support of the language
+[0:08:03.7]  You could talk about a C language, C plus wasa English Chinese
+[0:08:05.9]  Finish him, Do whatever to talk about
+[]			 But you must have his grammar
+[]			 So for language program, I would be in program along with you to the user
+[0:08:14.6]  Connors Free women
+[]			 It's a free language
+[]			 It was coming
+[]			 So that's what you describe with life
+[0:08:26.2]  The second I spiked often describe any language of semantics
+[]			 What it's meant his house
+[0:08:41.8]  You, Samantha, tell you what the meaning off off the unity artifact you're describing So in problem along with your sensor and you have you have a semi Colin that it means the end of our business later trying
+[]			 So? So this is a grammar
+[0:08:52.4]  You'd have your brother rules
+[0:09:01.1]  This is how How does it come, Hiler? Know your your writings? The programmer
+[]			 Is it safe? Okay
+[]			 Syntax Carol
+[]			 Because they used the grandma
+[]			 This is your room
+[]			 Check your Oh, this is mine
+[0:09:17.4]  She is the arrow, right? You know what you want, right? Bracket? I know that for the chair
+[]			 This is so there's two things
+[]			 So same thing with the UML
+[0:09:27.2]  Although you are miles and all the program along with you said it is a lumberjack
+[0:09:27.6]  Nevertheless, we have our sin taxes on the Harris Semantics
+[0:09:38.9]  So you're a mouse, really? With a ah places By increasing and pulled in a row in resenting sistema mouldings on itself for architecture on again
+[0:09:49.5]  This is just one way that his can use that to describe suffer a character we can use a lot off other ways of former languages
+[0:09:53.9]  Yeah, resolved our actor to that lecture
+[0:09:56.7]  We talk about the Petrie night, right? We talk about those can be used to describe a softer architecture
+[]			 So So this lecture and I I hope you use that in your project of mine
+[]			 We talk about the product descriptions
+[0:10:19.3]  So for particular system of modeling, we wanted to have those I Specter, you know, first of all, I can tell, but what is this? A zing modeling union either
+[0:10:24.3]  Why you describe the several systems and you put the tomato juice under their relationships
+[0:10:30.7]  And how do you describe them? You from which aspect? From which a angle
+[0:10:34.1]  So you are looking at the system So we wanna have a bridge
+[0:10:34.7]  Inter faction off
+[0:10:38.6]  What are you M l A's? We talk about your emails Basically beauty blocks, class of relationships on the nose and the packages
+[0:10:46.6]  Those are just the basic compliment which are the unity's off UML
+[0:10:51.5]  Later we put a specific is imposed from which aspect that we want to describe it
+[]			 Assistant
+[0:11:02.2]  So you want to describe your say use your other I want to sense a ceremony turned the water, the plant, even water the promise the waters for other water the plants into more water
+[0:11:10.9]  So this is the season or home? Cal
+[]			 Okay
+[0:11:11.6]  Hi
+[0:11:15.2]  Owned the home care system in which I aspire to do You're trying to describe the system
+[]			 Now we are talking about you can t square the seasonal from contacts
+[0:11:21.9]  Prospective advice
+[]			 The particular UML diagram we use is activity diagrams
+[0:11:38.6]  Okay, And then you can describe how to see seems components in tract among themselves on the Richard diagrams of are using we are going to use the use kids, diagrams, amigos, A secret's diagrams
+[0:11:58.1]  Okay, so that's the way are you eating? And then how do you describe the structure off the system? How many the detail, the the the inside of the imitates off a particular component
+[0:12:02.6]  So you talk about the structural off the moto's on that particular you Emma diagram we use is a class diagrams
+[0:12:11.1]  So we give a cast names, class attribute and even the option the operation
+[]			 I did the last part
+[0:12:16.1]  The lastly, we needed to describe the behavior off your system so that we have this behavior models
+[0:12:26.0]  You have a model, so we have to respect it
+[]			 We're talking about a data driven modeling, meaning the system is driven by data
+[0:12:35.5]  How did they that being transformed the from one part of the other and then possibly is a part of being transformed
+[]			 The other part
+[]			 So you have been put in the output is awful
+[0:12:40.6]  Dictate our transformation
+[]			 So for that particular model, we're gonna use the Moto's
+[]			 We're gonna use the activity diagrams
+[0:12:48.6]  Or alternatively, we can use a sequence diagram to the squad for that data driven models
+[]			 Or we can use the event motor based in which you stated diagram
+[]			 We stated I grammar
+[]			 If you are taking the cars off the you have Ah, when this is a more moved from one state to the other, state your trigger, right? So why you have a trigger that you move from once they didn't stay to one to the second estate
+[]			 So that is it would talk about the state of diagram
+[]			 So this is the water we are talking about
+[]			 This a lecture on There's the whole thing
+[0:13:25.2]  Just keep in mind all the properties it is really about
+[0:13:40.2]  How do we model the whole system? So, first of all we talk about what is the seasonal modeling sistema model? Me? Is the process off more developing very abstract in motels, off resisting, which, with each models representing a different view or perspective, what our system and this is their three parts off this definition
+[]			 First, the wall is an abstraction off this assistant
+[0:14:08.7]  So we must have we talked about a even a top of the reverse engineering, for example, Or if you talk about the reverse enduring ace, you worked with the resistance
+[0:14:11.4]  A statement that man, you work abi cores uniform
+[0:14:11.8]  Alexis is in the older cold
+[0:14:15.3]  You want to use tract of the Arky Arky military information you wanna use tracked the desire Russian house on do you want? Oh, I didn't ratify the artifact on their relationships, which is the functions we to function the relationship between those functions on the function
+[0:14:30.1]  The files on the you have function with the variables
+[0:14:40.4]  So those are the abstraction level and that even a thing of about a software architect er, which is really coming from the whole say, seems you generally this abstraction level description off the system, which is you are the are connected
+[0:14:58.2]  So the second the keyword off base definition is we want to provide a thieving of you off this assisting from a developer's perspective from pesters perspective from a your architecture architect perspective
+[]			 So they all looking at a system of father from even a perspective
+[]			 So give interviews out, even a perspective off that a particle system
+[]			 So that's the real season
+[0:15:15.1]  Modeling, since my modeling has come, has now come to mean representing a city using some kind of graphic notations
+[]			 You can use the ah graphic notation
+[0:15:34.1]  Could it be you the Java in the old days? Java hava Java Doc Review Do you write a job now? Although much, right both a lot of people using python right now
+[0:15:48.7]  So in the old days when you were my first learned Java, then so Java has this job, Doc, when you produce a job, calculation really shows the structures off the suffering and the system you're writing
+[0:15:59.2]  So those, actually, there's one kind of a graphical locations and why you want to We want oh, resented the systems that we wanted to use Ah uml as a one pipe of or graphical notations to describe the system
+[0:16:11.2]  The reason we want to have a Caesar system a modeling is really to try and have us to, uh for even the people on the least to understand the function that itself systems better on the Motors
+[0:16:26.7]  I use it to communicate with the customers because all you show them it's not a detailed implementation rather than as a bigger idea
+[0:16:33.3]  Much are high level, the component under their relationships
+[]			 So this is really safe in modeling
+[0:16:44.9]  So the question is how money I spect harmony of views
+[0:16:47.5]  The perspective we can hive to describe this is a statement
+[0:16:53.7]  So those are the afford, even the aspect of the camp we can use on you
+[0:16:57.3]  You don't wanna meet any of those abs I suspect because of you meet any of those aspect your system description, we will not be complete
+[]			 First of all, you wanna have ah, external prospective, which means that you wanted to talk about this system are wrong in the environmental
+[0:17:17.8]  You made sure the environmental decisions running on the verge of contacts that the system was running
+[0:17:21.3]  So this is where you should've model the context on the environment off these systems
+[0:17:28.5]  So they cut a external perspective venue outside right outside over the component
+[0:17:56.6]  But that contract with its season The second I said back to you don't want to forget is in traction prospective officer, that it means that when you're designing a system while you're trying to Amoah describe this system, How does this season were in tractor with all those two statements on without you see your environment or between any components within this assistance? So that's the attraction part off the description
+[]			 The third part is cut a structural prospective
+[]			 So you want to know how the organized season is being organized among themselves, the structure over the data
+[0:18:18.6]  So you talk about it if you didn't have represented you, what kind of schema even you have even a schema like a database Is that you think? How do you want to validate her? That a particular schema If you use the XML, Trudy squire
+[]			 But this is data
+[0:18:35.3]  And how can you validate that particular ex Mel file unless what kind of scheme I use? So they said, redid the structure perspective off these systems to the last part
+[0:18:44.9]  Ese behavior
+[0:18:51.6]  A prospective where your model this is dynamic er behavior off the, say, Seema, how to season where we will respond to the event
+[0:18:59.3]  So even though the trigger, so until you have a counter counter, the time the timer counter reach a certain time on the season when we moved from one state to the second estate
+[0:19:06.5]  So if I said it, hammer toe five second and then the signal should move for West into the other state
+[0:19:18.4]  That's really the behavior perspective that respond to the external trigger off these to revenge
+[]			 So given all of those of four, even a perspective off the system we should describe, then what kind of wall to see, what kind of all the languages the diagrams we can use that can be used to describe those behaviors
+[]			 To do that, the external on the all those even the type of perspectives we talked about this before, right? So first of all you Emma diagrams, they have many minute even diagrams, which I'm gonna show you the next A few supplies, but the one we used the most is really the falling
+[0:20:03.4]  The first Y's activity diagrams in which you use shoulder activity is involved in the process, and it did have processing
+[0:20:16.2]  So this is you can view eyes the flow chart, the organization flow, chart you How does it even the even you think that robot contracted with the external? The system? How does my senses or my eye sensors
+[0:20:21.1]  My arm's reach
+[0:20:26.4]  So this is really the the chart, right? If the flow chart, you know the regards the second part is they use cases diagram, which we have an intensive lecture on music case that I use cases
+[]			 That last lecture on this is gonna be on your midterm exam
+[0:20:43.1]  Okay, I'm gonna give you a review over the second half out of his lecture
+[]			 So use case
+[]			 Thank him
+[]			 Capture how this is Mike
+[]			 We're in tracked with the systems and environmental, particularly if you have particularly the use case
+[]			 Another you have that you sort of yours cases
+[0:21:00.1]  And how these turning us against it in trouble with them? The use kitchen leather off your focus
+[]			 So that's really what we have said
+[0:21:20.4]  Half of the boundaries of abuse cases right now, we can consider what is the within what is the outside that a particular yours cases on the use cases also used to capture the scenario based the developmental
+[0:21:23.5]  Why you how the user's gonna use your say statement on the guy
+[0:21:26.6]  You by using the scenarios
+[]			 Another diagrams can be used to describe that different perspectives called a sequence of diagrams
+[]			 So from the world, you can see it is your sequences
+[0:21:46.0]  Really? You have a set off beginning and the end you have set of orders, which he squired
+[0:21:50.2]  The interaction between the actress on the systems on the B two nurses become more than that
+[]			 So, for example, if you go to a library, how do you if I wanted to describe the the process toe, check out a book on you
+[0:22:03.5]  Describe sequence, so you need a logging assisting
+[0:22:04.6]  Select these books on added to your car and check out
+[0:22:10.1]  Okay, those you print out your confirmation
+[0:22:11.3]  So those artist sequences that has can be used another of diagrams, which is really close to the implementation
+[0:22:24.5]  It's got class of diagrams so classically I want Mr Shows the class objector, insisting on association between those crosses
+[0:22:34.0]  In this time we would talk about a tool, Sir Pacifica, the cast of relationships that we call the aggregation relationships another color generalization relationships, and you need to know the difference between these two
+[0:23:02.7]  Why is the whole park relationship the others apparent on the child relationship, The last dive on which we used every so often it's called a stated I went missing This is a describe the current a stage off the say c'mon you talk about a combination log you the logs of the city locked always open on this can be triggered by the the external event that it's shows how the system reacts toe internal on the external events And we're gonna have an example sir, on the show you later
+[0:23:29.5]  So for molding system over the UML, we have ah onset of our specifications of how construction's is really you am l z used the fall visualizing you sure the video component off the systems on you Emma can be used as a documentation off the systems, you know, to document assistant
+[]			 Meaning? Okay
+[]			 How many? Just like the Russian house, the components on their relationships
+[]			 Now let's talk about it
+[0:23:57.9]  Ah uml introduction works begins
+[0:24:03.6]  So the julian de facto off industry standard, uh, using uml toothy squadron systems and ah, but I want to give you some common The later after I talk about the season
+[0:24:21.0]  Um, maybe a couple years ago, I was working with the IBM me drunk told Leiber, so they have a specific alive because a user centered a group
+[0:24:24.1]  So we have ah, internal Ivor
+[0:24:36.1]  We come back to the that research is really focus on how how much of the the industry using UML as it is sort of a documentation for their suffers a statement
+[0:24:43.1]  I know we have the good A lot of service within the abbey and me in Toronto, Canada
+[0:24:45.4]  And then we had summarized those work
+[0:24:50.4]  And so to see, it doesn't really find out how useful you are
+[0:24:58.4]  My eyes once type of documentation means Doc addition to the softer assistant was I can give you a Prince Bischoff that the result of the research
+[0:25:09.4]  So this is the other three guys, right? You have Ah, Grady Butch on the He's the IBM fellow very attending conferences
+[]			 You can see
+[0:25:12.0]  Sometimes he just threw up in the conference is oh, he was in
+[]			 There's one conference
+[]			 Really? Some very cool
+[0:25:19.1]  Maybe the public conference
+[0:25:28.5]  This is the Hubble Conference Silver Engineering for the Fight International
+[]			 This is probably the premier Conference or something we want to know was it was the topic
+[0:25:57.1]  What kind of people are doing what the card in the industry are doing? So go to that conference and look at their presentations and doesn't do a search
+[0:26:00.7]  Oh, to see what that even track
+[0:26:03.6]  And there's industry plantation over there
+[]			 So is it really give you a view of what? The front here
+[0:26:09.2]  Research
+[0:26:09.8]  Helping? Oh, yeah
+[0:26:15.9]  If you want to find the Inter Jaber the jobs you wouldn't have what was going on these It would be crazy for you to your home last this year's this conference It was Eun Montreal
+[0:26:28.7]  Next year we'll be in Korea, Korean A soul
+[]			 But this morning and this is probably premier conferences
+[0:26:43.5]  The over there you can see those people in a crowded boat
+[0:26:52.0]  He's now is a fellow off IBM just a front here and the ah Jim Wrong Bo from G on the Eva Jacobsen and the he's the guy we talked about the use cases, all the material
+[0:27:06.4]  We hide it from the last lecture from his company on the way we hide the kind of will gonna the contract to write an academic agreement of it that a company where we're lucky to have all you can use that material
+[0:27:13.8]  This is some of the history so awful uml we have Ah Yamil
+[]			 1
+[0:27:21.8] 0 1997 Ana, currently than your Russian have carnations already
+[]			 You're old
+[0:27:25.1]  Is the 2012 UML 2
+[0:27:30.8]  So here's the distributing component off
+[0:27:39.7]  So how's there's a UML related it to We describe self architecture and this is a viral vier famous
+[0:27:50.2]  You know, if you're talking, going out our car sebum talking people in the field in a just a few double domain
+[]			 So people very often they talk about a four plus a one view, and you're going to know what's a four plus one
+[0:28:06.5]  Okay, so this is it a related children? Four plus, where is you have these designs processes in plantations of the deployment
+[]			 This kind of you can think about those as your software development
+[0:28:19.2]  The cycle, right? It's designed with your condition deployment on, then governed by this process
+[0:28:22.9]  The way I talk about a process, the solder processes, you shouldn't know what is this stuff in a process is okay
+[]			 And how many several processes we have so in the center is really focus on the youth cases
+[]			 We can tie them everything together, so when you talk about it, he's on me
+[]			 Which of you were talking about? We're a couple of logical view off the system
+[0:28:45.6]  Logical view
+[0:28:47.9]  You can see that we have front India, Muhammad o meter, where they have the backing that they have is that we have made aware, you know, the way you talk about a three tier off architecture by this three part
+[]			 But the logical view is not necessarily the same as what we talk about a physical view which is a deployment right here
+[0:29:05.5]  The Baltimore the right corner
+[0:29:08.4]  So we've I see neurological viewer can put together a c Hey, here's a related to our The sensors are for the all the senses are crashing out of the car back together
+[]			 And this is a process
+[0:29:21.4]  It's a center right in the middle, but those could be the logic of you
+[0:29:28.2]  But the physical view may not be out of sensor data being collected at you
+[]			 One component are in the logic of your probably Yes
+[]			 So this is really the different chair
+[]			 The implementation of you on the side of the order could be a different
+[]			 So in turn process of you, we have a process of you in trouble implementation
+[]			 Uh, we have a development of you
+[0:29:47.5]  All of those are called a forgiving I Specter Office, Ark Ark
+[0:29:50.3]  In nature, the description on all tied together through the use case isn't so
+[0:29:59.1]  This guy is buy this guy a Philipe question and he's a from his Now I think he's a louse it
+[0:30:11.5]  And in Canada University, UBC on earth you need is a British Columbia might be there
+[0:30:17.9]  Hey has described the orchestrator off a software intensive systems based on the use off multiple concurrent views
+[0:30:25.5]  So that's really what are the source season is about
+[]			 This should put all those of four components together
+[0:30:32.2]  You can have a whole completed, comprehensive description off with the suffer, so suffer Assistant was through architecture
+[0:30:43.7]  So why we talk about this aligns the process of you right here
+[0:30:49.7]  There's a one process of model which is very, very tightly cup holder with the UML
+[]			 So somewhere process we have on the age I'll process
+[0:30:58.3]  You know we have the disk Rama
+[0:30:59.7]  We talk about Shakespeare
+[0:31:01.6]  Combine all of those happening right now, but those that we have a waterfall, Moto's even ocean process models, all of those together but they are not necessarily re title back to get a title with the UML
+[0:31:16.9]  There's a one part really very closely together
+[0:31:18.5]  It's gonna reup
+[0:31:25.0]  I have mentioned this many times when rational unified the process A really based on the ml, meaning there are three central point
+[0:31:32.0]  We didn't talk about these the process of very carefully, but after someone you know about it
+[0:31:37.9]  So first of all, there are three core part of this impact casing
+[]			 First of all is yours
+[]			 Kiss driven everything off these
+[0:31:48.4]  We have to talk about a use cases using cases to describe on the requirements use cases that drive your implementation for that when we talk about it
+[]			 Really? To review our last lecture
+[]			 But Hubble implantation Well, how about using use cases? This is really that your case is in, well, us
+[]			 Kiss the realization
+[0:32:25.0]  I don't know how to write a warder
+[0:32:29.0]  We'll use case of your allegations really valued education
+[]			 I want bigger use cases and I never have
+[0:32:38.3]  What? Remember I gave you the hotel example which Hagee in hotels having in the booking house
+[]			 And then you can bring that into a defender, uh, smaller components use kids of realization for the implantation
+[0:32:55.2]  So then, is the art architecture centric
+[]			 Meaning we need the user architectural design for every describe every aspect off the system
+[0:33:03.5]  Just like these You wanted the Zion processes
+[0:33:04.9]  You want an invitation deployment? All described by using architecture, the description for that part of your heart
+[]			 And then, like any separate development, we always have each other
+[0:33:16.2]  Achieve what? Jay? Incremental
+[0:33:16.7]  Develop a mention
+[0:33:20.2]  You wanna starting from a small Andi want great
+[0:33:21.5]  You the idea onto the defender getting more contacts
+[0:33:28.5]  Ride on, then you wanna have some are from worried
+[0:33:28.8]  Core part like a compiler
+[0:33:34.1]  You want to start your compiler with it, eh? Maybe come holler
+[]			 I don't have any type of checking on a great they have
+[]			 Ah, either
+[0:33:39.3]  The tie same times are indeed your types
+[0:33:46.9]  And I want a uniter types and more of the followed on graduate making more Compaq's the incremental each retailers that I won't have many men in your release
+[0:33:56.8]  And it has these four faces that you have a deceptions, the elaborations construction in transition
+[]			 We didn't help either
+[]			 They seen that they should have covered against sovereign
+[0:34:03.6]  Jeanne Coste I don't have five flows
+[]			 This is just the essentially
+[]			 We talk about a software engineering
+[0:34:12.6]  The different identify R and D di identifiable faces off
+[0:34:17.0]  Sorry, but open process requirements analysis, design in religion sized
+[]			 So there's the whole thing is like a one Peter described
+[0:34:25.5]  What is your Rob? Unify? Uniph Rational, Unified A process
+[]			 And the rationale was a company in the past
+[]			 And then that a few years ago
+[0:34:32.9]  Long time, maybe Liza
+[]			 10 years IBM bought that company
+[]			 So was part of IBM
+[]			 So as far as the U
+[0:34:45.7]  S mail goes, UML has a some off this entity
+[0:34:52.2]  First of all, there's somebody called the things this just the a term used by jahmal, but a very poorly named in terms
+[0:34:57.1]  The things are the first, the claws off abstraction
+[0:34:59.7]  So opportunity we have Ah, we have a structural sort of behavioral with have grouping and and rotational
+[0:35:12.8]  So we talk about it, Does it even though a diagram Mr Leader on another inspector off the building blocks is your relationships
+[]			 How does it given the things okay related to each other? How do they tied each other? Uh uh, among themselves
+[0:35:34.0]  How do you do weigh in tractor on to describe them, they're see what's the important was the airport and it was this, say consumers
+[0:35:37.4]  It was provided a service provider by another component
+[]			 Another thing is called diagrams, which is a collection off interesting things together
+[0:35:49.9]  So there's this is a basic viral, basic building blocks and those of basic a punitive block's gonna be east 10
+[0:35:52]  She hated it through the divan and diagrams which gonna talk, But I right now
+[]			 So here's the UML hole
+[0:36:06.6]  Bigger lecture on the overview, right? So first off, we have relationships you have with things I heard I grabbed
+[0:36:06.9]  Listen, the things you have a structure on behavioral on a grouping on the rotational
+[0:36:17.8]  A notation was just notes and the grouping, which is the card of a the packages model subsystem, or framework
+[]			 And we write a user group in an hour in the describe our systems where we do use the behavior, we should we talk about the houses in traction on the system of machines
+[]			 Use this a lot
+[0:36:34.6]  We use this a structural allowed, whichever have well
+[0:36:43.8]  We do have the energy kata use case car season, active classes interface component collaborations on the node
+[]			 So those are the structural
+[]			 We use this quite a lot on, but also in terms of the relationship between among all off those are really is that we have a dependencies association and a generalization, and we would talk about this later
+[]			 So in terms of what diagrams we have what yours case diagrams, class diagrams of all the secrets diagrams, the house stated chart activity diagram, the component of diagrams on deployment diagrams
+[]			 I put a right here as a collaboration diagrams that's being removed in the latest version off UML
+[]			 But actually, we didn't miss anything because of secrets
+[0:37:30.7]  Diagram on the collaboration diagrams are essentially the same thing
+[0:37:36.1]  I just did the squire with them from a thief in a prospective
+[]			 Have you sure? Your example
+[0:37:44.5]  So you use the software to draw your UML diagrams? Um, so frank's ever use it a record
+[0:37:59.3]  Sito Records of the prole Oh, use the, uh I've Emma, the the Enterprise
+[]			 Is this sweetie in the original original sweeting their price enterprise
+[0:38:05.0]  Sweet
+[0:38:05.7]  Okay, sorry
+[0:38:07.4]  I'm Sir Reginal Enterprises
+[0:38:08.0]  Sweeter That a whole set of a software
+[0:38:11.1]  So while the tools the joint U M A diagram on Eve, you have a Tokyo switch
+[0:38:15.3]  You can price the wealth of the I think that I feel not
+[]			 And then you can switch between the secrets diagram the collection diagram So we didn't miss anything
+[0:38:29.2]  So this is the new diagrams UML to open a file My grandmother in your one
+[]			 So this is you have a structural diagram on the life you have on the right is a behavior diagram
+[0:38:42.3]  So then letting the life the structural diagram You have plans, diagrams, objectivity, diagrams, impacted diagrams, compass, the compass it by in structure
+[0:38:51.1]  And you have component diagram deployment on the profile diagrams, all of those on the on the right
+[0:39:04.9]  You have a behavior in terms of writing and the people off the system using his diagrams, activity diagram, the state of diagrams, contractions, sequence of communications, timing diagrams, instruction diagrams all over those
+[0:39:14.9]  So we do have something in blue
+[0:39:16.6]  The diagram in bloom, The diagram
+[0:39:19.9]  You are not a really official the taxonomy off this diagram
+[]			 But it's the people created that just that gave more compliment to have a more concrete description off a particular diagram
+[]			 So, for example, Well, you used this as example
+[0:39:37.4]  You have a state of machine diagrams, right? You see my clothes over here
+[]			 So in the state of machine diagram, we use a behavior state machine diagrams, eyes more concrete
+[0:39:52.3]  I suspect to describe the state of diagram and that we think that a behavior stated IA machine diagram it
+[0:39:54.0]  We have a protocol state machine, a state of machine diagram
+[]			 You're thin
+[0:39:58.3]  Died
+[]			 So there's another suffer component of that
+[]			 So we wanted to use some of this component to describe that
+[0:40:09.5]  A particular told me off the systems that it couldn't be otherwise
+[0:40:11.1]  They described by the generic bye, grandma
+[0:40:15.9]  Okay, but they're not a part of standard unrecognized by the industry anyway
+[]			 So this is the beauty blocks off on your email
+[]			 So you have structural you have on the class
+[]			 This is actual class
+[]			 You have other basically class you have with three components component
+[0:40:36.0]  Would you component that you have a particular note? So think about us
+[]			 You
+[]			 I'm out
+[0:40:43.2]  It's just that I saw a video part of video documentation off the sissy
+[0:40:48.6]  So how do you use it? Even a notation in to describe it and even imitation is would be called a semantics
+[0:40:52.8]  In your long wager, I expect you have a syntax of house semantics
+[]			 So this is another thing called behavior
+[0:41:03.3]  We have ah U s visa
+[]			 One line with the arrow in traction
+[0:41:10.3]  You have state of machines, which is hey there, waiting for this
+[]			 My state
+[0:41:13.2]  This just meditation have package business rules
+[0:41:19.8]  You have notes, say return copy off itself only suggested this is just the names on
+[]			 This is a graphical notation on the inside
+[0:41:26.4]  Just the instants off that a particular patient
+[0:41:31.8]  And when we're helping a reduction, saves become about dependency
+[0:41:33.9]  Relationship useless
+[0:41:35.1]  Abashed
+[0:41:36.0]  I wrote the line
+[0:41:50.9]  I never have the association, which is the 0 to 1 or many one was white employees total many employees have generalized, which is that we have with badger of realization, Eustace
+[0:41:57.1]  But I like a pointed out if you use it even a UML truth
+[0:42:03.9]  They may have a divan in kind of a notation into paint a Shinto diet so that sometimes you may see someone notation you don't realize, but the particular to see Starr uml used a rational rose
+[0:42:13.6]  And if we use a Camille enterprise architecture was a motor highway
+[]			 Wait tools and leave my user
+[0:42:19.4]  They're giving imitations
+[]			 Let's talk about ah, diagrams
+[]			 Here's the diagrams
+[0:42:32.1]  We will recover in the next few
+[0:42:38.9]  Like the supplies intel about a concert diagrams how obviated diagrams use case diagram Secrets diagram again
+[0:42:43.5]  Collaboration diagrams was removed from UML to appointed old laughter so but nevertheless that they are really the same
+[0:42:53.6]  Signally just performed even the press back to you and you have a state of chart activities
+[0:42:59.7]  A component of the problem, innit? Diagrams? Have you talked about each of those? I never give your examples, even you
+[]			 So what we tell about a class of relationships where how would talk about it right here
+[0:43:15.8]  This is the relationships why dependence association general generalized are realize issues on it
+[]			 So here we have
+[]			 So first of all is association association
+[0:43:27.9]  You can think about just the we casually put those two classes together
+[0:43:35.6]  So we just there's quite another quite a sort of what you would have saved
+[0:43:35.9]  Dependencies
+[0:43:39.2]  Now the originator
+[0:43:40.3]  Tow the event
+[]			 A receiver
+[0:43:49.7]  There's no such a relationship, but the rather than we have just the talk about that they are the unit
+[0:43:55.3]  Is it possible the roles they play among those of classes? So we charter, uh, you could have Ah, multiplicity indicate these numbers off objects or social with each class
+[0:44:07.7]  And those remember could be fix the values from example How fees? A 1352 I can
+[0:44:11.8]  So there's a colavita in their faces and now you could have ah, many You just use a star
+[0:44:20.0]  We don't know how many to say Money Oh even can define the range office say from 0 to 1 off from three
+[0:44:26.5]  Too many
+[0:44:33.5]  That's the How did he find her relationships, the association? Or you could have a set of discreet values
+[0:44:35.8]  1357 all together
+[]			 So that should give you an example
+[0:44:41.4]  Association example Right here
+[0:44:50.7]  So, for example, these you have customer have possible, right? So there's just that association is a wound way navigation between these across association association
+[]			 Not really talk about it
+[0:44:59.1]  We don't lose specified in numbers
+[0:45:05.4]  And how many nor the range in order Top of the mark duplicity, but are using these when you talk with a reviewer
+[0:45:09.9]  Writer reviews
+[0:45:14.9]  So you have ah reviewer uh writes the review
+[0:45:18.6]  Where's the review? Is a return by reviewers
+[0:45:25.2]  So now you're talking about They are association rules instead of like this is this is more trusting the navigation between us
+[]			 It'll classes
+[]			 So when you talk about a multiplicity, I want to indicate how many classes one class is associated with the other classes
+[0:45:38.6]  You have customers, you have a cunt
+[0:45:40.1]  You have a Beanie Information altogether
+[0:45:48.1]  So then say one customer has one account on awhile, account has a multiple beating the information
+[]			 I was star right here
+[0:45:54.5]  Well, maybe many credit card over there, right? At least our masters, the marquees, prices thes cover all our model
+[0:46:01.3]  So this how do I define that? The also fusion models? Causey's
+[0:46:04.7]  So there's a West Special cross
+[]			 The relationship is called aggregation, So I couldn't even talk about a hole and apart relationship
+[0:46:16.4]  And what use is the diamond? You know, Diamond, The future
+[]			 So So you
+[]			 For this example
+[]			 You have one whole class if you have one part across right here
+[0:46:30.4]  But for these, well, whole class, you have a more than one part across Europe are across one park
+[0:46:31.8]  Last hope
+[0:46:33.1]  So that's mean, aggregating multiple classes
+[]			 All you can have this is a for example, you very well
+[0:46:39.0]  Older you
+[0:46:40.7]  Why? Shipping information You have a Wilder hasn't multiple books and the well order has just one bidding information
+[]			 This is how those things are coming together and they all belong to older
+[0:46:56.5]  So this is a whole and part of it and she shave one part
+[]			 It's amazing this the whole doesn't exist in
+[0:47:06.4]  So that's how do you define the the hole in the part of a relationship? Okay, so if finds I'm even older here, you will order
+[]			 And then you have this
+[0:47:14.2]  You went part of shipping information using and then the other torches cannot stand himself
+[0:47:22.3]  So there another part kind of Ah, similar, but a toll
+[0:47:24.0]  The different looks, assuming about totally different is called generalization
+[]			 This is general addition is that we talk about it
+[0:47:30.1]  You her intense
+[0:47:32.7]  He's really the super caza and apparently cost under with the you are a sub clause and the child across a relationship
+[]			 This is what we talk about in your object
+[0:47:41.4]  Orantes Programming sentence
+[]			 This kind of generalization
+[0:47:48.8]  So single you hunters of versus the multiple you hundreds of easier here
+[0:47:50.8]  You have permitted costs
+[]			 You have a child across here
+[0:47:53.1]  Location
+[0:47:55.7]  So, for example, if I have a reveal, I have a customer review
+[0:47:58.4]  I've guided tour a review
+[0:48:03.3]  Okay, so they could hardly part of this
+[]			 A tribute from your parents class
+[0:48:08.3]  Meanwhile, you can have your own unique
+[0:48:11.0]  You're on edge of yield
+[0:48:14.4]  So the difference between these besides these you harm tens of relationship
+[]			 I did the generalization
+[0:48:28.8]  This is several class that you don't have to include all the your summer classes in order to make your super classy the make of the existence off the super class
+[]			 Because it really hurt its relationship under the notation where using is using this are right here
+[]			 Okay, so this is a generalization
+[0:48:42.6]  Another example called and lows
+[0:48:47.1]  And the packages knows that a dormant just the back Russian decoration
+[0:48:48.1]  Additional information you find
+[]			 So find somebody
+[]			 You have a class right here on the what I'm having right here
+[]			 It's just a habit
+[0:48:57.3]  Altuna taxes here
+[0:49:01.5]  So hey, with this cost is a four private use only
+[0:49:05.9]  And this class is talking about I just certain precondition might on this cross can be called is some illustration here on his hip action locations
+[]			 The same thing
+[]			 So now we finish the basic components off UML
+[]			 Now we talk about when we describe different views off the systems
+[0:49:31.2]  How do we utilize those UML diagrams to describe it? Even a views on the first of all, we talk about the compacts models, the car's motor I used to the less you know, the operational context off the system
+[0:49:50.5]  So the show that what is that outside of the season boundary? So do you remember when we help us own the use cases and we need to set out among but the boundary Everything's outside of this boundary is is it all sort of yours cases, But the in tractor with my system? The actress So this is really what does it say that our side of my boundary that is a complex model
+[0:50:06.2]  So social and opposition concerts in May of factors that decisions on whether to position season boundary so it really depends on what you're talking about
+[0:50:18.4]  So what is this? Some of you off inside is another sister movie off outside, right? You understand? So Julie depends
+[]			 How do you think So? He was using again machine as example
+[0:50:30.3]  So you think about the engineer is to maintain the security, the regulation people as part of this
+[0:50:35.8]  If I wanna withdraw my money, I want to make tenders Whole Adm operation
+[0:50:40.5]  That'll be all the regulation person will be with be considered within my system
+[]			 But the viewers think about it
+[0:50:52.7]  I don't like consider the operational office into a game machine
+[0:50:55.9]  I should be the jaw deposit out of those
+[]			 Then the regulation part of you be outside of my sister
+[0:51:02.2]  So Julie, let me ism went with help
+[0:51:05.0]  Wanna hear soldier on the organizational concerts? A male factor
+[0:51:08.8]  The decision on whether to position seasoned boundaries on Arcadia architectural models show this season a nice relationship with other systems
+[0:51:21.2]  So now how do we decide this season? Boundary
+[]			 We talk up pretty in pensively when we'll help her use cases
+[0:51:31.6]  I strongly recommend you to go back to that lecture use cases, a Hollywood, the sinuses in boundary
+[]			 But I hear we tell our system a boundary again
+[]			 That is the way it really decision boundary defined
+[]			 What does it belong to inside the system and it would belong to outside of the system
+[0:51:50.8]  So that is really shows the other system that the system can be dependent
+[]			 You would talk about a silver a season
+[]			 The architecture we have is a coupling and cohesion examples
+[0:52:04.4]  So So the position of season boundaries are really profoundly fact offseason requirements
+[]			 So what do you think about what we talked about? Modular system modular
+[0:52:12.7]  You're gonna have a beginning nd off this political system
+[0:52:21.4]  So where do you consider as beginning where to consider has ended? And that also is a lot of political judgment, really a factor
+[0:52:30.3]  How do you What is your confidence inside? And was considered normally the policies of the policies of the regulations
+[]			 That's a perfect system of decision development
+[]			 Maybe Sometimes we consider as a outside the boundary
+[]			 So in the contacts off, eh? The mental care systems think about ah, example we're using here is a mental care
+[0:52:50.1]  Think about a hospital
+[0:52:52.1]  Can't take careful these mental stress people
+[0:52:56.2]  So the mental care system Issa, you have Ah, here's all the components
+[]			 So we have your patient records, see the whole mental care Okay
+[]			 At the center
+[0:53:05.5]  So you have a management of reporting systems
+[0:53:08.4]  You have a head
+[0:53:12.8]  A call on the connection of the Hyder Khan of statistics assistant
+[0:53:14.8]  Miss the appointment systems
+[0:53:16.3]  Prescription systems on the mission says thickness on a patient of record of systems
+[0:53:27.7]  So those are systems all related to we need to implement that month to consider it is a mandala, kay My no care
+[0:53:35.1]  So from the process of prospective, all the cameras motor simply show that the other systems in that apart agree environment
+[0:53:41.6]  And how do they interact with the safety, Mr
+[0:53:43.9]  On S
+[0:53:48.5]  O we The process model reviews the house isn't being developer is using the broader business sense is so like to talk about the activity diagrams in these records
+[]			 So here's week
+[]			 Oh, so we haven't is a solid circle is always market at the beginning Off this the state on the way
+[]			 I have double circle
+[]			 Okay, market to the end of the state
+[0:54:11.1]  This is a typical in a state of thy gramma
+[0:54:13.0]  We always use these combinations
+[0:54:15.8]  Okay, here's the starting point of his Indian boys
+[]			 Now there's to take a look at this on the, uh, the process model for involuntary involuntary detention because we're using the mental health as example
+[0:54:31.4]  So first of all, you confirm a detention decision
+[0:54:34.4]  So now we have a two teachers will come out
+[]			 So this is my process
+[0:54:38.4]  Why is informed patient off these rights under recorder detention decisions? So those air to stay ain't going in parallel
+[0:54:49.8]  And after these out of these, you have this vertical buy right here
+[]			 Now we have This is the buy money, right? Here is the decision making point
+[0:55:00.1]  The decision making point is depends on what the outcome from this decision you need to see
+[]			 Hey, even is a dangerous the mental health
+[0:55:12.8]  Then you want to find a secure place for those a patient on that, even though the secure place available transform a secure, secure hospital even out
+[0:55:17.7]  Then you transferred to a priest station
+[]			 So even it's not in a dangerous situation
+[0:55:29.1]  You want me to the hospital and then the system Are you feeling in a dimension? Sissy was over here
+[0:55:40.8]  So then you're all cases that we all come to one central point where you'll come out with sees your former a social care you form with Blackstar King
+[0:55:43.7]  I mean, you wanna update a register honor so you're all feeling in two of them, the mental care systems, you finish your states
+[0:56:04.1]  So over here, what are we talking about? It right here is it is really the whole process is from beginning to end for the involuntary detention process on every user activity diagrams, units activate diagrams
+[]			 We have older states
+[]			 I never help flows among them
+[]			 So next the motor, we talked about it
+[]			 A contraction models
+[0:56:19.8]  You tried your photos
+[0:56:21.6]  The Church of Moto's a modern day using instruction is of iron
+[0:56:25.1]  Portend that it helped us to identify users
+[]			 Requirement is very important related to the scenario based on the description
+[]			 So we have ah, molding system
+[0:56:39.6]  A system of interactions highlighted communications off the problems that is, it probably can arise later
+[0:56:54.2]  And also why would help another contraction? A mom who's a citizen? How was it you are delivered? This The liver very discovered problems
+[0:57:11.6]  Was it discovered problems? One of a kind of fix these problems on the proposal systems that really deliver ah desirable the performance under the dependability off this purposes
+[0:57:29.2]  So to describe a contraction model, we use the tool diagrams was used, his diagrams that want to say in secrets Diagrams for the interaction model to use it please Diagrams We had an intensive electron
+[0:57:31.9]  This here's just a recap in the contracts That awful uml diagram
+[0:57:38.6]  So is they really use cases? Uh, juvenile natures
+[0:57:47.8]  And we have ah, actor Mr The Sticky Fingers The actress is a role used to play with the regardless system
+[0:57:53.9]  So you can be a what kind of role you play Ama this is diminished cheaters
+[0:57:55.5]  Are you phrases the Ada Sistem ease factor or you talk bother you now use cases
+[0:58:06.8]  Example we Could it be the customer? And so it depends on what time Kind of the role play
+[]			 Not only they are referring to people, but also they can referring toe the assisting with you
+[]			 So everything this is key words right here
+[]			 I wanted you double highlight that which is outside that the systems
+[]			 So this is your cases? Uh, this is the actor
+[]			 Okay
+[0:58:29.6]  This is the previous sector on a here couple
+[]			 Yes
+[0:58:46.2]  So it is the the actor The questions died in amando care Say seems kind of like a therapy
+[]			 The patient, right
+[]			 Okay
+[]			 The answer is that you with your contacts you're talking about
+[0:58:58.7]  So anything that is the outside of this assisting in tractor with my system is the consequence of what? Actually, so if you talk about yeah, so you could talk about that's here
+[0:59:12.5]  You really depends on which in would you component your talking about? So where coming? Talk about maybe here
+[]			 It's not a really the patient here, because here is talking about how the system is running with thin air themselves
+[0:59:23.9]  But if you talk about hey, I wanna have a wine use cases to recorder the patient, the mental state
+[0:59:29.6]  I wanted to have a assessment off his mental state
+[]			 Then another case, the patient would be actor
+[]			 But in this case is there's no actor
+[0:59:39.7]  Paging involved is more like an internal
+[]			 So in this case, the patient would be outside
+[]			 Yes, it will be outside this case way
+[]			 Yeah
+[]			 So this is the youth cases that use cases
+[]			 Um, talking about, uh was the value to system can provide it to that particular actor
+[1:00:06.9]  So you by using a damn machine as example, the actual to be the customer right on the would've value your A T M machine can provide to me
+[1:00:12.3]  You can provide a check of my balance, deposited my money right and then transfer my money
+[1:00:21.5]  So those are the values you can provide to me as customer, so they'd be square
+[1:00:24.0]  But what this isn't going to do without specifying how the system of your performance So this year's use cases, so total set of actress with using his model should reflect everything that they need to do is change your fault with the systems
+[1:00:40.6]  It's a very you needed to describe everything because even your meats involved a youth cases than your system is now the complete because you're meets the one component it in the implement
+[1:00:48.2]  Toto said
+[1:00:49.6]  It was just a case of the shooter
+[1:00:52.5]  Capture all the functional requirement that system stakeholder has put forth
+[1:01:05.8]  That's why was one of your cases a requirement similar, lengthy? Have you give you maybe after your next the homer code about a teacher about conversation I would give you on the use cases assignment
+[1:01:13.7]  It's a very verdant, lengthy, viable, time consuming right, detailed
+[1:01:19.4]  So this is the example off for the youth cases you know this accurately, particularly even use cases, and when using his face is in trouble with the more than one actress off course, and it's so assemble your case
+[]			 The example
+[1:01:29.8]  You have a customer's it take account of lobbies and he will write a customer reviews
+[1:01:35.3]  I didn't book into a shopping cart and check out You know this very well so far after our use case
+[1:01:44.1]  A lecture we have very in pencil on that to use these ah, mental care
+[1:01:48.7]  Isa Example
+[]			 A medical assistant
+[1:01:53.7]  So you have a medic are rejuvenates the You want to transfer the data to a patient, Records say Seems so
+[]			 This will be the, uh, um use cases will be the actress that is outside
+[]			 Is it yours case? So when we describe use cases, we can use this a diagram to describe use cases
+[1:02:23.5]  You say, Hey, medical ribs reception is the transfer data occupation the record system? Also, we can use a tabular description off with the Hughes case
+[1:02:30.7]  Isn't we'll say, Hey, here's the actress because actors is the medical reception
+[]			 It's the patient records systems
+[1:02:34.4]  Okay, this itto actress right here
+[]			 12 sticky fingers, too sticky fingers
+[]			 And I wasn't my description
+[1:02:49.3]  Hundreds Jepson is that may transfer data from Meant man MacKay's in system to a general patient record are without basis, they maintained by a health authority
+[1:02:53.4]  This information transport A may either be obligated the personal information
+[1:02:58.3]  No address it from members on a summer
+[1:03:02.2]  Oh, summary off the patient's diagnosis and treatment
+[1:03:06.4]  And that would mean by data there, ese the patient's personal information
+[1:03:15.9]  Treat him in the summary on the stimulus would be user control that issued by medical receptionist responses
+[]			 So this is just a very detailed description
+[1:03:20.8]  Off what school? Young, Nice, very simple diagram
+[]			 So when you do your implementation, you know, what do you expect on which a functionality you want a full feel? So I meant for use cases that we have
+[1:03:37.2]  Ah, including the stander relationships
+[]			 We have lecture on that
+[1:03:41.0]  So to summarize, that includes the squad bay
+[]			 What you have with this is a set of a description that it included in tow
+[1:03:48.4]  Many more than one use cases you wanted
+[1:03:54.4]  These tracks that apart want to extract the common feature? Come on distribution description from the modem
+[1:04:00.8]  I use cases and have a separate of New Year's cases
+[1:04:03.5]  So, for example, if I have this space cases
+[1:04:04.7]  You have a list of the year's case, right? So you have Ah, what added to the situation and take out
+[1:04:12.1]  But all include a logger hidden that you have to have a listen
+[1:04:14.8]  Taking reaches out
+[]			 I am still and the is that include a relationship
+[1:04:22.7]  So why have? Sorry we have this is tender relationship, which is optional
+[]			 Some of behaviors that's really good
+[1:04:33.4]  Heil basis implicitly included behavior off values cases either one or more than a specific point
+[1:04:42.4]  It's an optional and provided more additional information
+[1:04:50.0]  So, for example, you have with a base case you have cancel your order, but I want to check older status
+[1:04:51.8]  You don't have a checker orders that you just go ahead and cancel it, but give you a high rate
+[]			 It's something would be nice toe have on you haven't extended
+[]			 Okay, Right here
+[1:05:01.2]  The pages in toward I wanted your pain
+[1:05:02.9]  Titian, tow this arrow
+[1:05:24.7]  Okay, This is a from the arrow is from East Anya that use cases in here from Elise appointed a bike into the base, it on the from one that is from the base case appointed that included a Why is it from the standpoint of the base cases now? This is how about have finished the use cases diagram
+[]			 Let's talk for a sequence of diagram
+[1:05:38.2]  Six would quite tight gonna focus on the time timing order off the message, the passing between those even the components and I couldn't afford it
+[1:05:46.2]  And our social with that design working flow that within the rock on the original unified processes
+[1:06:05.9]  So the development of the team uses a sequence that army information to toe decide where do they are? Sign these operations on particular class on the wires The import of ours are put on the words of this our goal Who's the recipient off? Those are port
+[1:06:09.2]  So then they can assign this object on those diagrams to, For example, if you have ah, actress here off the class, this is here This just example the notations
+[1:06:26.2]  You have one event going forward on every event operations ongoing, clinical coming back to the self
+[]			 And then from here you go here and I saw coming out
+[]			 So this is just the notation
+[1:06:37.8]  So if you have ah, the library locking, you can say hi here
+[1:06:40.7]  I love ian off the longing I needed to check out of my books
+[]			 Go the book
+[]			 I want to see that the book has checking out and out
+[]			 And I give you how many date you can check out a book
+[1:06:52.4]  And I said printed my, uh, my confirmations and then coming back two of the user
+[]			 So one is very similar to the secret's diagrams
+[]			 A collaboration diagram on this diagram is removed from the latest version of UML
+[]			 But I'm still talking about right here
+[]			 So in case you see the collaboration diagrams and you know what is it they're about? So secrets
+[]			 I want folks on the timing features can see here from the timing from alive to to write so but the words the collaboration diagrams of folks on local organization off this objector
+[1:07:33.2]  So which is the first and which is a second overhead? I want me here
+[]			 Yes, and in a rational rose, which is the rational sweeting enterprise that the software systems on that you have cocoa
+[1:07:43.4]  Sweetie, I've fine Mike rice as a five
+[]			 It show you a collection diagram
+[1:07:49.7]  Well, uh, price High five again
+[]			 Give your secrets diagrams
+[1:07:54.6]  So So you're a collaborative diagrams the folks on the structural information Where secrets dog what my folks on the timing feature
+[]			 So let me show you these the same diagram we had before
+[]			 Right here
+[]			 If I want to come work back into collaboration diagrams is right here
+[]			 You have same thing the actor names and you have already across
+[]			 They have a first of all even to come
+[]			 Here you go toe operation
+[]			 Go to here and you can have our own
+[]			 He object
+[1:08:22.9]  Three
+[]			 You come here and then just go
+[1:08:28.8]  So here, really showing the organization organize your meaning was the component ever have and how they're flows She moving on the information moves it flows among those objects right here
+[]			 What is that? These two really focus on the timing features and essentially that the same thing
+[]			 Now let's move on to the structural models
+[1:08:52.0]  What about it? That the details The company on component the strata models um, off the suffer thes thesis play the our transition off assisting with in terms of the components that, um it is a part of these yourself
+[1:09:08.7]  Arcee statements under this is structural
+[1:09:12.8]  Could be statics on
+[]			 Did it could be static
+[]			 So would you show the structure designed? Just that doesn't change
+[1:09:24.7]  And I could be dynamic, which is told in our organization off a schism being executing, Uh uh oh
+[1:09:32.8]  Probably triggered by data on the crop, Probably triggered by event
+[1:09:39.1]  So you create a structural models over the system when you're really discussing Ana the cynicism architecture, on the particular you are my diagram
+[]			 We're using a static structure over the season
+[1:09:47.9]  Classy suffer
+[1:09:53.5]  Assisi was So we do have a conscious
+[]			 You have, Ah, consultations that you have on class names actually do the operation
+[]			 Do you remember? I told you of this operation is optional
+[1:10:04.9]  You could've just how class by the self you could have classes on li'i reviews
+[]			 I'm just so you're clear operations
+[]			 But it never realize that example is the purpose of having this operation
+[1:10:18.3]  Operation CI operations changed the value off this tribute
+[1:10:30.7]  So, for example, verify there's a possible or you have a possible than the attribute of the idea the possibility to verify possible changes, please
+[1:10:39.9]  So this is the mental hell mother or health care classes diagrams on their association
+[1:10:47.3]  The first of all, we have these conversations
+[]			 Well, patient in a central place of the patient patient
+[1:10:57.9]  The conversation could have a more than one conditions, and then all commission could associate it with a more than than patients
+[1:11:14.1]  And the patient referred to by one general, Dr and then one patient has consultant consultation could have many consultations and then model considering and count how multiple patient and the patient referred to to buy one consultant on the consultation
+[1:11:24.8]  Call the wrongs by more than one doctor's 1 to 4 doctors in this case, and it's a consultation in the describes
+[1:11:30.9]  The medications on the described, you know, just describes the morning treatem it, so they suggest a classes under they are relationships on the unit's a prodigal class, and we only have made Mrs We don't have a tribute
+[1:11:49.7]  We don't have our operation because that we want to show the beacon structure
+[]			 Now, how about it is a generalization
+[1:12:04.2]  Do you remember that the generalization relationship is what is a parent and child relationships? So in a modern insistent, missing is your often is used to examine the class in assisting to see with the scope of this generalization being how many's causes of you
+[1:12:15.7]  He hurt from that other parenting classes and you have one chance in tow
+[]			 One particular class
+[1:12:20.5]  How many debut? Aw, factor
+[1:12:22.4]  Classes are come in
+[1:12:24.1]  You're fucked you to buy that a particular change so you object or into the long with your sends
+[1:12:29.1]  Sancho Java generalization is used
+[1:12:31.9]  A classy hurricanes mechanism will implement beauty into those languages
+[1:12:40.4]  And again, a generalization sends the attributes on the orbiting associated with a high level class
+[1:12:43.3]  I also suit with a very low level
+[1:12:52.1]  Cars agree is really just from out even the live oaks and from the lower level class region
+[1:12:52.6]  Several class
+[]			 You hurt the computer from your super class and they're so those of lower class
+[1:13:07.6]  It can then be more specific, actually with operations that to themselves in the addition to some of the common attribute that you inherited it from your parents class
+[]			 So this is a generalization
+[1:13:14.8]  Hard
+[]			 He so in the our example of the health care, right, you have doctors
+[]			 So I have a hospital
+[1:13:25.2]  Doctors
+[1:13:26.4]  We have general practitioners
+[1:13:34.8]  Um, puta, you harder from the doctors on a former hospital doctors that you have consultant now team doctors deeper team doctors
+[1:13:36.2]  You have trainees
+[1:13:37.4]  You have a qualified the doctors
+[]			 This just the A heart
+[1:13:42.5]  You heard of the hierarchical feature off? This is a generalization
+[1:13:56.1]  Once you have ah, aggregation, which is the whole part of relationship that the motor shows how classes that are collections are composed the off other car season
+[1:14:01.6]  So it's really that you have paging the record, and I have a patient that I hold consultant and consultation
+[1:14:07.3]  Right, Carter? Oh, located a to the patient's record on the kid
+[1:14:10.5]  Be minded while you have the whole on, ah, part of addition shape
+[]			 The whole class cannot exist that you're part of this apart across is amazing
+[1:14:21.0]  So you immediately is a patient of record on Lee
+[1:14:25.8]  Have what is a consultation, right, Carter? Then the patient records Welcome
+[1:14:27.7]  Okay, He's just keeping you mind you
+[]			 Where's the base? Is different
+[]			 What is it? This is different
+[]			 Not as in long tour
+[]			 The behavior model behavior models are models off these
+[]			 The dynamic behavior is why off the season, leather is being executing Ah, particular functions
+[1:14:54.4]  So they show really what happens? Ah, What is re supposed to happen next one
+[1:14:59.5]  The system responded to a trigger
+[]			 This is trigger is a stimulus
+[1:15:04.5]  You know, Austin, allies from a stimuli from external environment
+[1:15:10.4]  So those are steam allies can have Ah, can be two types
+[1:15:18.8]  Why is the data Why is event The data arrives? That that has to be a process that by the support of your system, or you have this even to say the even happen for example, you, for a certain level, the water levels reach a certain point
+[]			 Then you vote for your plant should be turned off
+[1:15:38.1]  There will be the the event, So even a may have associative idiot data off course, right? Although isn't me
+[]			 It is not always the case, but the most of the time event are associated with the data
+[1:15:52.0]  So this is how you see the first of all, the first part of a detached
+[1:15:53.1]  Even the model is soon
+[1:16:01.4]  So many of those who have business systems have all these The data process, you know, validate a richer than us stayed under the data must be processed
+[]			 And then it's the state of processes on the data move the state move from Well, the system will move from one state to the next state
+[1:16:16.3]  So these How'd your models show the sequence of obligations You vote a processing input of data on the generator output
+[]			 So this is really the key words right here
+[1:16:28.7]  Okay, So they a pretty girl used for one season on the nicest off the Indian in your processing, the say six
+[1:16:35.7]  So let's give the example, uh, for people who are diabetic, right? They needed to measure their sugar level
+[1:16:39.7]  The OSHA guy was a high
+[]			 They needed toe
+[]			 Have this to release insulin on the people
+[1:16:46.5]  Invited
+[1:16:47.1]  The usual in punk in there on the arms are somewhere
+[1:16:56.0]  So first of all, you have this sense that brother sugar sensor detective, your sugar level, and then you get a sensor values to see what's the big deal
+[]			 And you cover center data on your computer
+[]			 Your sugar level on your sugar level
+[1:17:10.1]  What on the is high or low on New York? Depends on how high it is
+[1:17:13.8]  You can agree that was insulin delivery
+[]			 And then you have the insulin requirements
+[1:17:18]  You calculate the pump command how much I wanted to hunger the easily out
+[1:17:23.9]  And you have ah, Palm Control Command
+[1:17:25.8]  You have control pumps and you have a easily in punk come out
+[]			 So this is a very good example
+[1:17:44.0]  Off activity and models off crosses the data on the you must process data from input and the output on goto system from whence did the next days
+[1:17:50.5]  So older process that you have ah, used to be alternative sequence, doctor
+[1:17:56.3]  I'm assuring the secrets of processes you have will say I feeling in my order on a validator
+[1:17:57.4]  Your filling in on there
+[1:17:59.2]  So evil validations
+[1:18:00.6]  Okay, you're updating your mama
+[1:18:02.9]  You save it and you send it to the spires
+[]			 Those will be the the date, huh? Example
+[]			 Another type of all the talk about it, the behavior as event driven
+[1:18:20.4]  So why you wanna driven Asia? You have real houses in that often we don't even know Julian
+[1:18:23.2]  So which is? Ah, minimal data problem
+[1:18:25.3]  We won't have a minimum thing that crossing
+[1:18:28.0]  So from example one land lying phone, sweetie
+[1:18:29.1]  Sitting response to events such as the receiver off the hook
+[1:18:33.9]  Okay, the generator diet homes
+[]			 So there's the event
+[1:18:46.2]  So you gonna do the modeling, shows the houses and respond to our eastern all on the internal event and that those are very often as cover owns demonize
+[1:18:55.9]  So while the steamers of you cause the transition from one state to the other and this is really what we talked about a lot in Autonoma, the fine under state, uh, a Haman
+[]			 Right
+[1:19:05.9]  So your computing was the cross you take, Um, former languages
+[1:19:13.9]  Cast away your former longer to cross you talk without harming her
+[]			 So you form your longer classes
+[1:19:19.5]  You talk about your finances without Honda and Utah breath deterministic right
+[1:19:21]  Amount of humanistic machine, and that those are have a whole bunch of all
+[]			 You have a trigger moved from one state to the estate
+[1:19:27.8]  Whether actually, why? Don't tell
+[]			 But here I want to give you just that
+[]			 Peter, what use is this? A compass stated machine
+[]			 When you have a program, Languages
+[]			 You see Max over there
+[1:19:43.5]  Use the covers
+[1:19:43.9]  Freak
+[]			 Don't
+[]			 Come on
+[]			 So, um, we won't
+[]			 We see we have a state
+[]			 You buy one of these
+[]			 I in state except one 101 sign
+[]			 So what? This is my state of one
+[]			 So we stay
+[1:20:05.9]  Why do you have a okay? Starting point
+[]			 You have one more thing
+[]			 Some one on one
+[]			 What and then stated
+[1:20:18.9]  And you have 01 comedian
+[]			 Right? And I think we have a while coming in
+[1:20:32.0]  What do I do? What is that? Finest? So you feel you have a one coming in? What? He said I was zero
+[]			 But over here, one come here
+[1:20:48.7]  But armies fighting on another one from me
+[]			 But have you come here If you meet zero
+[]			 Although I move once, they already have
+[]			 You come to zero
+[]			 So once you know this is how do you move one? They sound the important
+[1:21:13.7]  You see the moon from Wednesday
+[1:21:19.6]  It's called a on the language of a comet
+[]			 And this is how you are? Probably This is a This is like how do you, uh your computer works
+[]			 You can't come
+[1:21:41.2]  You want a company car? How hard is it? Based on comments free, grandma
+[]			 So how? That's the compound
+[1:21:51.3]  I know that You see, except classes 55 Yeah
+[]			 Two
+[1:22:08.2]  What sent you? You rather this expression? So this he sent it was go young with your grandma? Why? C um Why see it? Laughter policies come in
+[1:22:11.5]  You give me a lot of apprentices
+[]			 I think I'm more of a new state
+[]			 What? You you have all this in this number? He's at another
+[]			 I see This is the operator compiler sense because the operator I'm gonna stay
+[]			 And then you Are this a point? Oh, but you see human, another member, another state for okay
+[1:22:49.0]  Now, if you didn't do me, this is a writer, right? You write some five pacify media that you give me a cross
+[]			 Then I said, Oh, I don't know another right open season
+[1:23:04.4]  But you give me a these one you Can you write a president? I will say that give you a body 30 version off with a compound at work
+[1:23:14.0]  So you feel you skin me another meeting right here, Officer
+[]			 Remember why you didn't give me the writer from this is that I bought another operator
+[]			 That's all for now
+[1:23:36.4]  How does a compiler flags? Because a place down here there's a grammar and that I could write a glamour for that
+[]			 So how do I write that? A grammar
+[1:23:41.7]  Just write a simple where Marcie actually exist
+[1:23:51.0]  Remember, Blossom Member, you call it no grammar saying comets frequently, I would see that his oppression
+[1:23:56.1]  He calls that expression
+[1:23:59.4]  What's the use? Oppression? What's my expression? I have defined expression
+[]			 That's what
+[]			 It's a number four, huh? I did
+[1:24:13.6]  Number will be easy to ride
+[1:24:17.6]  Went 2345 Idealism
+[]			 I'm I identify her
+[1:24:19.8]  Identifies the horribles
+[1:24:22.3]  Okay, you spread your my idea is what I do already
+[1:24:28.8]  Fighter
+[1:24:34.9]  Okay, So starting tonight and then right, or it's a minute
+[1:24:44.9]  How do I find it was a horrible can
+[1:25:09.5]  I was started with a member of my star with the lighter What is in my digits be 101 And how do I find in my letter, that is, he had a Z Everybody that I'll give you a grammar already lead early
+[]			 How does come harder? Check to see if your Howard you're right
+[]			 All right
+[1:25:24.8]  I use these on a year's island
+[]			 Just stay the machine
+[1:25:29.5]  What is it? He's a Quaker simple workout, but this is a very important
+[]			 So you want to take the virus called one of the good
+[]			 Your formal language class
+[]			 You want to get a from that? Very important
+[]			 So this is what they talk about
+[1:25:43.3]  A finalist a the machine at home so state of mushy model
+[1:25:53.4]  You know, again, we know how a trigger on that We need to have a stimuli which is arguably example to see
+[1:25:58.4]  We just stream You're working on compiler treating your programa as a gigantic a stream
+[]			 They don't know it was your state
+[1:26:04.4]  Amanda, what is the What is the stadium and what is not? They don't know
+[1:26:07.7]  They just treat like just feeding me the stream
+[]			 And I go through my grammar And I were on a check of one by one
+[]			 And everything is not what I expected
+[1:26:14.8]  A mega token
+[1:26:19.9]  The compiler treated all the members of pregnancy
+[1:26:20.9]  It's the operators as a token
+[]			 Right? So you what I expected the next token
+[]			 It's not what you gave me
+[1:26:28.5]  I've Lucy reject
+[1:26:29.7]  Why's he rejected of Lucy? Syntax Carol To sit in the machine shows a system of our models on the vendor
+[1:26:41.0]  There are Arc speech in those in those, and this is a state of high crimes are integral part off UML
+[]			 So now we talk about a state stage
+[]			 Are is a condition in which objects can be idea
+[]			 At some point you lose the love time just like I did give you example so object it can do Ah many off
+[1:27:01.6]  This is the end of this falling progress state
+[1:27:02.9]  Perform your activity, waited for the event or says if I won or more conditions on again between something we call a transition to transition is achy and of our object from Wednesday to to another
+[]			 And then we covered this event actions on
+[1:27:24.1]  But also you could have ah, even actually Mrs actually executed unconditionally
+[]			 It doesn't matter
+[]			 You can passing by earth automatically
+[1:27:30.7]  And now But you have a guarded condition
+[1:27:33.1]  We should bullying you must be too in orderto execute of him in order to move for when stated to the other
+[]			 I don't want to use a former I said Carter
+[1:27:43.2]  Commissions on the event is a car reclamation and evil police are false and no st changes occur
+[]			 Let me give you example right here
+[1:27:57.9]  So you have ah state and the transition locations Postings returning books shipped Stay the one state
+[1:28:04.9]  So this just in some off the So this well hasn't no finger for these silver transition back to this self
+[1:28:13.5]  And this a tree Galis transition menu
+[]			 I don't need a have any trigger
+[]			 I will automatically move from one state into the next state
+[1:28:21.6]  They can't trick Elise
+[1:28:27]  So in which you wait, that has sold Fried about
+[]			 This is a a tradition with the action, you have a shipping, which is the estate
+[1:28:38.8]  All right, this another state of ship? How do I move my system from a shipping toe? Shipped? It is the you want to set off
+[1:28:42.3]  A few are flagged
+[]			 That's the transition with action
+[1:28:49.3]  Or you don't have a guard collision
+[1:28:50.7]  Part of country
+[1:28:51.3]  You have a boarding commission, which is a fact that behavior off the state of machine by enable these actions are tradition on Lee
+[1:28:59.8]  When the condition being evaluated to be true, the way help aching state to shipping stating one is one packages ready only that it will be true Then, which is the garden right here
+[1:29:17.6]  It's got posted to a G L, uh, your general catalog, right? You put it that it's true
+[]			 You can say packages writing anything from a sheep sheep package into a shipping
+[]			 So this is the example
+[]			 How do I have the state and the state can go back to yourself? So this my starting state on this my ending state
+[]			 You see, my double circle is my ending on
+[]			 The solid is my starting
+[1:29:42.7]  So I retrieve books
+[1:29:50.4]  Have you go back to myself? I want to buy 10 books, so I want to go back 10 times and then you're gonna move from a packaging
+[1:29:53.1]  So this is the guarding condition
+[1:30:00.2]  Why? This must be true unwto shipping and the ones shipping just automatically to wonder
+[1:30:02.9]  And this is a commission high Penda, you goto shipped and I finished this in my state
+[1:30:09.4]  Well, there's the whole thing, is it? Begin toe end
+[1:30:14.4]  So there's a lot of references a hovel, Lee's own lecture, But the for this Doctor
+[1:30:25.4]  What? I like to remember the kind of take away from the fracture
+[]			 A lot of information right here
+[]			 You shouldn't know that
+[1:30:35.7]  How many views going to have to describe the system? They're contacts the behaviorist
+[]			 Right? So let's get one thing
+[1:30:47.5]  And also, for particular view, which diagrams can be used to describe that a particle of you? It was really about coming down to this a slice
+[]			 Yeah, right here
+[1:31:06.8]  How many viewers did they have? Yeah, the season prospective, right? You have a use eternal perspective introduction, prospective structural on behavior for all of those
+[1:31:19.1]  You anything if I want to describe that of you, Which is why Why am I can use which you two do I use would acknowledge Do I have to describe that A particular view? So that's what I wanted Your take out take away from the selector
+[1:31:29.9]  Okay, That should take a break on the comeback of you'd Hope on a midterm
+[]			 Which is gonna happen in two weeks
+[1:31:36.8]  October What? 13 2030 23rd
+[]			 Okay
+[]			 Yeah
+[]			 Yes
+[]			 Everything
+[1:31:42.5]  Exams
+[]			 What? No
+[1:31:53.2]  What a cumulative Karan Comprehensible
+[]			 What? Oh, could it be? How any? I don't have that yet
+[]			 I need to make it up in the making
+[]			 You're funny
+[1:33:00.7]  December, right? No
+[]			 For like no one has
+[]			 I've been here so long
+[]			 Let's talk about ah meter u turn
+[]			 We will be in two weeks
+[1:43:03.6]  Toe Wednesdays, October 23rd
+[]			 Okay
+[1:43:09.6]  Me tomorrow will be because we have seasons learning students
+[1:43:12.6]  Um, we go, How meter More
+[]			 Right here
+[1:43:18.1]  I didn't in the cross or Fourth East is learning
+[1:43:21.6]  You can use it really Under two parts of students
+[1:43:22.8]  Summer student can come true
+[1:43:25.1]  Ask him to take the exam
+[1:43:29.1]  You cannot make it on Dhe
+[]			 You needed to go to go to our own, even in on Thursday, even even
+[1:43:45.7]  And if you're really, really remote somewhere, you could we have a student here
+[1:43:50.3]  I think Adam seen Tallahassee
+[1:43:52.8]  And then we have to find a local proctor for those students
+[]			 We'll see you right out anyway
+[1:44:11.3]  So the topic could own that me term will be Focus on everything I'm thinking outweigh two hour lecture Doesn't include today's lecture
+[]			 All the material form last week
+[]			 Okay
+[]			 So that if you include Ah, we have suffered engineer overview
+[]			 You talk about a the process I job processes that we talked about use cases on those air
+[1:44:43.5]  Just a major three come component on the lecture we talked about today we don't Don't worry about the fall of this exam
+[]			 You're far apart for next
+[1:44:49.8]  So for any sovereign jing off of you, you need to know what is sovereign Jean Ace
+[]			 And what is suffering you? Not So
+[1:45:03.6]  Have you posted these on Amy opposed this
+[]			 Come on, come on
+[]			 So, um so people talk about Oh, I'm taking sovereignty in class right now, so I believe you should know
+[1:45:16.2]  What is it? Really? 17 8 Give give very professional dancer
+[]			 So what? It's over in your days
+[1:45:29.2]  Sell dresses
+[]			 Okay
+[1:45:30.8]  Some ingenious about a puting suffering tasty so that that answer getting more closer to the real thing
+[]			 That that answer is like somebody who never I'm with you from your mind
+[1:45:57.7]  The right from what you know, suffering doing is about how do you divide over suffer systems? This is just a small aspect of all the suffering Younis we talked about All over those kinds of trees of lady is the timing of requirements
+[1:46:17.4]  And tell the architecture we talked about the the desire rationale is that we talk about Oh, the style is it so? And then Now I'm asking you what its sovereignty you raises
+[1:46:19.4]  07 years about a sovereignty Wonder woman
+[]			 It is a right, but it's not the whole thing
+[1:46:22.8]  So you stealing? So that a question like that? Here you can zero okay, zero off the not only the exam get a zero for the whole cost
+[]			 Because I we talked about all of those that even a view is you in today
+[1:46:39.8]  You know you have 3 14 interview with the squad
+[1:46:42.2]  The system is a competitive behavior out off those
+[1:46:48]  So for those who never, never take a cell fringing class, their view is a 70 jeans quality about a prominent
+[1:46:51.5]  It's such a narrow view
+[]			 So you need to really looking to study that
+[1:46:58.5]  Have you just make that a question for you? I'm a gazelle, okay? And that you get it right
+[1:47:02.4]  You get 100% over that question you want, he may be the awful You got a zero
+[1:47:10.7]  Okay, so you need to know what? It's out in ji A's what is not
+[1:47:13.4]  And it would help a lot of Akron
+[]			 You someone
+[]			 I think it's a with her brother
+[]			 Okay, the reason we have examined this is I really want you guys have is a professional vocabulary to go out being somebody professional because I just came back from conference
+[1:47:29.0]  Oh, my God, it's exciting
+[1:47:31.7]  You know, all the conference tomorrow academical conference
+[]			 But I could have been Congress
+[1:47:42.6]  It's a lot of the industry there as well, So they have a every company you can think off with a major comedies there they are recruiting phrasebook
+[1:47:45.3]  Microsoft on LinkedIn was rather want, you know, lingering in right
+[]			 I know
+[1:47:58.9]  What's a code? I d was the Our tour is so, uh, Goldman Sachs, the banks and that how you d'oh the line off the link again? The co zigzags like airport
+[1:48:12.5]  So money still in the lineup, trying to assemble their eyes only on the Facebook guys
+[1:48:14.0]  Well, on America Salvage just anyway, So I wanted you guys pulled out of the cavalry can carry us Alva talking
+[1:48:24]  It doesn't matter if you're really cos science, major, or you are a mess
+[]			 You want to be professional
+[1:48:39.1]  Okay, So, case So what is the case? You know, how about a commuter 80 to suffer engineering on that you'll be able to describe died, so carry yourselves
+[]			 Hey, you know what? There's a three top of look, you know, I have a highlight
+[1:48:43.6]  Well, how, Lord, I will have the i
+[]			 D
+[1:48:46.9]  Use of the creeps
+[1:48:50.7]  You know, just that we have the video studios, this Arctic publication
+[1:49:00.5]  So you want to know, though, is it? And then you need to know what silver college age abuse so even designed self versus teams
+[1:49:01.9]  Another only Just a feat of my requirement
+[]			 Okay
+[]			 Yeah
+[]			 Oh, so evil
+[]			 But the sense are over there
+[1:49:08.1]  Doesn't censor, but the attack of the plants to water needed the water on out
+[1:49:17.0]  You have the sense it doesn't send it attacked
+[1:49:21.2]  The our, um, needed to lower temperature off the A C on out
+[1:49:24.1]  Okay, Those the world's fine
+[1:49:24.9]  Great
+[1:49:25.2]  I thank you
+[1:49:29.7]  But on the other hand, that's not a the only Holliday college attributes we're talking about
+[]			 You need to have a sort of lesson
+[1:49:35.2]  Does not know the only the cried here we are talking about
+[]			 You said you have to talk about it
+[]			 The summer called of the attributes
+[]			 If you would tell me that
+[1:49:43.6]  Oh, because one of the group's doing the Walter writing on the wall of water for the planet
+[]			 It doesn't help me, But do you tell me in a nice way I can understand it
+[1:49:57.4]  So I told them if you can read the light green like a yellow light was green lighted meaning water, the promise soaps
+[]			 You were happy
+[1:50:06.5]  Even yellow life meaning is in the care, right? If this is really the right line of me I'm super issue were dry
+[1:50:10.1]  So do you have the right and user interface with past animosity? To me, that is the usability part, right? You desire silver Super good super nice, but extremely hard to use Nobody gonna use that
+[1:50:23.2]  So this is the town called Silver called attributed we're talking about and I give you the bmw example
+[1:50:35.6]  I worked with the engine control system I was in Munich will be introducing you know, even the function cannot be calling every five millisecond is totally useless
+[1:50:41.2]  So what is The sufferer called the interviews
+[1:50:44.7]  So keep the minder
+[1:50:48.1]  Although I'm talking about Mrs Exam But I'm really want to reinforce of this knowledge
+[]			 You okay? Yeah
+[1:51:04.3]  If I ask you for you semi, we'd better to give me exam poses or the reason Give me examples So I see
+[]			 If you understand enough the example
+[1:51:12.7]  Is it for you to pass this? Imagine Tomie who? Show me if you're honest and are not right
+[]			 Yes
+[1:51:17.8]  So you meet Trevor
+[]			 You you Whichever way you can show your knowledge
+[]			 That's all I need
+[]			 So you can see a jaw diagram can possible my city to me cool if you write a description
+[1:51:29.8]  You seeing the old All right, Professor Carr? Almost than that
+[1:51:31.2]  Cool
+[]			 Whichever you can show your knowledge to me
+[]			 So just keep your mind
+[]			 Although those exams is that I'm not trying to give you a hard time, is another
+[1:51:43.1]  I never is another my my cup of tea
+[1:51:45.2]  I really want to reinforce this technology
+[1:51:49.2]  You so that whenever you why the hell Kristen was coming
+[]			 At least you return something
+[1:51:53.9]  Your mind on that I can be proud out for you if you yourself where you're being transformed the before you're taking this class until you finish this cause you think you know what? I really learned something from this cause that I do not always of my time here
+[]			 So this is really my way to reinforce
+[1:52:12.0]  See? You know, Justin reinforced
+[]			 Okay
+[1:52:18.7]  So on that you want to know what's the suffer process? We talked about the way we have a giant
+[1:52:19.8]  We have a scramble
+[]			 What hard those things
+[]			 Those are softer processes
+[]			 Why so process? You know, and you tell us
+[]			 Somebody suffer
+[1:52:26.7]  Given a process is out there
+[1:52:29.9]  We talked about the waterfalls we have with the evolution eyes the it doesn't matter what are there but that they have with them
+[1:52:39.3]  A fundamental activities must be described for all of those summer process models
+[1:52:54.1]  What are those basic activities? So So for example, even you have so many varieties off the thing about a concert A writer, the symphony orchestra
+[]			 So you talk about it
+[1:53:09.4]  But if you think about Sonata Sonata has a certain moment over there, it doesn't matter who's the sound that it is well, isn't even say this bill under some other
+[1:53:17.5]  And you must have those based basic moment that you might say a certain code her You must have missing Finish that you know there's a pre loaded I will finish this
+[]			 So you need to follow that the political structure
+[1:53:30.5]  So the composer doesn't mind that your photo this remark trousers So here what I'm talking about When I told her several process it doesn't matter which is processed Evolutionary, you know waterfall You talk about the synchronizer, stabilize the models Something would have is a basically activity You must have So we talk about a wonderful models evolution Malta inspire him all those and so looking also we talk about other requirements
+[1:53:51.2]  So we talk about a specific that I really emphasizes so much about that requirements definition are requiring the specification are different
+[]			 So which will reach your audience? We are we're talking about
+[1:54:03.4]  We're talking about the Regent document here
+[1:54:06.0]  We take particular importer on a particular out porter
+[1:54:20.0]  So for our requirement definition, which all these we're talking about, a whole read night of proportion you promised specification holds the audience are on was the input of all the crime of sophistication
+[1:54:23.8]  I'm a cop, but it was a function of prominent nonfunctional comments
+[1:54:25.6]  Functional cram
+[]			 It doesn't mean that just the functionality after 60 it doesn't mean that is the squad the function that I take okay, Because the word is that they're already function
+[]			 So I want you whenever you Also there's a question
+[1:54:44.3]  I want to have a virus streak the answer
+[1:54:46.2]  Meaning that I want a secret
+[]			 I don't see the professional answer to that question
+[]			 Just oh, function
+[]			 No crime in that
+[1:54:53.5]  This is a scribe of the function
+[]			 The function off the system isn't what it to the right
+[]			 It's an old one
+[]			 It's not
+[]			 Is it totally right
+[]			 It is not so what I'm looking for
+[]			 I want to see you
+[]			 A transform of the hell you will understand
+[1:55:12.3]  The concept is so well, he's gravity
+[1:55:17.0]  Well, okay, So if I almost see that also say Oh, functional families of describe the function of a system black give you have You're going? No
+[1:55:30.7]  So what is the lung function requirements in the squad? Let me what I really sees died him might be the greatest student exams
+[]			 I want to see if you really understand the concept
+[1:55:37.1]  Not because there's a 70 years, lot of mathematics, another physics
+[1:55:43.7]  You produce a certain result How clear it clearly right or wrong answer
+[1:55:45.8]  Father, we have with this is what I want to see
+[]			 If you understand the concept not I want to see
+[1:55:57.9]  I want to make a difference here between somebody who didn't take of this cause, which is some of your took of these costs before
+[]			 So that's it
+[]			 Okay
+[]			 And what's it called it? The attributes you're talking about
+[]			 I understand that
+[]			 And it was the requirement specific in techniques
+[]			 So you go to a customer
+[1:56:14.8]  I won't use this insisting that you design your your robot to write your your your pie
+[1:56:19.3]  No, you collect your requirements it with a new guys doing official recognition
+[1:56:21.5]  So how do you go out? It'll crack the user requirement
+[1:56:28.4]  What's the ways that clock the requirements? Requirement? Solicitation techniques? And it was You'll get it, you crumbs from user
+[1:56:37.8]  How do you capture this requirements? Using our paper, you downloads
+[]			 I'll use what? Could you take this class? You have a one lecture only requirements
+[1:56:45.8]  Way data
+[]			 What did the techniques that we use it to capture requirements? How many techniques that we have? There's a piece of paper
+[]			 Yes, If he's a right, young days would have come to do so
+[]			 I understand that
+[]			 Okay
+[1:57:03.8]  And that was the difference of the trainer
+[1:57:05.0]  Vienna v
+[]			 You go out the industry, they talk about us
+[1:57:09.1]  So much of in every verification validation one is Are we doing the right thing? The other I was doing the right
+[1:57:17.8]  They are holding a different on the evil eyes
+[1:57:25.1]  Say that in terms of requirements, what do we do by VND in that a producer contacts in summer and then you talk about a validation
+[1:57:34.0]  Workers are defend Was the technique is so I can make a sure I've verified it
+[]			 Right
+[1:57:38.2]  What is technically make ashore? I make up my validation
+[]			 Right
+[1:57:47.0]  The next topic is a traceability
+[]			 No
+[1:57:50.6]  First of all, was the concept without trace it
+[]			 But what does that mean? Let me
+[]			 Yeah
+[]			 From one thing to the other
+[]			 Yes, that's got a tree's ability
+[]			 But your terms of software engineering, we need the tree's ability from other from your requirement specification
+[]			 You cram it
+[1:58:06.7]  Definition, poor requirement, this specific agent, and then we talk from a to the design
+[1:58:14.5]  We need a talking by the to the indentation on the our lecture
+[1:58:19.0]  We're talking about a three top of what precipitates Do you know that if you don't know, you better review with that
+[]			 Okay
+[1:58:25.1]  Rita
+[1:58:25.7]  Patrice Abilities
+[]			 So you So when you review this, we talked about this
+[1:58:32.7]  The meat from a radio Here, you review it
+[]			 I don't like you to be become like a just like study
+[1:58:41.7]  Uh, did examine Sam
+[1:58:43.0]  I want to you go beyond that
+[]			 It could be I live it
+[1:58:45.1]  Liberate yourself from being just a student
+[1:58:47.7]  Examined yourself
+[1:58:52.4]  I wantto I want a grasshopper that the knowledge united from that perspective
+[1:58:59.2]  Because you are quite your students, right? You're maturing out full
+[]			 So now that so
+[]			 I think I should really want to get it
+[1:59:06.2]  I really want to understand that the concept even you understand that a conservative you can understand that you can also aware
+[1:59:09.8]  So you've got two single trees about here
+[1:59:12.7]  What's that between what in a trice ability
+[]			 And the white is so important
+[]			 And that was the silver design with helping old with new design
+[1:59:22.3]  It's afterward
+[]			 So what is it? These I and we talk about the three levels over these I, by the way, what I'm talking about out of those
+[1:59:33.0]  Do you have anything that's rather a queen? Well, your mind
+[]			 Oh, yeah, that's what is she talking about? Oh, that's what our professors referring to you
+[1:59:39.7]  Do you always run the blank? Yeah, Your mind If I see all three levels, the signs come back to you all year
+[]			 I remember that lecture
+[]			 You do not? Yes
+[]			 Good
+[1:59:53.4]  Let's unwanted physical
+[1:59:57.5]  That's a wonderful So what did the three level of peace signs? Okay, that's important on the why the $3 designs
+[2:00:04.2]  So was the other energies off will have an explicit architecture
+[2:00:09.5]  So can we just the to suffer the vitamins don't tell about architecture? Isn't that through the development? Was the bandages over that? What's the purpose? That we wanna have occupation over there? Okay, so what's the purpose of? Was the goal tohave architecture? Why do we won't have architecture? And also Wayne Hubbard of Design
+[2:00:51.3]  You think science outdoor that these eyes of Ari subjective term just like anything, right? By the way, your car, What is it called a car? Even if people haven't even done through, some people go to Carmen, you're reliable
+[2:00:53.0]  Lost the fold
+[]			 50 years
+[2:00:57.9]  That's a good a car or some people younger guys, maybe like an evil lesson
+[2:01:02.2]  One of something really cool, Super sleek
+[2:01:03.7]  I don't care lots of what, 50 years? Five years ago
+[]			 Enough
+[]			 I want to change a new car
+[]			 So it really depends
+[2:01:14.6]  Would the's eyes of various subjective term So you this subject it Irma was the principal's off would leave these
+[2:01:18.4]  I doesn't matter what kind of these eye sty or how you have some principles you'll follow, and this is why I never told
+[2:01:25.0]  But these are architectures
+[2:01:25.6]  Always a thing about a house is okay, because that's where the term is coming from
+[2:01:30.0]  You know, your designer, Let's give design a building
+[2:01:35.6]  These eyes was the principles off the scent on the license off designs on DA We talk about a what kind of, ah design styles that we have a total of three cover design styles
+[2:01:47.7]  Repositories of crying service, abstract machine later that these eyes there's just there's just basically what so we talk about on the was the bandages off issue? Wouldn't Jason immediate particular systems which prejudices in when he was a particular design? So you were you You work for some, but they work for a company said, Hey, we're gonna work out for this CC, missus
+[]			 Would you style I'm gonna use You shouldn't know, huh? And the way you do your design
+[2:02:21.4]  How do you know that? Even you? Somebody proposes
+[2:02:32.0]  If you are to say you're a safety awful company on your receiver off three different designs off the system how do you determine which wise go to design? Which events? No
+[]			 Good design
+[2:02:41.4]  A lot of another like you're like something Not What is it? The characteristics that it describes a good design
+[2:02:50.5]  We talk about a component dependencies, coupling the cohesion, recovery
+[2:02:51.0]  700 years
+[2:02:53.4]  It'll be the father Privation on the fourth of tolerant
+[2:02:59.3]  So what is it gonna decide? How do you know this is brighter than that? And then we mentioned the particular one
+[2:03:10.4]  Now the lesson be ambiguous
+[2:03:11.1]  The visitor requirements
+[]			 Yeah
+[]			 Yes
+[2:03:30.9]  You should have less connections on best connections is a color
+[]			 What? Yes, that's what I'm looking for
+[]			 I don't want to use it
+[2:03:41.7]  You want to use a professional, Cavalleria, You don't see that? Oh, if it isn't, he signed
+[2:03:46.9]  The oe even tow these eyes that the commander has a lot of connections
+[2:03:48.6]  That Malcolm has a less connection could desire
+[]			 What's the term of all that company? Right
+[2:03:58.5]  You want to achieve a low company
+[2:04:03.2]  So that's the professional look capital to remind you also that all you have more connections Now who did? That's going
+[]			 Are you going in the right question? You are what? We'll give you full credit for that
+[]			 No, Right, Because you don't
+[]			 So what arms? Like I want to see the sign
+[2:04:36.1]  Yeah, I forgot
+[2:04:37.2]  I wanted to do us a beautifully so Okay
+[2:04:44.4]  So Oh, yeah, I want I know what the weather is
+[]			 A cool design on that
+[2:05:01.2]  I remember that original medicine
+[]			 So there's no one we can use it to determine that
+[]			 Free work with room
+[]			 Really used to this by a over
+[2:05:16.2]  Gina, is that you? C M e
+[2:05:21.6]  I was just in the ass
+[]			 Find my whole body over there
+[]			 So this is the framework
+[2:05:31.6]  We didn't have that he'd help what it's about
+[]			 But that's something
+[]			 Is it too? That's the key word here
+[]			 I know what did their treat out for what they are treating off what you see
+[]			 You treat off
+[]			 So what do you are treating off? Okay
+[]			 Yeah
+[2:05:52.5]  For which functions were tough with a cold
+[2:05:59.7]  Did you want to give you up? You want a car? Super bust
+[2:06:02.2]  You want you want, Chief, you cannot have a Subaru Foster
+[2:06:06.9]  And then she was gone
+[]			 Your mind? Yes
+[]			 Yes
+[]			 You wanted to treat out cold
+[]			 Call it
+[2:06:22.8]  You wanna shoot out calling the attributes
+[2:06:29.3]  So, um, the concept of substance in Modoc
+[2:06:31.4]  So is this Some sleazy mama do the same thing? So you're not why they're not the same
+[2:06:38.7]  So one is independent
+[]			 A component
+[2:06:40.6]  Provide a service
+[]			 It with some of the outside one is not
+[]			 So
+[]			 Find out
+[2:06:49.7]  How did he find the fever season? Modular
+[]			 So we'll talk about that
+[2:06:53.1]  Oh, for Kota suffer desire
+[]			 You must be modular design much be modular
+[2:06:57.2]  Spaghetti code is never good enough for getting media
+[2:07:00.3]  Everything the flight
+[]			 But it was a modular
+[2:07:08.7]  How did he find modular? And how do you say that? My design achieved a modular design on their way
+[2:07:13.1]  Particularly
+[2:07:15.8]  We talk about a two modular p conversation techniques
+[2:07:19.3]  Why is the our digital warranty? That design was the function or into the DEA's eye? What does a toad? Even aways? And I gave you example to break the system into a module, right
+[2:07:35.5]  I give you a summer winds of the the Unix systems, the pipeline station
+[2:07:38.5]  How do you make season one more murderer? And then you need to know that her we use it, eh? Coma model
+[]			 We use that for
+[2:07:57.9]  Do you? I for the estimation, right? How many men, Monk? The How many lies colder
+[2:07:59.5]  Euler, write for a 60
+[2:08:07.5]  And how do you estimate that Coco Coco mo model is wilder mathematical model that can be used to do with the estimation how many lives coda we can't have
+[2:08:13.6]  And it was a coke ago
+[2:08:14.1]  Mado stand for was a cocoa most ends for What is the was that he used before? Describe it, You know? Says they say if you go out before introducing this Ah, 60%
+[2:08:29.3]  I don't know how many lives colder gonna roughly How many? My mouth they're gonna use it And you see, what would you tell us? You have some off the techniques
+[]			 You know, we talk about some techniques
+[2:08:43.3]  Hop, hop down on that is analyses bottom up
+[2:08:46.6]  We'll have a design by analogy with Howard about expert in port
+[]			 All of those
+[]			 Even that way, you'll give me some of the examples
+[2:08:56.2]  So this is really belonged to eye for estimation
+[]			 I'm gonna write down
+[]			 How's that? I believe you're a consultant
+[]			 Okay
+[2:09:23.8]  You The facebook couldn't give you a product for your startup company
+[2:09:28.4]  How much do you charge them? Charge him by our
+[2:09:31.9]  So I say, Hey, I checked 100 feet without a sour, but these have you taken me? Probably six months
+[2:09:41.4]  It's a workout that's how, buddy
+[]			 How do you know how many? My mom
+[]			 It's not easy
+[2:10:03.3]  So when I would talk about the salty software design process with talk of the agile scrum is the ex piece, right? So first of all you need to understand that was the principles are a charity for a minute
+[2:10:08.3]  Why do we wanna have a jog about Amanda? What was the counterpart off this? Agile? We should call the highway
+[]			 Wait
+[]			 So we talked about it
+[2:10:13.6]  You know the Sparrow
+[2:10:14.0]  Amado's Rob
+[]			 Unify
+[2:10:16.5]  Original
+[]			 Your rational unified A process
+[]			 So was a problem with the order
+[]			 Have they waited it out of the module? Therefore? Because there have problems
+[]			 Therefore we have these
+[]			 Oh, we have
+[2:10:32.4]  This is my job and the worst of gold
+[]			 A thing off a job in a moment
+[2:10:35.0]  Help with a jar
+[2:10:37.5]  Jos, Address which problem? Ideo toe
+[2:10:41.4]  What? Your monetary act is something reactive
+[2:10:43.6]  Faster to something
+[]			 What is it? That is something we want to want to do
+[2:10:49.5]  A sovereignty vital woman that we want to react fast too
+[2:10:52.4]  Particular thing on anything is what requirements We want to react
+[2:10:57.7]  A farce that the chin your requirements Because a customer or fecal
+[2:11:07.0]  They keep a change in their requirements which is told in a normal hold it a normal Don't blame your customer told in a normal
+[2:11:09.5]  So they keep changing their crime
+[2:11:12.3]  So how do we keep reactor already But upon the soul, quickly to those changes
+[2:11:16.3]  Cheney requirements
+[2:11:28.3]  So this is what is them? I'd always boat Okay, So we talked about it in pensively about the ideal principles I could You need the endless than the spirit disappeared for a job toe in the world off this highway way to develop in the process that we have this age
+[2:11:40.1]  Oh, that's why the the A rumor for age I would be so popular right now
+[2:11:54.1]  And it's so particularly mentioned a scrum Jean understand? What's the basic building blocks of scrum? What is the rule? Drove himself with a particular honor which you have already, Schoolmaster, is that the Vatican team is what they're So you for somebody you go on the street, you know, go to the conference of which are just came bike and if you would talk about it Oh, where didn't scrum? Okay, does that briefly give me, like, three minutes one minutes, that description will score on the spot
+[]			 You shouldn't be able to talk about those bye
+[2:12:15.8]  And it wasn't part of the bag log
+[2:12:20.5]  So you want to send that you won't blend of those of a cavalry's into your conversation? Oh, this is we have a perfect bike along
+[2:12:25.4]  So we need to prioritize our backlogs on the evil you talk about
+[2:12:30.5]  Um, when I saw that people have the interview's over there
+[2:12:31.5]  Riley is so funny
+[2:12:35.7]  It's just so people have interview, write their lines
+[]			 I can show with Peter
+[2:12:37.9]  So justice, so interesting
+[2:12:41.4]  Probably intimate him too
+[2:12:50.1]  So you could talk about all we're doing is probably even teach me about doing the robotic on things I say, Hey, we are using the scrum practice to see within five minutes
+[2:12:57.4]  How did told we have a program by clog the prop guys are our over functionalities
+[2:13:00.9]  Withhold our professors, I told her, professor, and then also we have a spring by club, so you should be able to talk
+[2:13:05.5]  Blend all those of vocabulary is in your conversation, you know, interview
+[]			 So what I'd like to see
+[2:13:12.8]  So where's the partner backlog? It was this spring back lager
+[2:13:19.6]  And so why don't talk about a sprinter Reviews and Springer retrospective? Why is the focus on the products once focused on the process? We do want folks in the product
+[2:13:33.5]  We do want folks in the process some pretty good reviews, a sprinter ritual spectacle
+[]			 The process
+[]			 Okay
+[2:13:48.7]  And then why do we wanna have that was the purpose is to have those so understand the concept that extreme expose a pair of programming again another I want your honest in the spirit caliphate
+[2:13:52.0]  Okay, so to be ableto buy those and for use cases, we have, ah, one lecture in pensively on your cases
+[2:14:01.2]  So would you would talk about the comes every use cases, you know, now that just the So how do you define a how do you identify a particular functions? Yours cases
+[2:14:19.6]  So you want to see even that use cases provided value to the actor? I give it example Price the party on the elevator
+[2:14:22.7]  It's not a use case because doesn't provide a valuable to me
+[2:14:24.3]  I want to go upstairs, right
+[]			 So the moving
+[]			 So if you'll say input my password with my a t m machine, that's not a use case
+[]			 You're not a political concept
+[]			 Off course
+[2:14:35.3]  A sonar later
+[2:14:37.9]  You need to have improved Implement your password function than this different story
+[]			 But just for the a t m machine as example
+[]			 What? I really want it
+[]			 Just give me the money
+[2:14:46.4]  Deposited my money and transform my my my manage from one to the other
+[2:14:51.6]  Improve my passwords
+[]			 So you want to see even with the youth cases bring value to you Enough
+[]			 So the purpose of a use use cases of descriptions of value was right on
+[2:15:02.7]  How do you identify the amateurs? Primary actress
+[2:15:10.2]  The primary use cases on a secondary actress A second during those cases were important on their applications
+[]			 So you this here, you need to use the concept of boundary
+[]			 You know, who are how do I know which was the primary again? You would your contacts you're talking about
+[2:15:27.7]  There's some Congress would go down to the hour user cases, That lecture, remember, I have this Attisha lying over there
+[2:15:31.4]  The things off outside of specialized secondary we think might use out of my fashion line is my primary
+[]			 But again really depends on what you're talking about
+[]			 So how do you define the boundary? And they say, And that might help
+[]			 But it was the purpose off use kids
+[2:15:50.7]  A realization on the purse purpose off that Asia human Impatient
+[]			 I wanted to have a break with this year's cases
+[2:15:55.7]  You know, smaller pieces so I can implement my my sister realization used at the hotel
+[]			 The hotel checking check out as example
+[2:16:06.8]  Reserve the room was right
+[2:16:10.4]  And how do I break that? Assisting into a smaller one to realize my use cases
+[]			 Okay, so was the concept off, including extended relationships off those use cases
+[2:16:23.8]  You reach you on the waitresses circumstances, and you could use those two
+[2:16:28.0]  Are you Are you able to apply that control if I gave up your problem? Are you just draw on that? Use cases out for including the standard relationships and make sure your arrow goes well
+[]			 Okay
+[2:16:41.8]  Why is it pointed in your case of bass? Out of the point pointed a included in your case
+[2:16:52.1]  So that's about this one, because I think is not a fair if I included today's lecture
+[2:16:56.0]  So just the only bar about it to this lecture
+[]			 So this is the, uh, me term for next Wednesday
+[2:17:06.1]  They get you in class on the viewer cannot adjust the Come to Thursday evening
+[]			 Okay? Yeah
+[2:17:17.3]  Thursday evening from seven
+[2:17:17.6]  Crocker too
+[]			 Okay
+[2:17:24.5]  Yeah, that that that that is from a six to 7 30 0 70 Yeah, you can
+[2:17:28.8]  You can, You know, you gotta come here
+[]			 You gonna come here, take this exam
+[]			 But those 12 even examines it
+[]			 Only even think about it
+[2:17:35.5]  Nothing
+[2:17:37.2]  I want to tell you, Lisa, there's I feel there's, ah, regulation
+[]			 We won't take the exam
+[]			 I'm gonna have you sign out
+[2:17:44.4]  A firm, A table, A form
+[]			 Right? Because we have This is the season
+[2:17:47.7]  Learning, you know, is very important
+[2:17:50.8]  I want to emphasize there
+[2:17:52.6]  Very importantly
+[2:17:56.0]  So why you take these? I mean, you just cannot talk to the appear student by the CDs
+[]			 Yeah, just that you just cannot
+[]			 And after your regulation state in such a way, evil
+[2:18:04.3]  You're really wild
+[]			 It that you can be
+[2:18:08.0]  He's charged from the university
+[]			 It's a virus
+[2:18:09.7]  Easier
+[2:18:13.1]  So And I hope you'll have the phrase it paid off
+[2:18:13.9]  Examine? You have a sign your name to say, Have you making sure I don't know how people buy this, Okay? Because we do have this a decent learning
+[]			 All of those you have
+[2:18:25.8]  Ah, 18 minutes
+[]			 80
+[2:18:29.9]  Yeah, it immunization
+[]			 So we could have the exam
+[2:18:34.7]  First dynamic habit of someone kind of lecture afterwards, Wednesday to Wednesday's after not the next Wednesday
+[2:18:45.6]  Was likes the ones that Yeah
+[2:18:47.5]  So you have two weeks to prepare
+[2:18:59.5]  Oh, Thursday is s 0 47 learning if you cannot come here for your for these alone
+[]			 Your student? Yeah
+[]			 Yeah
+[2:19:03.1]  For for live, classier than you
+[]			 Come here
+[2:19:05.5]  But we will have Ah, certainties of learning
+[]			 Come here
+[]			 Yeah
+[]			 No
+[2:19:14.5]  Thursday's the Four Seasons running Students? Yes, the forties, earning their two groups off
+[]			 He's learning student
+[2:19:25.0]  Which one's called the super teas and burning
+[2:19:31.5]  Why is that they? Although the bigger the lecture online about the Derrick examines it
+[2:19:33.5]  Lackritz taking his class
+[]			 No way we will have
+[]			 So for all of you will take exam right here
+[2:19:43.1]  But we will be joined by some of the reasons you students
+[]			 I was there
+[]			 Okay? Yeah, yeah, yeah
+[]			 They say say much to be here
+[]			 Yeah, I never You have another Oh, tutorial for your project? Yes
+[]			 Next week
+[]			 Yeah
+[]			 Next week
+[]			 We're gonna have another tutorial
+[2:20:10.8]  Only found you kind of push it out for your okay
+[]			 Yeah, that's good
+[2:20:15.6]  And Nikolas? Yeah
+[2:20:16.8]  Max, awake
+[]			 We're gonna have something
+[2:20:18.9]  You're gonna have an attitude
+[2:20:19.2]  Hurry or to have a, uh, a project
+[]			 Yeah, Yeah, yeah
+[2:20:26.8]  For the t eight
+[]			 Yeah, yeah, yeah, it's good
+[2:20:30.9]  So, brio computer, did you bring covered last time? Have you come later? Oh, yeah
+[2:20:37.3]  But make sure you bring confident
+[]			 I style
+[]			 Good
+[]			 Okay
+[]			 Thank you
+[]			 Okay, good
+[]			 Nice
+[]			 Yeah
