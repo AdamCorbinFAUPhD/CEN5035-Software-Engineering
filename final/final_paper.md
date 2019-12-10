@@ -45,6 +45,10 @@ gaze helps with communication. The definition of gaze in this context the the ac
 in the direction of something that they are talking about. This definition also covers congruent gaze. The authors also
 want to see if no gaze or even incongruent(incorrect) gaze harms communication. 
 
+The authors are taking a simple approach at this problem by having communication and gaze to pick out a shape block on a 
+colored piece of papers in front of them. With these results they want to determine if it would be valuable to introduce 
+game in a robot communication.
+
 # Challenges and Limitations [15pts]
 ## Picard paper
 In general the Picard paper is very theoretical and doesnt dive into real experiments that the author has completed. 
@@ -64,6 +68,9 @@ the hypothesis category because we can only assume what might happen and we dont
 I also think is always good to question any hypothesis that's not proven out yet. 
  
 ## Speech and Gaze paper 
+In the Speech and Gaze paper they use relatively simple experiments. I see this as limitation but a great start for research
+in the space. The reason I see this as a limitation is  implementation gaze this in this case is pretty easy to do. I would like
+to know how this would benefit in more complex situations such as story telling or much more complex tasks such as home building. 
  
 # Author's Contribution [10pts]
 ## Picard paper
@@ -99,6 +106,20 @@ categories. Just recently I saw an article about how Amazon Alexa is adding emot
 A summary of the results show that in both Human to Robot interaction and Human to Human interaction result in the same 
 results that congruent speech will help the communication and then incongruent speech does not harm the communication.
 
+The authors set a base of going into what eye gaze does for the human to human interaction. An example brought up on page
+105 of [@speech_gaze14] how humans will take off their sunglasses to communicate and also how some humans will determine
+if they can join conversation in a group based off the eye gaze of the people in the group. They pull many other examples 
+from different papers to support the reason behind doing research in this area.
+
+Its fascinating to see that the results for incongruent gaze was better than no gaze at all. The congruent gaze outshone 
+all of the other experiments with ease. Both the robot to human trial and the human to human trial show the same kind of results 
+that congruent was the best, incongruent was second best and no gaze was last. The only difference between the trials was
+the human to human preformed better on all the cases.
+
+There was survey at the end of the trial with the robot and human interaction where one of the questions was did you noticed
+anything unusual with the experiment. There was a high perception of people talking about "building trust and then betraying that"
+or "she tricked me". That very interesting and something that we should really consider in the future research. 
+
 # Proposed Approach [25pts] 
 ## Picard paper
 ### Collecting the data
@@ -124,6 +145,20 @@ Take some of the training data to build the models and cross pollinate the data 
 It would be interesting to see how well the model preforms for the specific model.
 
 ## Speech and Gaze paper
+From the speech and gaze paper I probably would want to leverage what they have done but dive deep into a different direction
+and that is called trust. Yes we have seen in these results that and form of gaze congruent, or incongruent is a good thing
+for response time but the feedback from the participates of trust being broken really piqued my interest. 
+
+I would like to then replicate some of the same experiments but have a more detailed survey about trust. 
+
+I might want to mix up the experiments to have some participates where the robot was always correct and some where
+the robot was incorrect all the time. Also some where they were 75% correct and 25% correct. From the feedback with
+the users I would like to see how they feel about their experiments. The hypothesis is that gaze might be positive in 
+reaction time but the humans found trust issues with the robot. 
+
+I would be interested to see if this experiment could be conducted online with a video recording. Since there are only
+so many combinations it would be easy to create the videos for each of the blocks and replay them randomly. This could 
+increase the number of participants to the internet where I could crowd source some data.
 
 # Validation Methodology [10pts]
 ## Picard paper
@@ -141,8 +176,20 @@ against the blended model. There are lots of different combinations here that co
 overfilled.  
 
 ## Speech and Gaze paper
+From a validation perspective I would set it up in the similar way conduct the experiments on campus and ask the following questions:
+
+1. Did you like that the robot glanced at the object when communicating to you?
+2. How did you feel when the robot glanced at the wrong object?
+3. How likely would you want to continue playing this game if the robot behaved the same?
+4. How likely would you want to continue playing this game if the robot was more correct?
+5. What are you thoughts on trust with the robot?
+6. On a scale of 1-10 how much do you trust the robot?
+6. On a scale of 1-10 how much do you trust the robot to be your virtual assistant?
+
+The idea here is to really focus on trust and how that would relate to working with the robot in the future.
 
 # Future Work [30pts]
+In general I found this section really should be covered in the proposed approach thus you see a light section here.
 
 ## Picard paper
 I would love to reach out to the author to interview them on where they are at today since we are more than 20 years since
@@ -151,5 +198,10 @@ the paper has been published. I also would look and see if they have published a
 The next steps after that would be to look for another other papers out there around this topic to see what other areas to explore here.
 
 ## Speech and Gaze paper
+In summary of proposed approach and validation I truly think that trust is the number one thing for humans and robots
+to work together. If there is lack of trust there will be friction between the two parties. I can see that robots will
+play a large role in our society in the future and we need to start building that trust now. I agree that robots can help
+us with our jobs, our lives, and so on but if that robot is not trust worthy then I really dont see that kind of robot 
+bing successful in their duty. 
 
 # Citations [3pts]
