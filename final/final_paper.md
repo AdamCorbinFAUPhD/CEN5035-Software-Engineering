@@ -27,27 +27,27 @@ The picard paper dove deep into what are emotions and how they can be expressed.
 emotions from direct word translation, to visual facial queues, and even body language. Picard talked about how it can be 
 extremely difficult to accurately detect emotions since not everyone has the same behaviors of emotions. There are even some 
 non visual queues such has elevated heart rate or blood pressure. On top of that when trying to study the behaviors 
-of emotions on page XX [@picard95] talks about how even in lab experiments people might behave 
+of emotions on page 2 [@picard95] talks about how even in lab experiments people might behave 
 differently than in a non simulated environments. 
 
 After the problem of detecting human emotion there is computer decision making. Picard talks about how good decisions have 
 a factor of emotion involved. Too little emotion and too much emotion can be detrimental to the decision making process. 
-Thus Picard states that computer need to have emotion in order to have a better decision making process.
+Thus Picard states that computers need to have emotion in order to have a better decision making process.
 
-Interestingly near the last paragraph of summary Picard states that computer with too little emotion will not likely 
+Interestingly near the last paragraph of summary Picard states that a computer with too little emotion will not likely 
 "attain creative and intelligent behavior" but too much emotion the computer might "eliminate" us humans. 
 
 Based on detecting emotions then inputting actions to observe the emotions on seeking a goal of a specific emotions.
 
 ## Speech and Gaze paper
-In the Speech and Gaze conflicts papers the authors are trying to determine if when communicating with each other if
-gaze helps with communication. The definition of gaze in this context the the action of a human or robot where they look
+In the Speech and Gaze conflicts papers the authors are trying to determine when communicating with each other if
+gaze helps with communication. The definition of gaze in this context is the action of a human or robot where they look
 in the direction of something that they are talking about. This definition also covers congruent gaze. The authors also
 want to see if no gaze or even incongruent(incorrect) gaze harms communication. 
 
 The authors are taking a simple approach at this problem by having communication and gaze to pick out a shape block on a 
 colored piece of papers in front of them. With these results they want to determine if it would be valuable to introduce 
-game in a robot communication.
+gaze in a robot communication.
 
 # Challenges and Limitations [15pts]
 ## Picard paper
@@ -68,13 +68,14 @@ the hypothesis category because we can only assume what might happen and we dont
 I also think is always good to question any hypothesis that's not proven out yet. 
  
 ## Speech and Gaze paper 
-In the Speech and Gaze paper they use relatively simple experiments. I see this as limitation but a great start for research
-in the space. The reason I see this as a limitation is  implementation gaze this in this case is pretty easy to do. I would like
+In the Speech and Gaze paper they use relatively simple experiments but we have experiements which are interesting to me! 
+I see this as limitation but a great start for research in the space. The reason I see this as a limitation is 
+implementation gaze this in this case is pretty easy to do. I would like
 to know how this would benefit in more complex situations such as story telling or much more complex tasks such as home building. 
  
 # Author's Contribution [10pts]
 ## Picard paper
-Picard with into great detail about his psychological research about emotion and how they effect the humans. Also about how
+Picard went into great detail about his psychological research about emotion and how they effect the humans. Also about how
 this is important to understand when trying to connect a computer up to emotions and what that might mean and look like. 
 I personally got lost a few times trying to follow since I have never really done any research in the area but I did find
 if fascinating about where emotions come from in the brain and how difficult it truly is to map them out. Picard talks about
@@ -86,13 +87,13 @@ In general Picard highlights how emotions are a dominating factor to win over hu
 intelligent systems then computers much also embody emotions. There was an example on page 3 [@picard95] that went into
 the piano teacher on how to teach a student and how emotion used correctly will keep that student engaged. When someone 
 is learning something new and something becomes difficult that it can be a deterrent. 
-If a teacher makes micro goals and shows happy emotions on their progress that might "maximize intrigue.. and minimize anxiety"
+If a teacher makes micro goals and shows happy emotions on their progress that might "maximize intrigue.. and minimize anxiety" [@picard95].
 This might be something worth understanding when trying to build systems to interact with humans.
 
-Studying human to human reaction as a base for models and that it was even brought up an animal such as a puppy can 
+Studying human to human interaction as a base model and that it was even brought up an animal such as a puppy can 
 understand emotion even though they dont speak english. 
 
-Picard on page on talk about the 3 categories of affective computing.
+Picard on page on talk about the 4 categories of affective computing.
 
 1. Cannot perceive affect and cannot express affect
 2. Cannot perceive affect and can express affect
@@ -100,7 +101,8 @@ Picard on page on talk about the 3 categories of affective computing.
 4. Can perceive affect and can express affect
 
 Most machines right now are in the 1 and 2 categories but we are making some great progress to move into the 3 and 4
-categories. Just recently I saw an article about how Amazon Alexa is adding emotion into their responses [@cnbc]
+categories. Just recently I saw an article about how Amazon Alexa is adding emotion into their responses [@cnbc] which would
+fall into category 2.
 
 ## Speech and Gaze paper
 A summary of the results show that in both Human to Robot interaction and Human to Human interaction result in the same 
@@ -142,7 +144,7 @@ data here that would be a good source of training the models.
 
 ### Blended models
 Take some of the training data to build the models and cross pollinate the data so that we build a blended model.
-It would be interesting to see how well the model preforms for the specific model.
+It would be interesting to see how well the model preforms for the specific data set.
 
 ## Speech and Gaze paper
 From the speech and gaze paper I probably would want to leverage what they have done but dive deep into a different direction
@@ -167,8 +169,8 @@ more data to test out the models.
 
 ### Individual models
 From the proposed approach we had a few different ways to collect the sources. Then run the models on each test set to see how they preform. 
-Also cross run the models on the other tests sets to see how they perform. For example Run the Twitch model on the movie 
-model and vise versa to see how that goes.
+Also cross run the models on the other tests sets to see how they perform. For example run the Twitch model on the movie 
+test data and vise versa to see how that goes.
 
 ### Blended models
 The idea here would be to take some small sub sets from the test data sets from collected data, reality data and the movie data to run 
